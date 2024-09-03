@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sport 🇨🇳", 足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", 足球频道.
+https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", CCTV5
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="Sport 🇨🇳", CCTV5+
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
+#EXTINF:-1 group-title="Sport 🇨🇳", CCTV16
+http://zqjy.info/live.php?id=CCTV16HD
+#EXTINF:-1 group-title="Sport 🇨🇳", 咪咕视频1
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
+#EXTINF:-1 group-title="Sport 🇨🇳", 咪咕视频2
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270004
+#EXTINF:-1 group-title="Sport 🇨🇳", 咪咕综合体育
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270001
+#EXTINF:-1 group-title="Sport 🇨🇳", 咪咕精彩足球
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002
+#EXTINF:-1 group-title="Sport 🇨🇳", 咪咕冬奥雪上
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
+#EXTINF:-1 group-title="Sport 🇨🇳", 咪咕冬奥直击
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270006
+#EXTINF:-1 group-title="Sport 🇨🇳", 五星体育
+http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 group-title="Sport 🇨🇳", 魅力足球
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+#EXTINF:-1 group-title="Sport 🇨🇳", 劲爆体育
+http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+#EXTINF:-1 group-title="Sport 🇨🇳", 精品体育
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:-1 group-title="Sport 🇨🇳", 超级体育
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=4
+#EXTINF:-1 group-title="Sport 🇨🇳", 纬来体育
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育1
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育2
+rtmp://59.124.75.138/sat/md021
+#EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育3
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育4
+https://test.zapi.us.kg/?id=elta-sport4
+#EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育1
+rtmp://59.124.75.138/sat/tv731
+#EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育2
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育3
+rtmp://59.124.75.138/sat/md031
+#EXTINF:-1 group-title="Sport 🇨🇳", elta體育1
+https://epg.pw/stream/9bd68652b1c60157167e598cb294b5cf95f8a8de3d635786691fb675cb0b4549.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", elta體育2
+https://epg.pw/stream/eabee765a755801060969aaf054288397564c5b375f56b846d8470343ec19df0.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", elta體育3
+https://epg.pw/stream/7bf486c2034e27f65eed77b69e9d38fd2da31e86bde935cf2d1d6b07c53f2c36.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", 博斯運動1
+https://cdn1.us.kg/live/elta1.m3u8?token=BNNhEQVPuK_f9u4xjwG2PQ&expires=1724615890
+#EXTINF:-1 group-title="Sport 🇨🇳", 博斯運動2
+https://yeslivetv.scdn.eu.org/live/litv-longturn08.m3u8?token=kwXEIrUJOTi-2fA3LwUOAA&expires=1724617608
+#EXTINF:-1 group-title="Sport 🇨🇳", BOXSports1
+rtmp://59.124.75.138:1935/sat/tv731
+#EXTINF:-1 group-title="Sport 🇨🇳", BOXSports2
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 group-title="Sport 🇨🇳", BOXSports3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", 智林體育
+http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", MOMOTV
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 group-title="Sport 🇨🇳", 澳门体育
+http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", 欧洲体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+
+EXTINF:-1 group-title="World Sport🇰🇷", 프로야구 5경기(DB U+)
+http://1.214.67.206/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="World Sport🇰🇷", SPOTV(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/spotv1/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", SPOTV2(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/spotv2/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", tvN SPORTS
+https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", MAXPORTS
+https://d2zve2l62bwzcf.cloudfront.net/h264/handball01/hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", KBS N SPORTS(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", MBC SPORTS+
+https://d21rxjywdcts3g.cloudfront.net/h264/CH_G/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", SBS Sports(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", SBS Golf(DB U+)
+http://1.214.67.38/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="World Sport🇰🇷", SBS GOLF(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sbsgolf/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", JTBC GOLF&SPORTS
+http://mytv.dothome.co.kr/ch/catv/58.php/
+#EXTINF:-1 group-title="World Sport🇰🇷", JTBC Golf(DB U+)
+http://1.214.67.38/vod/60211.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="World Sport🇰🇷", 스크린골프존(DB U+)
+http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="World Sport🇰🇷", FTV
+http://218.236.58.185:1935/FTVLIVE_WEB/Stream_web/chunklist_w1794675765.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", 바둑TV
+http://tvbaduk-liveout-catenoid-net.akamaized.net/live-03-tvbaduk01/tvbaduk01_200k/playlist.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", K바둑(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", 빌리어즈TV(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/billiard/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="World Sport🇰🇷", 볼링플러스(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
+
+#EXTINF:-1 group-title="World Sport🌍", 曼联MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="World Sport🌍", 皇马RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="World Sport🌍", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="World Sport🌍", RED BULL
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="World Sport🌍", HighIight
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/Foreigntv_305.m3u8
+#EXTINF:-1 group-title="World Sport🌍", Tennis
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World Sport🌍", 德国 MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="World Sport🌍", 德国 RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="World Sport🌍", FOX Sports (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="World Sport🌍", DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="World Sport🌍", DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="World Sport🌍", beINSport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
