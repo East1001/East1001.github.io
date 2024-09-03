@@ -9,9 +9,9 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenl
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV4
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV5
-https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV5+
-http://zqjy.info/live.php?id=CCTV5PHD
+http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV6
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV7
