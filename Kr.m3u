@@ -1,0 +1,465 @@
+#EXTM3U8
+#EXTINF:-1 group-title="KBS", KBS1
+http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS1.
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch3/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="KBS", KBS1..
+http://mytv.dothome.co.kr/ch/public/12.php
+#EXTINF:-1 group-title="KBS", KBS1(BTV)
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 group-title="KBS", KBS2
+http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS2.
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 group-title="KBS", KBS2..
+http://mytv.dothome.co.kr/ch/public/3.php?checkedby:iptvcat.com
+#EXTINF:-1 group-title="KBS", KBS2(DB U+)
+http://1.214.67.206/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="KBS", KBS2(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch4/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="KBS", KBS News
+http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS News.
+http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF:-1 group-title="KBS", KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS World.
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="KBS", KBS World..
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="KBS", KBS코리아
+https://wms4-kortv.akamaized.net/a_live/92560551/smil:20ch014.smil/.m3u8
+#EXTINF:-1 group-title="KBS", KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS Drama.
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="KBS", KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS스토리
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="KBS", KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS Life.
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="KBS", KBS JOY
+http://mytv.dothome.co.kr/ch/catv/3.php/.m3u8
+#EXTINF:-1 group-title="KBS", KBS JOY.
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 group-title="MBC", MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="MBC", MBC.
+http://www.hwado.net/webtv/public/21_573058EB.php/.m3u8
+#EXTINF:-1 group-title="MBC", MBC..
+vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="MBC", MBC(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch1/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="MBC", MBC(DB U+)
+http://1.214.67.206/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="MBC", MBC광주TV
+http://media.kjmbc.co.kr:1935/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="MBC", MBC여수 1080
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+https://live2.mbcmpp.co.kr/etc3/_definst_/on/.m3u8
+#EXTINF:-1 group-title="MBC", MBC M
+https://live2.mbcmpp.co.kr/etc4/_definst_/m/.m3u8
+#EXTINF:-1 group-title="MBC", MBC드라마넷
+https://live2.mbcmpp.co.kr/etc1/_definst_/drama/.m3u8
+#EXTINF:-1 group-title="MBC", MBC드라마넷(웹)
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 group-title="MBC", MBC에브리원
+https://live2.mbcmpp.co.kr/etc2/_definst_/every1/.m3u8
+#EXTINF:-1 group-title="MBC", MBC에브리원(웹)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+#EXTINF:-1 group-title="MBC", MBCNET
+http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
+
+#EXTINF:-1 group-title="SBS", SBS(DB U+)
+http://1.214.67.206/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="SBS", CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="SBS", KNN부산경남
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="SBS", TJB대전TV
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="SBS", JIBS제주TV
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="SBS", KNN부산경남(모바일)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_7_10BA9897.m3u8
+#EXTINF:-1 group-title="SBS", SBS KBC 1080
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="SBS", SBS TJB 1080
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 group-title="YTN", YTN
+https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+#EXTINF:-1 group-title="YTN", YTN.
+https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+#EXTINF:-1 group-title="YTN", YTN(BTV)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 group-title="YTN", YTN2
+https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+#EXTINF:-1 group-title="YTN", YTN사이언스
+http://mytv.dothome.co.kr/ch/catv/261.php/.m3u8
+#EXTINF:-1 group-title="JTBC", JTBC
+https://jmp2.uk/SamsungTVPlus/KRBC46000173Y.m3u8
+#EXTINF:-1 group-title="연합뉴스", 연합뉴스TV.
+https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="연합뉴스", 연합뉴스TV..
+https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/4240af35-d89e-4df3-b98b-a554406b4b72/2.m3u8
+#EXTINF:-1 group-title="연합뉴스", 연합뉴스TV(BTV)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+#EXTINF:-1 group-title="TV조선", TV조선(모바일)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
+#EXTINF:-1 group-title="TV조선", TV조선(KORTV)
+http://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="채널A", 채널A
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
+#EXTINF:-1 group-title="tvN", tvN
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM5MjY2Mzl9.C6_kMT490DByiQhc9Pf2zuc4lzOWMdUF9RQ71Evlo2U
+#EXTINF:-1 group-title="tvN", tvN SHOW
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=xtm_540&sid=nX5rbWoPfFQlyfbpsELIy2CYWRWFZLIPv4Joorhh&secret=3f6e09bbf7f07cf964e8650b63da7439&time=1696829059
+#EXTINF:-1 group-title="MBN", MBN
+http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
+#EXTINF:-1 group-title="MBN", MBN(KORTV)
+http://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="인문•자연", 아리랑 TV. 1080
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", 아리랑 TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", Arirang TV
+http://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", 아리랑 TV(모바일)
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", 아리랑 TV(웹)
+http://amdlive-ch04.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", RNA
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+#EXTINF:-1 group-title="인문•자연", RNA(웹)
+http://10st.vcast.im/CHsoom/LIVE/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", 디스커버리
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=discovery_540&sid=Sz2f4xKshHy2jcpgR1nuooiPK0unToibHJMxJGiV&secret=19323c8237d45e57a38049ebcf9e0c26&time=1696829180
+#EXTINF:-1 group-title="인문•자연", 히스토리
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=history_540&sid=TK0I2Xz7nqdIfeqyNKtYp4pY2uZsLgp4ZVCA7FfO&secret=181191837cebd8be94743622b70a8a62&time=1696769342
+#EXTINF:-1 group-title="인문•자연", OBS경인TV
+http://vod.obs.co.kr:1935/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", OBS경인TV(웹)
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_55.m3u8
+#EXTINF:-1 group-title="인문•자연", EBC
+http://ekbc.ecn.cdn.infralab.net/ekbc/live/playlist.m3u8
+#EXTINF:-1 group-title="KBS", KTV 1080
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="인문•자연", 다문화TV
+http://10st.vcast.im/MYASIATV/SC82767452/playlist.m3u8
+
+#EXTINF:-1 group-title="음악•연예", 국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="음악•연예", 국악방송 1080
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="음악•연예", 한국가요채널
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="음악•연예", TV조선가요
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
+#EXTINF:-1 group-title="음악•연예", 실버아이TV(웹)
+http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+#EXTINF:-1 group-title="음악•연예", Mnet
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=mnet_540&sid=AsOLt6M8ZibJtg41QQpS1IOVyHo14N20vc5yOfxg&secret=de5e27a1dd05628fab9474b600aed6de&time=1696829052
+#EXTINF:-1 group-title="음악•연예", 아이넷TV
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=inet_540&sid=Msz2z6Mf8JLQct06444ofFy22Vv53yu1EIVOFIcL&secret=810fa895a59f979c61526b8680e41ff3&time=1696769297
+#EXTINF:-1 group-title="음악•연예", 이벤트TV
+https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
+#EXTINF:-1 group-title="음악•연예", 더라이프
+http://1.214.67.206/vod/05301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="음악•연예", E채널
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=CJOHhqYekkp5uvEfCwdtgBpK9VRFOJInSC0inuVD&secret=9d1cef06285673263abfa6e9f28de2f7&time=1696829085
+#EXTINF:-1 group-title="음악•연예", KFN
+http://mediaworks.dema.mil.kr/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="영화", TV1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="영화", TV2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="영화", TV3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 group-title="영화", TV4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+#EXTINF:-1 group-title="영화", TV5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+
+#EXTINF:-1 group-title="영화", 영화1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="영화", 영화2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="영화", 영화3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 group-title="영화", Groovv 
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="영화", OCN
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=smfv2nBmE68y3QNXipX7RVkdtvGDocgPJkSgX2fI&secret=57375caa38ba3f857e107ec8e27067ba&time=1696829056
+#EXTINF:-1 group-title="영화", OCN Movies
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=cgv_540&sid=F2W5wT3iKKB8MUqnX2rzvDQBscfzOhXWHvIV0iYK&secret=76343d55f8c2b1a7c402216302c858ee&time=1696829067
+#EXTINF:-1 group-title="영화", OCN Movies2
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=super_action_540&sid=mQcxOkZZUXjEEL12NiM5po2XJpDmUrSa8lE3EauO&secret=54e92c800b39c4b4250b8cb4abe7e934&time=1696829529
+#EXTINF:-1 group-title="영화", 씨네21+
+https://jmp2.uk/SamsungTVPlus/KRBD26000011V.m3u8
+#EXTINF:-1 group-title="영화", PLAYY 영화
+https://jmp2.uk/SamsungTVPlus/KR12000017G.m3u8
+#EXTINF:-1 group-title="영화", PLAYY 전쟁영화 특집
+https://jmp2.uk/SamsungTVPlus/KR1200002QR.m3u8
+#EXTINF:-1 group-title="영화", NEW MOVIES
+https://jmp2.uk/SamsungTVPlus/KRBC3200004D1.m3u8
+#EXTINF:-1 group-title="영화", SONYMovies
+https://iptv-web.app/US/SonyMovies.us/
+
+#EXTINF:-1 group-title="드라마", 중화TV
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=chinesetv_540&sid=D3SVvforjRkCVC7Abzdh2gFw3K4yAVNrtMdlfzaH&secret=8ab410c43edf3ddc0c0ed0a3a35cf10d&time=1696829072
+
+#EXTINF:-1 group-title="종교", C채널
+http://112.175.51.214:1935/live/myStream/chunklist_w424545528.m3u8
+#EXTINF:-1 group-title="종교", CBS TV
+https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/chunklist.m3u8
+#EXTINF:-1 group-title="종교", CTS기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="종교", CTS(모바일)
+http://schedule.zroad.tv:1935/live/ctstv/master.m3u8
+#EXTINF:-1 group-title="종교", 가톨릭평화방송cpbc
+http://mytv.dothome.co.kr/ch/catv/406_09227BF8.php/.m3u8
+#EXTINF:-1 group-title="종교", CGN
+https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+#EXTINF:-1 group-title="종교", GOOD TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="종교", BTN불교TV
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="종교", BTN 불교TV(웹)
+http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+#EXTINF:-1 group-title="종교", BBS불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="종교", 원음방송
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_409.m3u8
+
+#EXTINF:-1 group-title="어린이", KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8 
+#EXTINF:-1 group-title="어린이", EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="어린이", 핑크퐁
+https://jmp2.uk/SamsungTVPlus/KRBC32000126M.m3u8
+#EXTINF:-1 group-title="어린이", kids time
+https://jmp2.uk/SamsungTVPlus/KR120000391.m3u8
+#EXTINF:-1 group-title="어린이", 투니버스 명탐정 코난
+https://jmp2.uk/SamsungTVPlus/KRBC32000200B.m3u8
+#EXTINF:-1 group-title="어린이", 뽀요TV
+https://jmp2.uk/SamsungTVPlus/KR900001U5.m3u8
+
+#EXTINF:-1 group-title="교육", EBS1(DB U+)
+http://1.214.67.206/vod/38101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="교육", EBS2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBS2(웹)
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBS+1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBS+1(웹)
+https://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBS+2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBS+2(웹)
+https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBSe
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="교육", EBS잉크리쉬(웹)
+https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="교육", 방송대학TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 group-title="교육", 방송대학TV(웹)
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
+
+#EXTINF:-1 group-title="경제", 한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+#EXTINF:-1 group-title="경제", 서울경제TV
+https://d3khn1u90mfw7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/sen_playlist.m3u8
+#EXTINF:-1 group-title="경제", 토마토증권통
+https://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+#EXTINF:-1 group-title="경제", 매일경제TV
+http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+#EXTINF:-1 group-title="경제", 매일경제TV(웹)
+http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="정부방송", KTV국민방송
+https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", KTV국민방송(웹)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 한국직업방송
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", National Assembly TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+#EXTINF:-1 group-title="정부방송", 소상공인방송
+https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 복지TV
+http://cdnlive29.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", WBC복지TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 한국농업방송
+https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 한국농업방송
+http://media.joycorp.co.kr:1935/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 국방TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 국방TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 채널i
+http://1.201.160.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 지방자치TV
+http://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+#EXTINF:-1 group-title="정부방송", 지방자치TV(웹)
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_426_5FDDD1E3.m3u8
+#EXTINF:-1 group-title="정부방송", 시민방송 RTV
+http://rtv-stream3.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
+#EXTINF:-1 group-title="정부방송", RTV
+http://rtv-stream3.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
+#EXTINF:-1 group-title="정부방송", 육아방송
+https://wms211-kortv.akamaized.net/a_live/38631066/smil:20tv216.smil/.m3u8
+#EXTINF:-1 group-title="정부방송", NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 group-title="지방방송", TBS
+http://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", 딜라이브 경동케이블TV
+http://112.214.255.201/hls/ch02/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", 딜라이브 경기케이블TV
+http://112.214.255.202/hls/ch02/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", BTV 서서울
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY73K0leecWipqdTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", BTV 동서울
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY7is78EBxS7CoBTmGxNEUisEXiiy8zPZAQLccSFis7XY9TgFZsoYqB8oUisCkcQbw11109BX3h0K5ipxEmh
+#EXTINF:-1 group-title="지방방송", BTV 인천
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79Xnm3YFsPKUTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", Btv 인천(웹)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_415_3B0A4DFF.m3u8
+#EXTINF:-1 group-title="지방방송", BTV 수원
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79303A2ZnFoXTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", BTV 기남
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY74dJWCb8X4jsTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", BTV 한빛방송
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY76P1dipiiUMC4jTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", BTV ABC방송
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY7020bpZhvyiisTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", HCN 서초방송
+http://edge3.hcnmobile.tv//etv/phd745/chunklist_w585054294.m3u8?%20Policy=eyJTdGFOZW1IbnQiOlt7lUlc291cmNIljoiaHROcDovL2VkZ2UzLmhjbm+1vYmlsZS50di9ldHYvcGhkNzc4L3BsYXlsa+XNOLm0zdTgiLCJDb25kaXRpb24iOnsiRGFOZUxlc3NUaGFuljp7ikFXUzpFcG9jaFRpbWUiOjE2Mjk20DYOMDh9X1dfQ_+-&Signature=UVGV1JG2SVxLefHUTSiFamnilwaTQGsXFfr5gtAwQ-OWKbAnXMtgDosDx15r034p4VpexO6LK4axQY%5D+1+AB5piRGEDFn3zVISOIUI87zyEwTaqG7ncOk-n9xD1KVodGu2yk+5C4Aq43bFOWZrPAikJUrZ7142zWOyxmelhLRwcH8bwVxvZH%5D39gTMyBTRSoe9EnuhYUU3Uom84APZxvexKXmoDruOE+ih6LOitMBTEKjsfNxZ62QHRLDRQUBPhyllxWTVC8SSdwLTMvaPGohHCLPehE36aTKjEka8djr%2FOJLP7Y-+V13UIH6-OcurSnan-MzSLDk6bx01kJBe6705wYMw-&Key-Pair-ld-APKAJDDOC33A6l654PKA
+#EXTINF:-1 group-title="지방방송", HCN 동작방송
+http://edge4.hcnmobile.tv/etv/phd1397/chunklist_w532555429.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5Ny9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTAxfX19XX0_&Signature=FIdPYrIcbKkCbB%7Eoqh5KBOlhPqumaChm-nr-Bvh9%7EEwP4Jf5NVbPX2oTWDYU2btv2XpJilQUjo2irVgEV9Fh8jQizMZlBu79Hpwm0tfEIjRnjpGbfFNHxlQOhITSr-F5OlUlOxcmy8QFHEhDwcbBN%7EHmzHmVriB%7EKHN8TytTaJXUYXTSSqi%7EikQWPWwg9Y9Dv54YnqpOeJNDSHaKkEfufg25zcshPSknPTmGPz5AXBq8TgDR1n7GSiqsyac6MYcSR9gFgQX3XnsKXx160RW5Xi0vyEulrzldeLlaTmEW5zmHVJeX1kEtx0ZnXUYenL6qpeyB6lRbL0oJo-riBa%7Enrg__&Key-Pair-Id=APKAJDDOC33A6I654PKA
+#EXTINF:-1 group-title="지방방송", HCN 관악방송
+http://edge4.hcnmobile.tv/etv/phd1399/chunklist_w1062628074.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5OS9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTQyfX19XX0_&Signature=Jcr4z5%7EcLUY8kZcPP9cAi0nFLfA6wlYJX1bY%7EdAoHOmoIOjTeGFq76bv-NDu9eM7v%7E2t7jC5LqYiMa6zBm7RxEl-dYJXA620Te3X2q%7EBv5vI7SXk1L6x5m9y%7EEsvDaVMw3sCUgrxJpRm16IWhJD8BLvk38J-wGy7spkzB0DzurI9cNUtXPBaq7OYa%7Ec7aIYB3RRcsa02pv23Kc4GyOf6lHhwgqbdB33SXA3k48HNKnXE4u4fr7oJYudkUVfxkREIklj4lEoBEuRuMHxF1GyYwedQUUS9aig0nCOn00Lmi%7EWeB%7E72MSe%7EZ-aCtAw2iIVh0XVLxCus%7E52Oh9peGPGCHA__&Key-Pair-Id=APKAJDDOC33A6I654PKA
+#EXTINF:-1 group-title="지방방송", CMB 대전방송
+http://124.195.190.134:1935/rtplive/cmb5240.stream/master.m3u8
+#EXTINF:-1 group-title="지방방송", BTV 중부
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY77rM9nLs0NBh1MQzmLnU4jnXI9hzBOAsXrcjnzXTetOzlS8Jt2zfipOBEr2sZq5leiiEHNOPfOEnsYwFZmEbKlqVcie
+#EXTINF:-1 group-title="지방방송", BTV 세종
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY75rqaip2AlSDu1MQzmLnU4jnXI9hzBOAsXrcjnzXTetOzSpoeGhM6xDf6JeisqXGARIoAFOJWjcgpCQwu9NUhbnyEhPzisipMy9K02eHiiUlTisvcW
+#EXTINF:-1 group-title="지방방송", HCN 충북방송
+http://edge3.hcnmobile.tv/etv/phddmcchungbuk/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", BTV 대구방송
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY78qMkYpzmTpcTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", BTV 대경방송
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY78qMkYpzmTpcTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", BTV TCN방송
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY78qMkYpzmTpcTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", HCN 금호방송
+http://edge3.hcnmobile.tv//etv/phddmckumho/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", HCN 새로넷방송
+http://edge3.hcnmobile.tv/etv/phddmcsaronet/playlist.m3u8?null
+#EXTINF:-1 group-title="지방방송", HCN 경북방송
+http://edge4.hcnmobile.tv/etv/phddmckyunngbuk/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", BTV 부산
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79YRNisOkzxw4TmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", HCN 부산방송
+http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", SCS 서경방송
+http://live.iscs.co.kr:1935/m_live/480p.stream/chunklist_w1805076787.m3u8
+#EXTINF:-1 group-title="지방방송", CMB 광주방송
+http://124.195.190.134:1935/rtplive/cmb6240.stream/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", JCN 울산중앙방송
+http://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+#EXTINF:-1 group-title="지방방송", JCN 울산중앙방송
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 group-title="지방방송", JCN(웹)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_414.m3u8
+#EXTINF:-1 group-title="지방방송", KCTV광주방송 CH05
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", KCTV광주방송 CH21
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", KCN 금강방송
+http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="지방방송", BTV 전북
+http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY7wipfTRmXjGNPTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
+#EXTINF:-1 group-title="지방방송", KCTV 제주방송
+https://vod.kctvjeju.com/LIVE/ch7/chunklist_w1376570500.m3u8
+#EXTINF:-1 group-title="지방방송", KCTV제주방송(웹)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_413.m3u8
+#EXTINF:-1 group-title="지방방송", KCTV N
+https://vod.kctvjeju.com/ch7/ch4/chunklist_w1916373722.m3u8
+#EXTINF:-1 group-title="지방방송", KCTV N
+http://122.202.200.202:1935/ch7/ch4/chunklist_w1916373722.m3u8
+
+#EXTINF:-1 group-title="홈쇼핑", 현대홈쇼핑
+http://livejj.hyundaihmall.com:1935/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 현대홈쇼핑(DB U+)
+http://1.214.67.206/vod/67501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="홈쇼핑", CJ OnStyle
+http://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", CJ OnStyle(웹)
+http://live-ch3.cjonstyle.net/cjmalllive/stream1/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", CJ OnStyle(모바일)
+http://live-ch2.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", CJ OnStyle(DB U+)
+http://1.214.67.206/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="홈쇼핑", GS Shop
+http://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", GS SHOP(DB U+)
+http://1.214.67.206/vod/67601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="홈쇼핑", 롯데홈쇼핑
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 롯데홈쇼핑(웹)
+http://pchlslivegd.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 롯데홈쇼핑(모바일)
+https://mohlslive.lotteimall.com/live/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 롯데홈쇼핑(DB U+)
+http://1.214.67.206/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="홈쇼핑", NS홈쇼핑
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 group-title="홈쇼핑", NS홈쇼핑(웹)
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 공영쇼핑
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 홈앤쇼핑
+http://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 신세계쇼핑
+http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 쇼핑앤티
+http://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 group-title="홈쇼핑", W쇼핑
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", SK Stoa
+http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
+#EXTINF:-1 group-title="홈쇼핑", SK Stoa
+http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", SK stoa
+http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", KT알파쇼핑
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", KT알파쇼핑(웹)
+https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", Lotte OneTV
+http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 group-title="홈쇼핑", CJ OnStyle Plus
+http://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", GS My Shop
+http://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", 현대홈쇼핑플러스샵
+http://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 group-title="홈쇼핑", NS샵플러스
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 group-title="홈쇼핑", NS샵플러스(웹)
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
