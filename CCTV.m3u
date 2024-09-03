@@ -33,6 +33,6 @@ http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV15
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV16
-http://zqjy.info/live.php?id=CCTV16HD
+http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV17
 http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3
