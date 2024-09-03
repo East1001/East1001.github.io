@@ -35,24 +35,22 @@ https://m3u8.hmrvideo.com/play/f05cc9a6c4cc4faa85ce29a64247f2e6.m3u8
 https://vip.kuaikan-cdn3.com/20230403/s61baTlH/index.m3u8
 #EXTINF:-1 group-title="English", 분노의 질주1
 https://vip.kuaikan-cdn3.com/20230403/KGXVZXEj/index.m3u8
+#EXTINF:-1 group-title="English", 惊天营救1
+https://api.heimuer.app/play/01c07789d8a94c77b2ce5f0901a25ea4.m3u8
+#EXTINF:-1 group-title="English", 惊天营救2
+https://api.heimuer.app/play/41881506cade4d0481497db76cae7585.m3u8
 #EXTINF:-1 group-title="English", 慈母杀心
 https://m3u8.hmrvideo.com/play/601253d0116e4272a85f4ea66b1623b9.m3u8
-#EXTINF:-1 group-title="English", 猩球崛起1～4
-https://v.ddys.pro/v/movie/Planet.Of.The.Apes.mp4
+#EXTINF:-1 group-title="English", 猩球崛起-新世界
+https://m3u8.hmrvideo.com/play/c28e77c8c6ad4935a5f3177aa198cbde.m3u8
 #EXTINF:-1 group-title="English", 疯狂的麦克斯
-https://v.ddys.pro/v/movie/Furiosa.A.Mad.Max.Saga.mp4
-#EXTINF:-1 group-title="English", 挑战者
-https://v.ddys.pro/v/movie/Challengers.2024.mp4
+https://m3u8.hmrvideo.com/play/ebc4fe4117564c3f8191bb1fea56f2d2.m3u8
 #EXTINF:-1 group-title="English", 养蜂人
-https://v.ddys.pro/v/movie/The.Beekeeper.mp4
+https://m3u8.hmrvideo.com/play/545f378375df42c09c9e831905c440c7.m3u8
 #EXTINF:-1 group-title="English", 闹市之徒
-https://v.ddys.pro/v/movie/The.Instigators.2024.mp4
-#EXTINF:-1 group-title="English", 谍之心
-https://v.ddys.pro/v/movie/Heart.of.Stone.2023.mp4
-#EXTINF:-1 group-title="English", 闪电侠
-https://v.ddys.pro/v/movie/The.Flash.2023.mp4
-#EXTINF:-1 group-title="English", 惊天营救
-https://v.ddys.pro/v/movie/Extraction.2020.mp4
+https://m3u8.heimuertv.com/play/ded1d19bd54c4172a6dc5d31ec27a6a9.m3u8
+#EXTINF:-1 group-title="English", 金刚
+https://api.heimuer.app/play/ad3e03481f5043f89d8c4597d7cc71da.m3u8
 #EXTINF:-1 group-title="English", 龙卷风
 https://m3u8.hmrvideo.com/play/1b08fafea04c4082ad688bcb1d7c29f6.m3u8
 #EXTINF:-1 group-title="English", 全球风暴
@@ -63,35 +61,35 @@ https://vip.kuaikan-cdn3.com/20230401/JrS4J7Ye/index.m3u8
 #EXTINF:-1 group-title="Korea", 범죄도시2
 https://vip.kuaikan-cdn3.com/20230401/Gqvfa219/index.m3u8
 #EXTINF:-1 group-title="Korea", 범죄도시3
-https://v.ddys.pro/v/movie/The.Roundup.No.Way.Out.mp4
+https://hls001.dsaqtqpt.pro/streamhls2024/601e5f1d0a1d747e5cc6e03470f7a292/ep.1.v3.1709193861.m3u8
 #EXTINF:-1 group-title="Korea", 범죄도시4
 https://www.ggultour.com/video/m3u8//496bb276/index.m3u8
-#EXTINF:-1 group-title="Korea", 부산행
-https://v.ddys.pro/v/movie/Train.to.Busan.2016.1080p.mp4
-#EXTINF:-1 group-title="Korea", 부산행2 반도
-https://v.ddys.pro/v/movie/Train.to.Busan.2.mp4
-#EXTINF:-1 group-title="Korea", 서울의 봄
-https://v.ddys.pro/v/movie/12.12.The.Day.mp4
-#EXTINF:-1 group-title="Korea", 교섭
-https://api.heimuer.app/play/73e688bbba1946518086879f23cb378a.m3u8
-#EXTINF:-1 group-title="Korea", 아수라
-https://api.heimuer.app/play/d67b1df35c824c709eee6b622001364a.m3u8
+#EXTINF:-1 group-title="Korea", 강철비1
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/91b7b026-ff5d-4d16-b9fb-f417cc3cfb4f/1.m3u8
+#EXTINF:-1 group-title="Korea", 강철비2
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/6eb2a0b9-1fe3-4627-8fa7-3141dd332e54/1.m3u8
 #EXTINF:-1 group-title="Korea", 공조1
 https://api.heimuer.app/play/f3aaf64ae3ca4f7a847eb3d2e8712e23.m3u8
 #EXTINF:-1 group-title="Korea", 공조2
 https://m3u8.hmrvideo.com/play/25a0c2dffdcb4b8ba87a8f2a207c2fbc.m3u8
+#EXTINF:-1 group-title="Korea", 부산행
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/41872c05-8aee-487c-99e1-8d0aeb9463eb/1.m3u8
+#EXTINF:-1 group-title="Korea", 서울의 봄
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/8fa5ee9b-3d91-4113-8115-3833483f0af5/1.m3u8
+#EXTINF:-1 group-title="Korea", 교섭
+https://api.heimuer.app/play/73e688bbba1946518086879f23cb378a.m3u8
+#EXTINF:-1 group-title="Korea", 아수라
+https://api.heimuer.app/play/d67b1df35c824c709eee6b622001364a.m3u8
 #EXTINF:-1 group-title="Korea", 크로스
-https://v.ddys.pro/v/movie/Mission.Cross.mp4
+https://m3u8.0ee0.com/vedio/20240824/1724469656746/out.m3u8
 #EXTINF:-1 group-title="Korea", 하이재킹
 https://m3u8.0ee0.com/vedio/20240730/1722341900370/out.m3u8
 #EXTINF:-1 group-title="Korea", 파묘
-https://v.ddys.pro/v/movie/The.Unearthed.Grave.mp4
-#EXTINF:-1 group-title="Korea", 야차
-https://v.ddys.pro/v/movie/Yaksha.2022.mp4
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/7020b8d7-a9ad-4d9d-922a-3fd699fc48c2/1.m3u8
+#EXTINF:-1 group-title="Korea", 쏜다
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/6e2a045b-3d49-4e34-968b-a8cfbb025023/1.m3u8
 #EXTINF:-1 group-title="Korea", 엑시트
 https://m3u8.hmrvideo.com/play/3388f8b4653a4c15b3c2965624c351ef.m3u8
-#EXTINF:-1 group-title="Korea", 엑시트
-https://v.ddys.pro/v/movie/EXIT.2019.mp4
 #EXTINF:-1 group-title="Korea", 독전2
 https://www.jjinpple.net/video/m3u8//7d6c48e9/index.m3u8
 #EXTINF:-1 group-title="Korea", 공동경비구역
@@ -102,20 +100,20 @@ https://www.tvbada.xyz/video/m3u8//dd21eb10/index.m3u8
 https://www.jamnatv.com/video/m3u8//a0b9bd33/index.m3u8
 #EXTINF:-1 group-title="Korea", 도굴
 https://www.tvbada.xyz/video/m3u8//8715b4ed/index.m3u8
-#EXTINF:-1 group-title="Korea", 브로커
-https://v.ddys.pro/v/movie/Baby.Broker.mp4
-#EXTINF:-1 group-title="Korea", 악에서 구하소서
-https://v.ddys.pro/v/movie/Deliver.Us.From.Evil.mp4
+#EXTINF:-1 group-title="Korea", 설계사
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/aa74c7af-8dbe-495d-84f6-9624dea73f28/1.m3u8
+#EXTINF:-1 group-title="Korea", 반창꼬
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/2dbdfe55-4f24-4dca-ba16-ab70f654496c/1.m3u8
+#EXTINF:-1 group-title="Korea", 구르카웨리어
+https://www.jamnatv.com/video/m3u8//72ebb577/index.m3u8
 #EXTINF:-1 group-title="Korea", 감기
-https://v.ddys.pro/v/movie/The.Flu.2013.mp4
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/4b9649be-455f-4f81-a16e-77be31e35d20/1.m3u8
 #EXTINF:-1 group-title="Korea", 신세계
-https://v.ddys.pro/v/movie/New.World.2013.1080p.mp4
-#EXTINF:-1 group-title="Korea", 강철비
-https://v.ddys.pro/v/movie/Steel.Rain.1080p.mp4
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/4b9649be-455f-4f81-a16e-77be31e35d20/1.m3u8
 #EXTINF:-1 group-title="Korea", 카터
-https://v.ddys.pro/v/movie/Carter.2022.mp4
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/3ee56b94-f498-4b53-8d38-ec2d8ea062fc/1.m3u8
 #EXTINF:-1 group-title="Korea", 백두산
-https://v.ddys.pro/v/movie/Ashfall.mp4
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/41b68eab-8180-448a-82c9-e4b9f88d4b55/1.m3u8
 #EXTINF:-1 group-title="Korea", 보호자
 https://api.heimuer.app/play/b6bfe5371b714ea6804ab2e72adee448.m3u8
 #EXTINF:-1 group-title="Korea", 달짝지근해
@@ -151,8 +149,5 @@ https://vip.kuaikan-cdn4.com/20240410/MWvZ2rCx/index.m3u8
 https://vip.ffzy-play6.com/20221019/205_56624300/index.m3u8
 #EXTINF:-1 group-title="China", 殊死一搏
 https://m3u8.hmrvideo.com/play/57ec4cb36cb44651a0235dbb2c5d845b.m3u8
-
-#EXTINF:-1 group-title="Japan", 王者天下
-https://v.ddys.pro/v/movie/Kingdom.2019.mp4
-#EXTINF:-1 group-title="Japan", 假面骑士
-https://v.ddys.pro/v/movie/Shin.Kamen.Rider.2023.mp4
+#EXTINF:-1 group-title="China", 传说
+https://m3u8.heimuertv.com/play/057d46e9b0594ba9afda9222a90f92ed.m3u8
