@@ -132,11 +132,19 @@ https://m3u8.0ee0.com/vedio/20240804/1722753167779/out.m3u8
 https://123123play.jjcdn.top/bcdn_token=S2UgALiR-9OLjgl0BZ-bQe50ebsvSRrerm_tdhX3N98&expires=1725458200&token_path=%2F90f0901d-7c76-42bd-a617-b8d3b23778b4%2F/90f0901d-7c76-42bd-a617-b8d3b23778b4/playlist.m3u8
 #EXTINF:-1 group-title="Korea", 목스박
 https://123123play.jjcdn.top/bcdn_token=CF2y05EWohAFnVFlIly4K1Emg8wYxkOR6DEH7vuuIoQ&expires=1725458292&token_path=%2F181abaa5-d7be-4731-ae87-a0a4ef8f03ef%2F/181abaa5-d7be-4731-ae87-a0a4ef8f03ef/playlist.m3u8
+#EXTINF:-1 group-title="Korea", Take Point
+https://whisperingauroras.comos.xyz/hls/0a36b39574dd61e8-5495f53e739f58d652393dbf-599dfc9d67ef8e4f8f661be58b6f93a681920137066333c60ff53cde14429d298e5a1c3eb66bd4fa/master.m3u8
+#EXTINF:-1 group-title="Korea", 신과함께
+https://whisperingauroras.comos.xyz/hls/a835eda5c8a38990-e4ec922e57ea127ebf325f65-7ce67d22550e0de1ad00990b34038be8e13fd7aa83f4494ed86063a92c35738829905bbfc14d6e6c/master.m3u8
 
 #EXTINF:-1 group-title="China", 目中无人1 清风
 https://vip.kuaikan-cdn3.com/20230402/HGigPevi/index.m3u8 
 #EXTINF:-1 group-title="China", 目中无人2
 https://m3u8.hmrvideo.com/play/8d471e37efcf40f49ca0e51c962a14eb.m3u8
+#EXTINF:-1 group-title="China", 东北警察故事1
+https://api.heimuer.app/play/8ff14c9c3c024babb2a2d8035bdf8812.m3u8
+#EXTINF:-1 group-title="China", 东北警察故事2
+https://m3u8.0ee0.com/vedio/20240904/1725384779178/out.m3u8
 #EXTINF:-1 group-title="China", 霍元甲2006
 https://api.heimuer.app/play/1a78b2ed77cf477e85244af649601e2c.m3u8
 #EXTINF:-1 group-title="China", 霍元甲2019
@@ -165,7 +173,3 @@ https://m3u8.hmrvideo.com/play/57ec4cb36cb44651a0235dbb2c5d845b.m3u8
 https://m3u8.heimuertv.com/play/057d46e9b0594ba9afda9222a90f92ed.m3u8
 #EXTINF:-1 group-title="China", 黄飞鸿之南北英雄
 https://vip.kuaikan-cdn3.com/20230403/loFVaVOx/index.m3u8
-#EXTINF:-1 group-title="China", 东北警察故事2
-https://m3u8.0ee0.com/vedio/20240904/1725384779178/out.m3u8
-#EXTINF:-1 group-title="China", 연변 범죄도시1
-https://vid6.jwpcdn.net/token/download/media/ddownloader/18881cb840b88d3d/3384b76675c7900f11d8278e7f52bbd4187827c343bfe7c1dbb7759847c9845e.mp4?download_token=e373efc3a3af229e1c0b835d6adfd0966ca7388a95fe6ef9758078c4c579400c
