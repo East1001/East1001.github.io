@@ -55,8 +55,10 @@ https://api.heimuer.app/play/ad3e03481f5043f89d8c4597d7cc71da.m3u8
 https://m3u8.hmrvideo.com/play/1b08fafea04c4082ad688bcb1d7c29f6.m3u8
 #EXTINF:-1 group-title="English", 全球风暴
 https://api.heimuer.app/play/433d5cca53554f0292f9a4607b63a8e9.m3u8
+#EXTINF:-1 group-title="English", 코만단테 
+https://ys0i6perdwyn.hgagecdn.com/hls2/01/02224/jrqvfriup3uw_,l,n,h,.urlset/master.m3u8?t=BuRpRK3UmJUWvYErhYwRwZPORyE8_nw3XZGtUFM8Bvk&s=1725441384&e=129600&f=11120700&srv=h6XCv8W6PGx6&i=0.4&sp=500&p1=h6XCv8W6PGx6&p2=h6XCv8W6PGx6&asn=13335
 
-#EXTINF:-1 group-title="Korea", 범죄도시1
+#EXTINF:-1 group-title="Korea", 범죄도시1 清风
 https://vip.kuaikan-cdn3.com/20230401/JrS4J7Ye/index.m3u8
 #EXTINF:-1 group-title="Korea", 범죄도시2
 https://vip.kuaikan-cdn3.com/20230401/Gqvfa219/index.m3u8
@@ -73,7 +75,7 @@ https://api.heimuer.app/play/f3aaf64ae3ca4f7a847eb3d2e8712e23.m3u8
 #EXTINF:-1 group-title="Korea", 공조2
 https://m3u8.hmrvideo.com/play/25a0c2dffdcb4b8ba87a8f2a207c2fbc.m3u8
 #EXTINF:-1 group-title="Korea", 부산행
-https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/41872c05-8aee-487c-99e1-8d0aeb9463eb/1.m3u8
+https://i2qq0vb1aul7.cdn-jupiter.com/hls2/01/03241/7xdoizq5w4lc_,n,h,x,.urlset/master.m3u8?t=18YMt0xfXL0Ovo3_DMmAlE5GYhQaOmKwBLumyA_r4AI&s=1725440976&e=129600&f=16208397&srv=aobx2iskdwtw&i=0.4&sp=500&p1=aobx2iskdwtw&p2=aobx2iskdwtw&asn=13335
 #EXTINF:-1 group-title="Korea", 서울의 봄
 https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/8fa5ee9b-3d91-4113-8115-3833483f0af5/1.m3u8
 #EXTINF:-1 group-title="Korea", 교섭
@@ -82,8 +84,10 @@ https://api.heimuer.app/play/73e688bbba1946518086879f23cb378a.m3u8
 https://api.heimuer.app/play/d67b1df35c824c709eee6b622001364a.m3u8
 #EXTINF:-1 group-title="Korea", 크로스
 https://m3u8.0ee0.com/vedio/20240824/1724469656746/out.m3u8
-#EXTINF:-1 group-title="Korea", 하이재킹
+#EXTINF:-1 group-title="Korea", 하이재킹 GDPiao
 https://m3u8.0ee0.com/vedio/20240730/1722341900370/out.m3u8
+#EXTINF:-1 group-title="Korea", 하이재킹 후후티비
+https://123123play.jjcdn.top/bcdn_token=BA30x4Xuxml5zUHSVW9ghB8cJ8UPBPB5-qjDgHcgsk0&expires=1725453509&token_path=%2F93eae7b4-5688-4965-9ee5-c00fe0bb236e%2F/93eae7b4-5688-4965-9ee5-c00fe0bb236e/playlist.m3u8
 #EXTINF:-1 group-title="Korea", 파묘
 https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/7020b8d7-a9ad-4d9d-922a-3fd699fc48c2/1.m3u8
 #EXTINF:-1 group-title="Korea", 쏜다
@@ -120,19 +124,31 @@ https://api.heimuer.app/play/b6bfe5371b714ea6804ab2e72adee448.m3u8
 https://api.heimuer.app/play/c137e26c6bbd479fa4794b585cd34fc2.m3u8
 #EXTINF:-1 group-title="Korea", 타워
 https://api.heimuer.app/play/a3c28c7e4c4b488cba15d078c35ef71a.m3u8
-#EXTINF:-1 group-title="Korea", 서부전선
-https://api.heimuer.app/play/63f693c08ca94089b3eda9efe7347076.m3u8
-#EXTINF:-1 group-title="Korea", 태극기 휘날리며
-https://api.heimuer.app/play/4214a6dd841b46d2888a8ac8561842df.m3u8
+#EXTINF:-1 group-title="Korea", 서부전선.   무비봐요
+https://hls014.dsaqtqpt.pro/streamhls2024/821cdeaa58ca7112507d256493e7e545/ep.1.v0.1678160844.m3u8
+#EXTINF:-1 group-title="Korea", 태극기 휘날리며 GDPiao
+https://m3u8.0ee0.com/vedio/20240804/1722753167779/out.m3u8
+#EXTINF:-1 group-title="Korea", 탈주
+https://i2qq0vb1aul7.cdn-jupiter.com/hls2/01/03241/7xdoizq5w4lc_,n,h,x,.urlset/master.m3u8?t=18YMt0xfXL0Ovo3_DMmAlE5GYhQaOmKwBLumyA_r4AI&s=1725440976&e=129600&f=16208397&srv=aobx2iskdwtw&i=0.4&sp=500&p1=aobx2iskdwtw&p2=aobx2iskdwtw&asn=13335
+#EXTINF:-1 group-title="Korea", 외계인
+https://j5m9wakcpz.cdn-jupiter.com/hls2/01/03049/9oromwuja4zr_,n,h,x,.urlset/master.m3u8?t=xTp4mUzuq0yvpkrhrR7EIrVNrV2kj8GJt7_rw3TvU5E&s=1725441633&e=129600&f=15245890&srv=vrf8ph6eg3m92&i=0.4&sp=500&p1=vrf8ph6eg3m92&p2=vrf8ph6eg3m92&asn=13335
+#EXTINF:-1 group-title="Korea", 목스박
+https://kf9jy6xerfsy.hgagecdn.com/hls2/01/01440/1ejpkt6r6dw7_,l,n,h,.urlset/master.m3u8?t=ns13xx01ns-J9Td7rmUmMhYMc9R_JvSP0hklteS01_w&s=1725441951&e=129600&f=7201315&srv=wLNZwzCrjykTJ&i=0.4&sp=500&p1=wLNZwzCrjykTJ&p2=wLNZwzCrjykTJ&asn=13335
 
-#EXTINF:-1 group-title="China", 目中无人1
-https://vip.kuaikan-cdn4.com/20240220/AYCTRBuM/index.m3u8
+#EXTINF:-1 group-title="China", 目中无人1 清风
+https://vip.kuaikan-cdn3.com/20230402/HGigPevi/index.m3u8 
 #EXTINF:-1 group-title="China", 目中无人2
 https://m3u8.hmrvideo.com/play/8d471e37efcf40f49ca0e51c962a14eb.m3u8
-#EXTINF:-1 group-title="China", 霍元甲
-https://www.moonnightspn.xyz/video/m3u8//52870b7f/index.m3u8
-#EXTINF:-1 group-title="China", 狄仁杰
-https://www.sorazoa.com/video/m3u8//837bd9bf/index.m3u8
+#EXTINF:-1 group-title="China", 霍元甲2006
+https://api.heimuer.app/play/1a78b2ed77cf477e85244af649601e2c.m3u8
+#EXTINF:-1 group-title="China", 霍元甲2019
+https://api.heimuer.app/play/a4b73158c43f4a47b5939a7bf14a8c61.m3u8
+#EXTINF:-1 group-title="China", 무인霍元甲2019
+https://gdriveplayer.to/hlsplaylist.php?idhls=cnJuTWc3M3hCbU9SZGJBU1BXcDFiWTBrbndyTUNwL3RTWXRNaWFMTm5qM2N6NlY4Z3hkcSt6ajdIY3JHclpMcA==.m3u8
+#EXTINF:-1 group-title="China", 霍元甲2020
+https://gdriveplayer.to/hlsplaylist.php?idhls=cW1FZFZSN2lEV2R6R0RsOTRISXFjQW9iVXlaM1RLWXVHVVgzbGxlOVY4Q2pwSk5oS1lwbkdPYnZYeFNpRTIzKw==.m3u8
+#EXTINF:-1 group-title="China", 狄仁杰之通天悬案
+https://vip.kuaikan-cdn3.com/20240224/KzV1JW5h/index.m3u8
 #EXTINF:-1 group-title="China", 恶缉
 https://www.ggultour.com/video/m3u8//3d7989b6/index.m3u8
 #EXTINF:-1 group-title="China", 追龙
@@ -149,3 +165,9 @@ https://vip.ffzy-play6.com/20221019/205_56624300/index.m3u8
 https://m3u8.hmrvideo.com/play/57ec4cb36cb44651a0235dbb2c5d845b.m3u8
 #EXTINF:-1 group-title="China", 传说
 https://m3u8.heimuertv.com/play/057d46e9b0594ba9afda9222a90f92ed.m3u8
+#EXTINF:-1 group-title="China", 黄飞鸿之南北英雄
+https://vip.kuaikan-cdn3.com/20230403/loFVaVOx/index.m3u8
+#EXTINF:-1 group-title="China", 东北警察故事2
+https://m3u8.0ee0.com/vedio/20240904/1725384779178/out.m3u8
+#EXTINF:-1 group-title="China", 연변 범죄도시1
+https://oela888ly87x.hgagecdn.com/hls2/01/02214/1msjcc4m7agv_,l,n,h,.urlset/master.m3u8?t=sxke9OOjqneU3hYnA2ONOfssRahNCFVj3zyGTeWAwMk&s=1725442040&e=129600&f=11070676&srv=j6w3D3I9pMuca&i=0.4&sp=500&p1=j6w3D3I9pMuca&p2=j6w3D3I9pMuca&asn=13335
