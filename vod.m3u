@@ -55,14 +55,14 @@ https://api.heimuer.app/play/ad3e03481f5043f89d8c4597d7cc71da.m3u8
 https://m3u8.hmrvideo.com/play/1b08fafea04c4082ad688bcb1d7c29f6.m3u8
 #EXTINF:-1 group-title="English", 全球风暴
 https://api.heimuer.app/play/433d5cca53554f0292f9a4607b63a8e9.m3u8
-#EXTINF:-1 group-title="English", 코만단테 
+#EXTINF:-1 group-title="English", 코만단테 코티비씨
 https://i11lli.com/cdn/hls/d8a81c035c484a127647507ae7beb426/master.txt
 
 #EXTINF:-1 group-title="Korea", 범죄도시1 清风
 https://vip.kuaikan-cdn3.com/20230401/JrS4J7Ye/index.m3u8
 #EXTINF:-1 group-title="Korea", 범죄도시2
 https://vip.kuaikan-cdn3.com/20230401/Gqvfa219/index.m3u8
-#EXTINF:-1 group-title="Korea", 범죄도시3
+#EXTINF:-1 group-title="Korea", 범죄도시3 코티비씨
 https://i11lli.com/cdn/hls/6fe65c088b3ada0e546fefaf314f93a8/master.txt
 #EXTINF:-1 group-title="Korea", 범죄도시4
 https://www.ggultour.com/video/m3u8//496bb276/index.m3u8
@@ -126,7 +126,7 @@ https://api.heimuer.app/play/a3c28c7e4c4b488cba15d078c35ef71a.m3u8
 https://hls014.dsaqtqpt.pro/streamhls2024/821cdeaa58ca7112507d256493e7e545/ep.1.v0.1678160844.m3u8
 #EXTINF:-1 group-title="Korea", 태극기 휘날리며 GDPiao
 https://m3u8.0ee0.com/vedio/20240804/1722753167779/out.m3u8
-#EXTINF:-1 group-title="Korea", 탈주
+#EXTINF:-1 group-title="Korea", 탈주 코티비씨
 https://i11lli.com/cdn/hls/5a805e9df764330dff60d2d384bc2e6f/master.txt
 #EXTINF:-1 group-title="Korea", 목스박
 https://i11lli.com/cdn/hls/5a805e9df764330dff60d2d384bc2e6f/master.txt
@@ -139,8 +139,8 @@ https://i11lli.com/cdn/hls/3b9ec0bbe83cfd8eb241b7ce32b226b3/master.txt
 https://vip.kuaikan-cdn3.com/20230402/HGigPevi/index.m3u8 
 #EXTINF:-1 group-title="China", 目中无人2
 https://m3u8.hmrvideo.com/play/8d471e37efcf40f49ca0e51c962a14eb.m3u8
-#EXTINF:-1 group-title="China", 东北警察故事1
-https://api.heimuer.app/play/8ff14c9c3c024babb2a2d8035bdf8812.m3u8
+#EXTINF:-1 group-title="China", 东北警察故事1 清风
+https://vip.kuaikan-cdn3.com/20230329/KorOx9ka/index.m3u8
 #EXTINF:-1 group-title="China", 东北警察故事2
 https://m3u8.0ee0.com/vedio/20240904/1725384779178/out.m3u8
 #EXTINF:-1 group-title="China", 霍元甲2006
