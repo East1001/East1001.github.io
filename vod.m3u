@@ -70,8 +70,8 @@ https://www.ggultour.com/video/m3u8//496bb276/index.m3u8
 https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/91b7b026-ff5d-4d16-b9fb-f417cc3cfb4f/1.m3u8
 #EXTINF:-1 group-title="Korea", 강철비2
 https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/6eb2a0b9-1fe3-4627-8fa7-3141dd332e54/1.m3u8
-#EXTINF:-1 group-title="Korea", 공조1
-https://api.heimuer.app/play/f3aaf64ae3ca4f7a847eb3d2e8712e23.m3u8
+#EXTINF:-1 group-title="Korea", 공조1 코티비씨
+https://i11lli.com/cdn/hls/eee3e1cc05866deff5796fe9f785c85a/master.txt
 #EXTINF:-1 group-title="Korea", 공조2
 https://m3u8.hmrvideo.com/play/25a0c2dffdcb4b8ba87a8f2a207c2fbc.m3u8
 #EXTINF:-1 group-title="Korea", 부산행
@@ -81,7 +81,7 @@ https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/8
 #EXTINF:-1 group-title="Korea", 교섭
 https://api.heimuer.app/play/73e688bbba1946518086879f23cb378a.m3u8
 #EXTINF:-1 group-title="Korea", 아수라
-https://api.heimuer.app/play/d67b1df35c824c709eee6b622001364a.m3u8
+https://i11lli.com/cdn/hls/eee3e1cc05866deff5796fe9f785c85a/master.txt
 #EXTINF:-1 group-title="Korea", 크로스
 https://m3u8.0ee0.com/vedio/20240824/1724469656746/out.m3u8
 #EXTINF:-1 group-title="Korea", 하이재킹 GDPiao
