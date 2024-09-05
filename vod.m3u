@@ -94,10 +94,10 @@ https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/6
 https://m3u8.hmrvideo.com/play/3388f8b4653a4c15b3c2965624c351ef.m3u8
 #EXTINF:-1 group-title="Korea", 독전2
 https://www.jjinpple.net/video/m3u8//7d6c48e9/index.m3u8
-#EXTINF:-1 group-title="Korea", 공동경비구역
-https://www.tvbada.xyz/video/m3u8//536420a5/index.m3u8
-#EXTINF:-1 group-title="Korea", 1급기밀
-https://www.tvbada.xyz/video/m3u8//dd21eb10/index.m3u8
+#EXTINF:-1 group-title="Korea", 공동경비구역 GDPiao
+https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/25cd575c-8fd3-469e-9875-53e696598d25/1.m3u8
+#EXTINF:-1 group-title="Korea", 1급기밀 GDPiao
+https://m3u8.0ee0.com/vedio/20240902/1725282662347/out.m3u8
 #EXTINF:-1 group-title="Korea", 탈출
 https://www.jamnatv.com/video/m3u8//a0b9bd33/index.m3u8
 #EXTINF:-1 group-title="Korea", 도굴
