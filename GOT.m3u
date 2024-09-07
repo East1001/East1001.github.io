@@ -21,27 +21,27 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台 🇨🇳️",緯來育樂
 https://edge.yeslive.buzz/live/vl_maxtv.m3u8?token=7Uzg0sDm3y-cjERXQd6WuA&expires=1724617275
-#EXTINF:-1 group-title="港澳台 🇨🇳",凤凰资讯
+#EXTINF:-1 group-title="港澳台 🇨🇳️",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",凤凰中文
+#EXTINF:-1 group-title="港澳台 🇨🇳️",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",香港卫视
+#EXTINF:-1 group-title="港澳台 🇨🇳️",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",香港佛陀
+#EXTINF:-1 group-title="港澳台 🇨🇳️",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",澳门莲花
+#EXTINF:-1 group-title="港澳台 🇨🇳️",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
-#EXTINF:-1 group-title="港澳台 🇨🇳",翡翠
+#EXTINF:-1 group-title="港澳台 🇨🇳️",翡翠
 https://edge.yeslive.buzz/live/tvb_jade.m3u8?token=vb9-9M8mHMlNuS09H1NhiQ&expires=1725765514
-#EXTINF:-1 group-title="港澳台 🇨🇳",大爱
+#EXTINF:-1 group-title="港澳台 🇨🇳️",大爱
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",大立
+#EXTINF:-1 group-title="港澳台 🇨🇳️",大立
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",新加坡国际
+#EXTINF:-1 group-title="港澳台 🇨🇳️",新加坡国际
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="港澳台 🇨🇳",新加坡中文台
+#EXTINF:-1 group-title="港澳台 🇨🇳️",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-#EXTINF:-1 group-title="港澳台 🇨🇳",纬来日本
+#EXTINF:-1 group-title="港澳台 🇨🇳️",纬来日本
 rtmp://59.124.75.138/sat/tv771
-#EXTINF:-1 group-title="港澳台 🇨🇳",纬来育乐
+#EXTINF:-1 group-title="港澳台 🇨🇳️",纬来育乐
 rtmp://59.124.75.138/sat/tv701
