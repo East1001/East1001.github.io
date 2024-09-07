@@ -115,8 +115,6 @@ http://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 group-title="tvN", tvN
 https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM5MjY2Mzl9.C6_kMT490DByiQhc9Pf2zuc4lzOWMdUF9RQ71Evlo2U
-#EXTINF:-1 group-title="tvN", tvN SHOW
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=xtm_540&sid=nX5rbWoPfFQlyfbpsELIy2CYWRWFZLIPv4Joorhh&secret=3f6e09bbf7f07cf964e8650b63da7439&time=1696829059
 #EXTINF:-1 group-title="MBN", MBN
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 group-title="MBN", MBN(KORTV)
@@ -236,19 +234,6 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="종교", 원음방송
 http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_409.m3u8
 
-#EXTINF:-1 group-title="어린이", KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8 
-#EXTINF:-1 group-title="어린이", EBS Kids
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="어린이", 핑크퐁
-https://jmp2.uk/SamsungTVPlus/KRBC32000126M.m3u8
-#EXTINF:-1 group-title="어린이", kids time
-https://jmp2.uk/SamsungTVPlus/KR120000391.m3u8
-#EXTINF:-1 group-title="어린이", 투니버스 명탐정 코난
-https://jmp2.uk/SamsungTVPlus/KRBC32000200B.m3u8
-#EXTINF:-1 group-title="어린이", 뽀요TV
-https://jmp2.uk/SamsungTVPlus/KR900001U5.m3u8
-
 #EXTINF:-1 group-title="교육", EBS1(DB U+)
 http://1.214.67.206/vod/38101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="교육", EBS2
@@ -350,8 +335,6 @@ http://edge3.hcnmobile.tv//etv/phd745/chunklist_w585054294.m3u8?%20Policy=eyJTdG
 http://edge4.hcnmobile.tv/etv/phd1397/chunklist_w532555429.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5Ny9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTAxfX19XX0_&Signature=FIdPYrIcbKkCbB%7Eoqh5KBOlhPqumaChm-nr-Bvh9%7EEwP4Jf5NVbPX2oTWDYU2btv2XpJilQUjo2irVgEV9Fh8jQizMZlBu79Hpwm0tfEIjRnjpGbfFNHxlQOhITSr-F5OlUlOxcmy8QFHEhDwcbBN%7EHmzHmVriB%7EKHN8TytTaJXUYXTSSqi%7EikQWPWwg9Y9Dv54YnqpOeJNDSHaKkEfufg25zcshPSknPTmGPz5AXBq8TgDR1n7GSiqsyac6MYcSR9gFgQX3XnsKXx160RW5Xi0vyEulrzldeLlaTmEW5zmHVJeX1kEtx0ZnXUYenL6qpeyB6lRbL0oJo-riBa%7Enrg__&Key-Pair-Id=APKAJDDOC33A6I654PKA
 #EXTINF:-1 group-title="지방방송", HCN 관악방송
 http://edge4.hcnmobile.tv/etv/phd1399/chunklist_w1062628074.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5OS9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTQyfX19XX0_&Signature=Jcr4z5%7EcLUY8kZcPP9cAi0nFLfA6wlYJX1bY%7EdAoHOmoIOjTeGFq76bv-NDu9eM7v%7E2t7jC5LqYiMa6zBm7RxEl-dYJXA620Te3X2q%7EBv5vI7SXk1L6x5m9y%7EEsvDaVMw3sCUgrxJpRm16IWhJD8BLvk38J-wGy7spkzB0DzurI9cNUtXPBaq7OYa%7Ec7aIYB3RRcsa02pv23Kc4GyOf6lHhwgqbdB33SXA3k48HNKnXE4u4fr7oJYudkUVfxkREIklj4lEoBEuRuMHxF1GyYwedQUUS9aig0nCOn00Lmi%7EWeB%7E72MSe%7EZ-aCtAw2iIVh0XVLxCus%7E52Oh9peGPGCHA__&Key-Pair-Id=APKAJDDOC33A6I654PKA
-#EXTINF:-1 group-title="지방방송", CMB 대전방송
-http://124.195.190.134:1935/rtplive/cmb5240.stream/master.m3u8
 #EXTINF:-1 group-title="지방방송", BTV 중부
 http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY77rM9nLs0NBh1MQzmLnU4jnXI9hzBOAsXrcjnzXTetOzlS8Jt2zfipOBEr2sZq5leiiEHNOPfOEnsYwFZmEbKlqVcie
 #EXTINF:-1 group-title="지방방송", BTV 세종
@@ -376,8 +359,6 @@ http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79YRNis
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 #EXTINF:-1 group-title="지방방송", SCS 서경방송
 http://live.iscs.co.kr:1935/m_live/480p.stream/chunklist_w1805076787.m3u8
-#EXTINF:-1 group-title="지방방송", CMB 광주방송
-http://124.195.190.134:1935/rtplive/cmb6240.stream/playlist.m3u8
 #EXTINF:-1 group-title="지방방송", JCN 울산중앙방송
 http://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 #EXTINF:-1 group-title="지방방송", JCN 울산중앙방송
@@ -447,8 +428,6 @@ http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 #EXTINF:-1 group-title="홈쇼핑", KT알파쇼핑
 https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="홈쇼핑", KT알파쇼핑(웹)
-https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
 #EXTINF:-1 group-title="홈쇼핑", Lotte OneTV
 http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 group-title="홈쇼핑", CJ OnStyle Plus
