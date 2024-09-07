@@ -11,8 +11,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?
 http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="Sport 🇨🇳", 山东体育
 http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="Sport 🇨🇳", 广东体育
-https://p.iptv200.com/play.php?token=EHra6zupQIpuiQGV%2FoE7amfA&tid=ty&id=3
 #EXTINF:-1 group-title="Sport 🇨🇳", 咪咕视频1
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
 #EXTINF:-1 group-title="Sport 🇨🇳", 咪咕视频2
@@ -45,30 +43,14 @@ rtmp://59.124.75.138/sat/tv721
 rtmp://59.124.75.138/sat/md021
 #EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育2
 rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育3
+https://rr4---sn-oguelnzr.googlevideo.com/videoplayback?expire=1725761740&ei=bLTcZoDANZ-N5t0Put2doAM&ip=2a09%3Abac5%3A4731%3A1a14%3A0%3A0%3A299%3A26&id=o-AMOtPvGcxmxfbxjTjuKSCXGDRTR8-HD5VZ9c8k3OpH74&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=r6&mm=31%2C29&mn=sn-oguelnzr%2Csn-oguesn6s&ms=au%2Crdu&mv=m&mvi=4&pl=44&pcm2=no&initcwndbps=1565000&bui=AQmm2ezv41xt4PG-p_TxauwP1seOQWWiXzcBLjDOu2FUqokTfD-Oxr7K2ZWHAa2hE8sFcQZssws68TBv&spc=Mv1m9ro1HfJQneDHESFXDam23uC-Ggm54LkzeXLCHX3WwbZREPUlbNvdHFOFoDY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=P6zwoTBdOzwjQWCgAP2jB5UQ&rqh=1&cnr=14&ratebypass=yes&dur=85.751&lmt=1664936108177448&mt=1725739970&fvip=1&c=MWEB&sefc=1&txp=5538434&n=VN3wADr9dRYXaQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAOsD-H7851oRhIg3LSaPme1_Hh2ao9xEqZV5GqFP0cdlAiEA85JSjUI1_HgmidiFyW3vFCFoDIdEkfy-rYBHJHavOLE%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ABPmVW0wRQIgPUnkO0in0Emjs0FcLemHK-1rTR0QMUnWQN9QsDoxKUYCIQDqPExWGG6lbQDT1O5nX8KSO18PDFC6aQFHeytZmrOInw%3D%3D&cpn=A--DKHEyS5yMJ7sx&cver=2.20240904.06.00&ptk=youtube_none&pltype=contentugc
 #EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育4
 http://free.xiptv.x10.bz/kudou.php?id=72
 #EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育1
 rtmp://59.124.75.138/sat/tv731
 #EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育2
 rtmp://59.124.75.138/sat/tv741
-#EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育3
-rtmp://59.124.75.138/sat/md031
-#EXTINF:-1 group-title="Sport 🇨🇳", elta體育1
-https://edge.yeslive.buzz/live/elta3.m3u8?token=MrmcUm0IcjsV9zR_u2d4Eg&expires=1725755773
-#EXTINF:-1 group-title="Sport 🇨🇳", elta體育2
-https://p.iptv200.com/play.php?token=fwH0VTDgGy1bTDGO%2BDMAkYBp&tid=ty&id=29&p=5
-#EXTINF:-1 group-title="Sport 🇨🇳", elta體育3
-https://p.iptv200.com/play.php?token=UjL4tWqGaxrIP5xnuZm6SON3&tid=ty&id=28&p=5
-#EXTINF:-1 group-title="Sport 🇨🇳", elta體育4
-https://edge.yeslive.buzz/live/elta4.m3u8?token=rZb93WwwgWEezNV6WN-CiA&expires=1725755876
-#EXTINF:-1 group-title="Sport 🇨🇳", 博斯運動1
-https://cdn1.us.kg/live/elta1.m3u8?token=7bLacwS-D2BEaIwov_unFg&expires=1725755587
-#EXTINF:-1 group-title="Sport 🇨🇳", 博斯運動1.
-https://p.iptv200.com/play.php?token=fwH0VTDgGy1bTDGO%2BDMAkYBp&tid=ty&id=29&p=4
-#EXTINF:-1 group-title="Sport 🇨🇳", 博斯運動1..
-https://p.iptv200.com/play.php?token=3iMsRSvR6PD8xuAcxvXoEuKE&tid=ty&id=30&p=4
-#EXTINF:-1 group-title="Sport 🇨🇳", 博斯運動1...
-https://p.iptv200.com/play.php?token=UjL4tWqGaxrIP5xnuZm6SON3&tid=ty&id=28&p=4
 #EXTINF:-1 group-title="Sport 🇨🇳", 智林體育
 http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
 #EXTINF:-1 group-title="Sport 🇨🇳", MOMOTV
