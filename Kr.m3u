@@ -197,16 +197,6 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=smfv2nBmE68y
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=cgv_540&sid=F2W5wT3iKKB8MUqnX2rzvDQBscfzOhXWHvIV0iYK&secret=76343d55f8c2b1a7c402216302c858ee&time=1696829067
 #EXTINF:-1 group-title="영화", OCN Movies2
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=super_action_540&sid=mQcxOkZZUXjEEL12NiM5po2XJpDmUrSa8lE3EauO&secret=54e92c800b39c4b4250b8cb4abe7e934&time=1696829529
-#EXTINF:-1 group-title="영화", 씨네21+
-https://jmp2.uk/SamsungTVPlus/KRBD26000011V.m3u8
-#EXTINF:-1 group-title="영화", PLAYY 영화
-https://jmp2.uk/SamsungTVPlus/KR12000017G.m3u8
-#EXTINF:-1 group-title="영화", PLAYY 전쟁영화 특집
-https://jmp2.uk/SamsungTVPlus/KR1200002QR.m3u8
-#EXTINF:-1 group-title="영화", NEW MOVIES
-https://jmp2.uk/SamsungTVPlus/KRBC3200004D1.m3u8
-#EXTINF:-1 group-title="영화", SONYMovies
-https://iptv-web.app/US/SonyMovies.us/
 
 #EXTINF:-1 group-title="드라마", 중화TV
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=chinesetv_540&sid=D3SVvforjRkCVC7Abzdh2gFw3K4yAVNrtMdlfzaH&secret=8ab410c43edf3ddc0c0ed0a3a35cf10d&time=1696829072
