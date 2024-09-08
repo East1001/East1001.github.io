@@ -11,6 +11,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?
 http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 group-title="Sport 🇨🇳", 山东体育
 http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="Sport 🇨🇳", 广东体育
+http://jt.zorua.cn:8787/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="Sport 🇨🇳", 咪咕视频1
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
 #EXTINF:-1 group-title="Sport 🇨🇳", 咪咕视频2
@@ -44,7 +46,7 @@ rtmp://59.124.75.138/sat/md021
 #EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育2
 rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育3
-https://rr4---sn-oguelnzr.googlevideo.com/videoplayback?expire=1725761740&ei=bLTcZoDANZ-N5t0Put2doAM&ip=2a09%3Abac5%3A4731%3A1a14%3A0%3A0%3A299%3A26&id=o-AMOtPvGcxmxfbxjTjuKSCXGDRTR8-HD5VZ9c8k3OpH74&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=r6&mm=31%2C29&mn=sn-oguelnzr%2Csn-oguesn6s&ms=au%2Crdu&mv=m&mvi=4&pl=44&pcm2=no&initcwndbps=1565000&bui=AQmm2ezv41xt4PG-p_TxauwP1seOQWWiXzcBLjDOu2FUqokTfD-Oxr7K2ZWHAa2hE8sFcQZssws68TBv&spc=Mv1m9ro1HfJQneDHESFXDam23uC-Ggm54LkzeXLCHX3WwbZREPUlbNvdHFOFoDY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=P6zwoTBdOzwjQWCgAP2jB5UQ&rqh=1&cnr=14&ratebypass=yes&dur=85.751&lmt=1664936108177448&mt=1725739970&fvip=1&c=MWEB&sefc=1&txp=5538434&n=VN3wADr9dRYXaQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAOsD-H7851oRhIg3LSaPme1_Hh2ao9xEqZV5GqFP0cdlAiEA85JSjUI1_HgmidiFyW3vFCFoDIdEkfy-rYBHJHavOLE%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ABPmVW0wRQIgPUnkO0in0Emjs0FcLemHK-1rTR0QMUnWQN9QsDoxKUYCIQDqPExWGG6lbQDT1O5nX8KSO18PDFC6aQFHeytZmrOInw%3D%3D&cpn=A--DKHEyS5yMJ7sx&cver=2.20240904.06.00&ptk=youtube_none&pltype=contentugc
+https://test.zapi.us.kg/?id=elta-sport3
 #EXTINF:-1 group-title="Sport 🇨🇳", ELTA體育4
 http://free.xiptv.x10.bz/kudou.php?id=72
 #EXTINF:-1 group-title="Sport 🇨🇳", ELEVEN體育1
@@ -121,3 +123,34 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 group-title="World Sport🌍", beINSport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
+
+#EXTINF:-1 group-title="Sport 🇨🇳", 1
+http://free.xiptv.x10.bz/kudou.php?id=70
+#EXTINF:-1 group-title="Sport 🇨🇳", 2
+http://free.xiptv.x10.bz/kudou.php?id=71
+#EXTINF:-1 group-title="Sport 🇨🇳", 3
+http://free.xiptv.x10.bz/kudou.php?id=69
+#EXTINF:-1 group-title="Sport 🇨🇳", 4
+http://free.xiptv.x10.bz/kudou.php?id=68
+#EXTINF:-1 group-title="Sport 🇨🇳", 5
+http://free.xiptv.x10.bz/kudou.php?id=67
+#EXTINF:-1 group-title="Sport 🇨🇳", 6
+http://free.xiptv.x10.bz/kudou.php?id=66
+#EXTINF:-1 group-title="Sport 🇨🇳", 7
+http://free.xiptv.x10.bz/kudou.php?id=65
+#EXTINF:-1 group-title="Sport 🇨🇳", 8
+http://free.xiptv.x10.bz/kudou.php?id=64
+#EXTINF:-1 group-title="Sport 🇨🇳", 9
+http://free.xiptv.x10.bz/kudou.php?id=63
+#EXTINF:-1 group-title="Sport 🇨🇳", 10
+http://free.xiptv.x10.bz/kudou.php?id=62
+#EXTINF:-1 group-title="Sport 🇨🇳", 11
+http://free.xiptv.x10.bz/kudou.php?id=61
+#EXTINF:-1 group-title="Sport 🇨🇳", 12
+http://free.xiptv.x10.bz/kudou.php?id=60
+#EXTINF:-1 group-title="Sport 🇨🇳", 13
+http://free.xiptv.x10.bz/kudou.php?id=59
+#EXTINF:-1 group-title="Sport 🇨🇳", 14
+http://free.xiptv.x10.bz/kudou.php?id=58
+#EXTINF:-1 group-title="Sport 🇨🇳", 15
+http://free.xiptv.x10.bz/kudou.php?id=57
