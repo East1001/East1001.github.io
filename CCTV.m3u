@@ -15,7 +15,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV6
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV7
-http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV8
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
 #EXTINF:-1 group-title="央視 🇨🇳",CCTV9
