@@ -2,8 +2,6 @@
 #EXTINF:-1 group-title="KBS", KBS1
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="KBS", KBS1.
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch3/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="KBS", KBS1..
 http://mytv.dothome.co.kr/ch/public/12.php
 #EXTINF:-1 group-title="KBS", KBS1(BTV)
 http://mytv.dothome.co.kr/ch/public/1.php
