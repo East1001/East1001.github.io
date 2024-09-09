@@ -2,6 +2,8 @@
 #EXTINF:-1 group-title="KBS", KBS1
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="KBS", KBS1.
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch3/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="KBS", KBS1..
 http://mytv.dothome.co.kr/ch/public/12.php
 #EXTINF:-1 group-title="KBS", KBS1(BTV)
 http://mytv.dothome.co.kr/ch/public/1.php
@@ -13,6 +15,8 @@ http://mytv.dothome.co.kr/ch/public/3.php
 http://mytv.dothome.co.kr/ch/public/3.php?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KBS", KBS2(DB U+)
 http://1.214.67.206/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="KBS", KBS2(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch4/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="KBS", KBS News
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
 #EXTINF:-1 group-title="KBS", KBS News.
@@ -46,8 +50,6 @@ http://mytv.dothome.co.kr/ch/catv/3.php
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="MBC", MBC.
 http://www.hwado.net/webtv/public/21_573058EB.php/.m3u8
-#EXTINF:-1 group-title="MBC", MBC(BTV)
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch1/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="MBC", MBC(DB U+)
 http://1.214.67.206/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="MBC", MBC광주TV
@@ -89,8 +91,8 @@ http://1.245.74.5:1935/live/tv/.m3u8
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
 #EXTINF:-1 group-title="YTN", YTN.
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
-#EXTINF:-1 group-title="YTN", YTN(BTV)
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 group-title="YTN", YTN（유튜브）
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1725905102&ei=beTeZtbyOci12roP57PGkA0&ip=2a09%3Abac5%3A4739%3A1a14%3A0%3A0%3A299%3A6&id=FJfwehhzIhw.4&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&tx=51251778&txs=51251778%2C51251779%2C51251780%2C51251781%2C51251782&hfr=1&playlist_duration=30&manifest_duration=30&gcr=kr&spc=Mv1m9uCayzLN9-8slztIbPXY0Encn2dfbP59Z0foHirqrCEASDGOxgKTG0fzBus&vprv=1&go=1&rqh=5&pacing=0&nvgoi=1&keepalive=yes&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type&sig=AJfQdSswRgIhAIYUY6Lr1rd_xJPHGyqpafUGuujYD2HHDte0PaTotSUZAiEA9Xf0Yw6dI47kiyKPexpdItZGzIOSnfPy91jA-l1Qxz0%3D&cpn=TSPS-NTdiyDXteEY&ibw=12040000&c=MWEB&cver=2.20240904.06.00&ptk=youtube_single&oid=kefY8_T19ln6zsgXWsmv0g&ptchn=hlgI3UHCOnwUGzWzbJ3H5w&pltype=contentlive
 #EXTINF:-1 group-title="YTN", YTN2
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="YTN", YTN사이언스
