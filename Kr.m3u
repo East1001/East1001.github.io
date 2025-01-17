@@ -90,7 +90,7 @@ https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.co
 #EXTINF:-1 group-title="YTN", YTN.
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
 #EXTINF:-1 group-title="YTN", YTN..
-https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1737132375&ei=9zSKZ-WFA6SX1d8P0KfbCA&ip=2a09%3Abac5%3A4735%3A1482%3A%3A20b%3A36&id=FJfwehhzIhw.5&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&tx=51306781&txs=51306780%2C51306781&hfr=1&playlist_duration=30&manifest_duration=30&maudio=1&gcr=kr&bui=AY2Et-NGixS2-WDpu01aQ9YXZzLawoofVo7LNR6AnC7wAgnyny5ZqWSKf1nbvOvbxYoWAnKjP7OWukch&spc=9kzgDRP5fptw1qEwCBnvRi6lLL7dn7IBW21y5ypy02WtpKweP4Nxp-MkWyWJpuo&vprv=1&go=1&rqh=5&pacing=0&nvgoi=1&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51371294%2C51384461&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type&sig=AJfQdSswRAIgDsuG4WYiW-e2jxJV2gnQUVNDzEje7eYUQp_ktPoFj_8CIADPpgx0o0Oxj_b77p5rE3PqgDrlH_DEprd82PbawG8e&cpn=pzM4NN08S1BoZMOL&ibw=1369843&c=WEB_EMBEDDED_PLAYER&cver=1.20250113.00.00.efe&ptk=youtube_single&oid=kefY8_T19ln6zsgXWsmv0g&ptchn=hlgI3UHCOnwUGzWzbJ3H5w&pltype=contentlive
 #EXTINF:-1 group-title="YTN", YTN...
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="YTN", YTN2
