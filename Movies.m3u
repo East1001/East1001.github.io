@@ -65,8 +65,6 @@ https://api.heimuer.app/play/fc44de74a4674b43856d0ed52c1a2505.m3u8
 https://m3u8.hmrvideo.com/play/e8f9bc85341a44c596147f047d32ee8c.m3u8
 #EXTINF:-1 group-title="English", 泳者之心 清风
 https://vip.kuaikan-play3.com/20240720/cR0JpH5u/index.m3u8
-#EXTINF:-1 group-title="English", 黄飞鸿之怒海雄风 
-https://vip.kuaikan-cdn3.com/20230409-1/nQ9UwziV/index.m3u8
 #EXTINF:-1 group-title="English", 아폴로13
 https://m3u8.0ee0.com/vedio2/20240906/1725607747749/out.m3u8
 
@@ -211,6 +209,8 @@ https://vip.ffzy-play6.com/20240825/28382_bd0a75fe/index.m3u8
 https://vip.ffzy-video.com/20240822/1054_db576a7d/index.m3u8
 #EXTINF:-1 group-title="China", 怒火12小时 CNFLIX
 https://m3u8.hmrvideo.com/play/d3ed488c055b4134bf621957117fa6c4.m3u8
+#EXTINF:-1 group-title="China", 黄飞鸿之怒海雄风 
+https://vip.kuaikan-cdn3.com/20230409-1/nQ9UwziV/index.m3u8
 #EXTINF:-1 group-title="China", 黄飞鸿五大弟子 清风
 https://vip.kuaikan-play1.com/20230407/vrNfNus5/index.m3u8
 #EXTINF:-1 group-title="China", 黄飞鸿之南北英雄 清风
