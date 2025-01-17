@@ -112,6 +112,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
 http://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 #EXTINF:-1 group-title="채널A", 채널A
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
+#EXTINF:-1 group-title="채널A", 채널A.
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzcxODQ2Nzd9.c7CFxVfWbJVNU9TebmNwJzzYnkQdpZYRASMcsvhakXk
 #EXTINF:-1 group-title="tvN", tvN
 https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM5MjY2Mzl9.C6_kMT490DByiQhc9Pf2zuc4lzOWMdUF9RQ71Evlo2U
 #EXTINF:-1 group-title="MBN", MBN
