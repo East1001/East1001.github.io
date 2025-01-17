@@ -111,7 +111,7 @@ https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.co
 #EXTINF:-1 group-title="연합뉴스", 연합뉴스TV(BTV)
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 #EXTINF:-1 group-title="TV조선", TV조선
-http://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
+https://nvod1.tvchosun.com/vod1/_definst_/mp4:CS/2019_vod/drama/C201900127/20191221_C201900127_003_2V.mp4/playlist.m3u8?_lsu_sa_=3285c8332aaa33053ed0c4d8385610d029e16dd23f96883438b82875795b6733adccfe323695d9fe4fba6e329a856ec35456df8b4ca5f9f22aa5df7645a08b69a18c375135f8ba706e93f899d63b040e&v=3
 #EXTINF:-1 group-title="TV조선", TV조선(KORTV)
 http://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 #EXTINF:-1 group-title="채널A", 채널A
