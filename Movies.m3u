@@ -84,10 +84,8 @@ https://play.subokk.com/play/NbWV5qoa/index.m3u8
 https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/91b7b026-ff5d-4d16-b9fb-f417cc3cfb4f/1.m3u8
 #EXTINF:-1 group-title="Korea", 강철비2
 https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/6eb2a0b9-1fe3-4627-8fa7-3141dd332e54/1.m3u8
-#EXTINF:-1 group-title="Korea", 공조1 GDPiao
-https://localm3u8.2000000000line.com/box/m3u8?m3u8=http://127.0.0.1:10011/m3u8/d62d206a-6997-48de-91ca-29e736eead85/1.m3u8
-#EXTINF:-1 group-title="Korea", 공조1 무비바요
-https://a1np9lzy.cdn-jupiter.com/hls2/01/01451/5130lbct4k4v_,n,h,.urlset/master.m3u8?t=vf1hkLVGY_88Zx38GnAkOKq21T8-zto0JdWwDBFxkp0&s=1725692982&e=129600&f=7257829&srv=rup99sdwt652&i=0.4&sp=500&p1=rup99sdwt652&p2=rup99sdwt652&asn=13335
+#EXTINF:-1 group-title="Korea", 공조1
+https://m3u8.hmrvideo.com/play/f3aaf64ae3ca4f7a847eb3d2e8712e23.m3u8
 #EXTINF:-1 group-title="Korea", 공조2
 https://m3u8.hmrvideo.com/play/25a0c2dffdcb4b8ba87a8f2a207c2fbc.m3u8
 #EXTINF:-1 group-title="Korea", 부산행
