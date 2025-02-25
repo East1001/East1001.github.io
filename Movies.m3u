@@ -73,6 +73,8 @@ https://m3u8.hmrvideo.com/play/4a59a9e9252e461d938f3bff0087dcbd.m3u8
 https://play.hhuus.com/play/oeEz3Mva/index.m3u8
 #EXTINF:-1 group-title="English", 原始巨星
 https://play.modujx11.com/20250212/HYSkFbge/2663kb/hls/index.m3u8
+#EXTINF:-1 group-title="English", 평화의 전사들
+https://i11lli.com/cdn/hls/76d57f5aa48b9ad2b4d495fb24ac02fb/master
 
 #EXTINF:-1 group-title="Korea", 신행복한 나라
 https://v.ddys.pro/v/movie/Land.of.Happiness.2024.mp4
@@ -185,6 +187,11 @@ https://hd.ijycnd.com/play/9b6PMlVe/index.m3u8
 #EXTINF:-1 group-title="Korea", 愁城波哥大
 https://v.cdnlz3.com/20250204/33114_f01477a2/2000k/hls/mixed.m3u
 
+#EXTINF:-1 group-title="India", 因果报应
+https://media-shpd-fy-person.sh3oss.ctyunxs.cn/PERSONCLOUD/fdfb04cd-a8e6-4280-a387-005811df959c.mp4?response-content-disposition=attachment%3Bfilename%3D%22因果报应2024.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%259B%25A0%25E6%259E%259C%25E6%258A%25A5%25E5%25BA%25942024.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=6WbjPmK2NcWWH2F0UHg%2BdhseYAM%3D&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1740479875&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=3235403094&x-amz-UID=10000001677302&x-amz-UFID=31434316945337340
+#EXTINF:-1 group-title="India", 双生爱相杀
+https://vip.ffzy-video.com/20241115/6358_a822554e/index.m3u8
+
 #EXTINF:-1 group-title="China", 目中无人1 清风
 https://vip.kuaikan-cdn3.com/20230402/HGigPevi/index.m3u8 
 #EXTINF:-1 group-title="China", 目中无人2
@@ -287,6 +294,8 @@ https://v3.dious.cc/20220417/0l28sv5l/1500kb/hls/index.m3u8
 https://s2.fsvod1.com/20220223/nN8xN6MO/1200kb/hls/index.m3u8
 #EXTINF:-1 group-title="China", 误判
 https://m3u8.heimuertv.com/play/5a70a77756f640e9804b2654a92f60e7.m3u8
+#EXTINF:-1 group-title="China", 误判
+https://vip.ffzy-video.com/20250131/11338_eb0ad44c/index.m3u8
 
 #EXTINF:-1 group-title="kids", 獅子王：木法沙傳奇
 https://m3u8.hmrvideo.com/play/807e9494ad904a6e97666f600d2a3eb9.m3u8
