@@ -57,8 +57,8 @@ https://m3u8.hmrvideo.com/play/1b08fafea04c4082ad688bcb1d7c29f6.m3u8
 https://api.heimuer.app/play/433d5cca53554f0292f9a4607b63a8e9.m3u8
 #EXTINF:-1 group-title="English", 코만단테 코티비씨
 https://i11lli.com/cdn/hls/d8a81c035c484a127647507ae7beb426/master.txt
-#EXTINF:-1 group-title="English", 구르카웨리어
-https://www.jamnatv.com/video/m3u8//72ebb577/index.m3u8
+#EXTINF:-1 group-title="English", 断点2009
+https://svip.high21-playback.com/20250223/41706_23132911/index.m3u8
 #EXTINF:-1 group-title="English", 惊天激战  CNFLIX
 https://api.heimuer.app/play/fc44de74a4674b43856d0ed52c1a2505.m3u8
 #EXTINF:-1 group-title="English", 黑亚当 小包影院
@@ -69,14 +69,22 @@ https://svip.high21-playback.com/20240813/38200_bd10dc61/index.m3u8
 https://m3u8.0ee0.com/vedio2/20240906/1725607747749/out.m3u8
 #EXTINF:-1 group-title="English", 复仇者联盟3：无限战争
 https://m3u8.hmrvideo.com/play/4a59a9e9252e461d938f3bff0087dcbd.m3u8
+#EXTINF:-1 group-title="English", 复仇者联盟
+https://vip.lzcdn2.com/20220402/1938_b629ffbe/index.m3u8
+#EXTINF:-1 group-title="English", 复仇者联盟2：奥创纪元
+https://vip.lzcdn2.com/20220402/1942_5a27df02/index.m3u8
+#EXTINF:-1 group-title="English", 复仇者联盟3：无限战争
+https://vip.lzcdn2.com/20220402/1943_70581b4e/index.m3u8
+#EXTINF:-1 group-title="English", 复仇者联盟4：终局之战
+https://vip.lzcdn2.com/20220402/1945_f2f055d5/index.m3u8
 #EXTINF:-1 group-title="English", 特工同盟
 https://play.hhuus.com/play/oeEz3Mva/index.m3u8
 #EXTINF:-1 group-title="English", 特工同盟
 https://svip.high21-playback.com/20250222/41692_f1593bc5/index.m3u8
 #EXTINF:-1 group-title="English", 原始巨星
 https://play.modujx11.com/20250212/HYSkFbge/2663kb/hls/index.m3u8
-#EXTINF:-1 group-title="English", 평화의 전사들
-https://i11lli.com/cdn/hls/76d57f5aa48b9ad2b4d495fb24ac02fb/master
+#EXTINF:-1 group-title="English", 飞机陷落
+https://vip.lz-cdn3.com/20230203/17492_db6a00f5/index.m3u8
 
 #EXTINF:-1 group-title="thailand", 姥姥的外孙
 https://media-shpd-fy-person.sh3oss.ctyunxs.cn/PERSONCLOUD/7e16ea9d-42de-422a-a8db-c56c100113a6.mp4?response-content-disposition=attachment%3Bfilename%3D%22姥姥的外孙2024.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25A7%25A5%25E5%25A7%25A5%25E7%259A%2584%25E5%25A4%2596%25E5%25AD%25992024.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=sJqkIQxfJ89IV27OL4qDbi298NA%3D&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1740485540&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=2910334516&x-amz-UID=10000001677302&x-amz-UFID=21432317055442744
@@ -86,6 +94,8 @@ https://wxkdhls.mcloud.139.com/v3/hls/1504928508021837568/playlist.m3u8?ci=FnOtn
 https://media-shpd-fy-person.sh3oss.ctyunxs.cn/PERSONCLOUD/0b6a0f90-533b-42b6-9639-829ea49d0f5a.mp4?response-content-disposition=attachment%3Bfilename%3D%22Sector.36.2024.mp4%22%3Bfilename*%3DUTF-8%27%27Sector.36.2024.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=DXtA8p%2B8HSmPfCraYNZIjCid9fI%3D&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1740491016&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=2841973189&x-amz-UID=10000001712858&x-amz-UFID=41554317056871728
 #EXTINF:-1 group-title="India", 双生爱相杀
 https://vip.ffzy-video.com/20241115/6358_a822554e/index.m3u8
+#EXTINF:-1 group-title="India", 猛虎3
+https://v.cdnlz12.com/20240825/16600_104a3a1f/index.m3u8
 
 #EXTINF:-1 group-title="Korea", 신행복한 나라
 https://v.ddys.pro/v/movie/Land.of.Happiness.2024.mp4
