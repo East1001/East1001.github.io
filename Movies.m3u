@@ -143,14 +143,16 @@ https://i11lli.com/cdn/hls/6f41ab4878e0527478ffd547a5ae380b/master.txt
 https://i11lli.com/cdn/hls/fa49b5e50fe03fb151d14d7f71eab0d6/master.txt
 #EXTINF:-1 group-title="Korea", 엑시트
 https://m3u8.hmrvideo.com/play/3388f8b4653a4c15b3c2965624c351ef.m3u8
+#EXTINF:-1 group-title="Korea", 독전
+https://i11lli.com/cdn/hls/f9a649dcd631168995da978d662173d2/master.txt
 #EXTINF:-1 group-title="Korea", 독전2
-https://v.cdnlz4.com/20231117/26156_c60ebe89/index.m3u8
+https://i11lli.com/cdn/hls/e7f89cde2f769b2598d8c40da7c73ba3/master.txt
 #EXTINF:-1 group-title="Korea", 강남1970
-https://vip.lz-cdn3.com/20220925/14136_375c82a7/index.m3u8
+https://i11lli.com/cdn/hls/aa4a099d731bec9d7f427d41f207f2a5/master.txt
 #EXTINF:-1 group-title="Korea", 1급기밀 GDPiao
 https://m3u8.0ee0.com/vedio/20240902/1725282662347/out.m3u8
 #EXTINF:-1 group-title="Korea", 태풍2005
-https://vip.lz-cdn12.com/20230827/9575_691ed1bd/index.m3u8
+https://i11lli.com/cdn/hls/afd8cf48d79e74d10bfa97adbc6cf85a/master.txt
 #EXTINF:-1 group-title="Korea", 썸
 https://vip.lzcdn2.com/20220407/2501_c155dcd3/index.m3u8
 #EXTINF:-1 group-title="Korea", 중천
