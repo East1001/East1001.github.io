@@ -48,16 +48,10 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 https://d21rxjywdcts3g.cloudfront.net/h264/CH_G/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="World Sport🇰🇷", SBS Sports(BTV)
 https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="World Sport🇰🇷", SBS Golf(DB U+)
-http://1.214.67.38/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="World Sport🇰🇷", SBS GOLF(BTV)
 https://d2zve2l62bwzcf.cloudfront.net/h264/sbsgolf/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="World Sport🇰🇷", JTBC GOLF&SPORTS
 http://mytv.dothome.co.kr/ch/catv/58.php/
-#EXTINF:-1 group-title="World Sport🇰🇷", JTBC Golf(DB U+)
-http://1.214.67.38/vod/60211.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="World Sport🇰🇷", 스크린골프존(DB U+)
-http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="World Sport🇰🇷", FTV
 http://218.236.58.185:1935/FTVLIVE_WEB/Stream_web/chunklist_w1794675765.m3u8
 #EXTINF:-1 group-title="World Sport🇰🇷", 바둑TV
