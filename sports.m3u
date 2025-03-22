@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sport 🇨🇳", 足球频道
-https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 group-title="Sport 🇨🇳", CCTV5
 https://edge.886456.xyz/live/cctv5.m3u8?token=aHASKB9-d5I-XEJdevEkBA&expires=1742656201
 #EXTINF:-1 group-title="Sport 🇨🇳", CCTV5+
 https://edge.886456.xyz/live/cctv5plus.m3u8?token=i2nLL_EwuO0-zjOxxP-kfw&expires=1742656269
+#EXTINF:-1 group-title="Sport 🇨🇳", 足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 group-title="Sport 🇨🇳", 五星体育
 https://edge.404406.xyz/live/great_sports.m3u8?token=nSm41LhHuevPbm4QWAJjuA&expires=1742656406
 #EXTINF:-1 group-title="Sport 🇨🇳", 新视觉
@@ -33,12 +33,6 @@ https://edge.404406.xyz/live/sportcast-mod212.m3u8?token=ZHarkvBE74OuIjbhWsFOzA&
 https://edge.404406.xyz/live/sportcast-mod217.m3u8?token=ZqTDBu8xVlXg0yqKNu2Uhg&expires=1742656790
 #EXTINF:-1 group-title="Sport 🇨🇳", 智林體育
 http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
-#EXTINF:-1 group-title="Sport 🇨🇳", MOMOTV
-rtmp://59.124.75.138/sat/tv761
-#EXTINF:-1 group-title="Sport 🇨🇳", 澳门体育
-http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1 group-title="Sport 🇨🇳", 欧洲体育
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 
 EXTINF:-1 group-title="World Sport🇰🇷", 프로야구 5경기(DB U+)
 http://1.214.67.206/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
