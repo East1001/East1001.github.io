@@ -34,7 +34,7 @@ https://edge.404406.xyz/live/sportcast-mod217.m3u8?token=ZqTDBu8xVlXg0yqKNu2Uhg&
 #EXTINF:-1 group-title="Sport 🇨🇳", 智林體育
 http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
 
-EXTINF:-1 group-title="World Sport🇰🇷", 프로야구 5경기(DB U+)
+#EXTINF:-1 group-title="World Sport🇰🇷", 프로야구 5경기(DB U+)
 http://1.214.67.206/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="World Sport🇰🇷", SPOTV(BTV)
 https://d2zve2l62bwzcf.cloudfront.net/h264/spotv1/cmaf-hls/master.m3u8
