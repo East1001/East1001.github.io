@@ -36,24 +36,20 @@ http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/defaul
 #EXTINF:-1 ,CCTV-17
 http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 
-#EXTINF:-1 ,中国天气
-http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8
-#EXTINF:-1 ,中国供销
-http://140.207.241.2:8080/live/program/live/zggxpd/1300000/mnf.m3u8
-#EXTINF:-1 ,北京卫视HD
-http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,东方卫视HD
-http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
-#EXTINF:-1 ,天津卫视HD
-http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/dongfangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,重庆卫视
-http://140.207.241.2:8080/live/program/live/cqws/1300000/mnf.m3u8
-#EXTINF:-1 ,黑龙江卫视HD
-http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,吉林卫视
-http://140.207.241.2:8080/live/program/live/jlws/1300000/mnf.m3u8
-#EXTINF:-1 ,辽宁卫视HD
-http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://140.207.241.2:8080/live/program/live/nmgws/1300000/mnf.m3u8
 #EXTINF:-1 ,宁夏卫视
