@@ -51,11 +51,11 @@ http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default
 #EXTINF:-1 ,辽宁卫视
 http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/neimengHD/__op/default/__f/index.m3u8
+http://219.145.201.198:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=NMGWIp/index.m3u8
 #EXTINF:-1 ,宁夏卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/ningxiaHD/__op/default/__f/index.m3u8
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
 #EXTINF:-1 ,甘肃卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/ganshuHD/__op/default/__f/index.m3u8
+http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/gansuHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,青海卫视
 http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,陕西卫视
