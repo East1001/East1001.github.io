@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+http://8.138.7.223/tv/ptbtv.php?id=27
 #EXTINF:-1 ,CCTV-2
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 ,CCTV-3
@@ -24,7 +24,7 @@ http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 #EXTINF:-1 ,CCTV-12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 ,CCTV-13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+http://8.138.7.223/tv/ptbtv.php?id=28
 #EXTINF:-1 ,CCTV-14
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 ,CCTV-15
