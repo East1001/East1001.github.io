@@ -33,46 +33,44 @@ http://42.48.17.230:808/hls/15/index.m3u8
 http://42.48.17.230:808/hls/16/index.m3u8
 #EXTINF:-1 ,CCTV-17
 http://42.48.17.230:808/hls/17/index.m3u8
-#EXTINF:-1 ,Cg
-http://42.48.17.230:808/hls/18/index.m3u8
 
-#EXTINF:-1 ,CCTV-1
+#EXTINF:-1 ,辽宁卫视
 http://42.48.17.230:808/hls/19/index.m3u8
-#EXTINF:-1 ,CCTV-2
+#EXTINF:-1 ,C2
 http://42.48.17.230:808/hls/20/index.m3u8
-#EXTINF:-1 ,CCTV-3
+#EXTINF:-1 ,C3
 http://42.48.17.230:808/hls/21/index.m3u8
-#EXTINF:-1 ,CCTV-4
+#EXTINF:-1 ,C4
 http://42.48.17.230:808/hls/22/index.m3u8
-#EXTINF:-1 ,CCTV-5
+#EXTINF:-1 ,C5
 http://42.48.17.230:808/hls/23/index.m3u8
-#EXTINF:-1 ,CCTV-5+
+#EXTINF:-1 ,C5#
 http://42.48.17.230:808/hls/24/index.m3u8
-#EXTINF:-1 ,CCTV-6
+#EXTINF:-1 ,C6
 http://42.48.17.230:808/hls/25/index.m3u8
-#EXTINF:-1 ,CCTV-7
+#EXTINF:-1 ,C7
 http://42.48.17.230:808/hls/26/index.m3u8
-#EXTINF:-1 ,CCTV-8
+#EXTINF:-1 ,C8
 http://42.48.17.230:808/hls/27/index.m3u8
-#EXTINF:-1 ,CCTV-9
+#EXTINF:-1 ,C9
 http://42.48.17.230:808/hls/28/index.m3u8
-#EXTINF:-1 ,CCTV-10
+#EXTINF:-1 ,C10
 http://42.48.17.230:808/hls/29/index.m3u8
-#EXTINF:-1 ,CCTV-11
+#EXTINF:-1 ,C11
 http://42.48.17.230:808/hls/30/index.m3u8
-#EXTINF:-1 ,CCTV-12
+#EXTINF:-1 ,C12
 http://42.48.17.230:808/hls/31/index.m3u8
-#EXTINF:-1 ,CCTV-13
+#EXTINF:-1 ,C13
 http://42.48.17.230:808/hls32/index.m3u8
-#EXTINF:-1 ,CCTV-14
+#EXTINF:-1 ,C14
 http://42.48.17.230:808/hls/33/index.m3u8
-#EXTINF:-1 ,CCTV-15
+#EXTINF:-1 ,C15
 http://42.48.17.230:808/hls34/index.m3u8
-#EXTINF:-1 ,CCTV-17
+#EXTINF:-1 ,C17
 http://42.48.17.230:808/hls35/index.m3u8
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 ,辽宁卫视
 http://42.48.17.230:808/hls/36/index.m3u8
-#EXTINF:-1 ,CCTV-18
+#EXTINF:-1 ,东南卫视
 http://42.48.17.230:808/hls/37/index.m3u8
 #EXTINF:-1 ,CCTV-19
 http://42.48.17.230:808/hls/38/index.m3u8
