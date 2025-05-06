@@ -50,6 +50,12 @@ http://42.48.17.230:808/hls/25/index.m3u8
 http://42.48.17.230:808/hls/26/index.m3u8
 #EXTINF:-1 ,湖南经视
 http://42.48.17.230:808/hls/27/index.m3u8
+#EXTINF:-1 ,新闻综合
+http://42.48.17.230:808/hls/58/index.m3u8
+#EXTINF:-1 ,政法频道
+http://42.48.17.230:808/hls/59/index.m3u8
+
+
 #EXTINF:-1 ,湖南卫视
 http://42.48.17.230:808/hls/28/index.m3u8
 #EXTINF:-1 ,四川卫视
@@ -110,10 +116,7 @@ http://42.48.17.230:808/hls/55/index.m3u8
 http://42.48.17.230:808/hls/56/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://42.48.17.230:808/hls/57/index.m3u8
-#EXTINF:-1 ,新闻综合
-http://42.48.17.230:808/hls/58/index.m3u8
-#EXTINF:-1 ,政法频道
-http://42.48.17.230:808/hls/59/index.m3u8
+
 #EXTINF:-1 ,CGTN41
-http://42.48.17.230:808/hls/61/index.m3u8
+http://42.48.17.230:808/hls/62/index.m3u8
 
