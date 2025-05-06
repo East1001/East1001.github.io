@@ -88,31 +88,32 @@ http://42.48.17.230:808/hls/44/index.m3u8
 http://42.48.17.230:808/hls/45/index.m3u8
 #EXTINF:-1 ,东方卫视
 http://42.48.17.230:808/hls/46/index.m3u8
-#EXTINF:-1 ,CCTV-28
+#EXTINF:-1 ,深圳卫视
 http://42.48.17.230:808/hls/47/index.m3u8
-#EXTINF:-1 ,CCTV-29
+#EXTINF:-1 ,山东卫视
 http://42.48.17.230:808/hls/48/index.m3u8
-#EXTINF:-1 ,CCTV-30
+#EXTINF:-1 ,黑龙江卫视
 http://42.48.17.230:808/hls/49/index.m3u8
-#EXTINF:-1 ,CCTV-31
+#EXTINF:-1 ,广西卫视
 http://42.48.17.230:808/hls/50/index.m3u8
-#EXTINF:-1 ,CCTV-32
+#EXTINF:-1 ,云南卫视
 http://42.48.17.230:808/hls/51/index.m3u8
-#EXTINF:-1 ,CCTV-33
+#EXTINF:-1 ,陕西卫视
 http://42.48.17.230:808/hls/52/index.m3u8
-#EXTINF:-1 ,CCTV-34
+#EXTINF:-1 ,青海卫视
 http://42.48.17.230:808/hls/53/index.m3u8
-#EXTINF:-1 ,CGTN35
+#EXTINF:-1 ,江西卫视
 http://42.48.17.230:808/hls/54/index.m3u8
-#EXTINF:-1 ,CGTN36
+#EXTINF:-1 ,厦门卫视
 http://42.48.17.230:808/hls/55/index.m3u8
-#EXTINF:-1 ,CGTN37
+#EXTINF:-1 ,山西卫视
 http://42.48.17.230:808/hls/56/index.m3u8
-#EXTINF:-1 ,CGTN38
+#EXTINF:-1 ,内蒙古卫视
 http://42.48.17.230:808/hls/57/index.m3u8
-#EXTINF:-1 ,CGTN39
+#EXTINF:-1 ,新闻综合
 http://42.48.17.230:808/hls/58/index.m3u8
-#EXTINF:-1 ,CGTN40
+#EXTINF:-1 ,政法频道
 http://42.48.17.230:808/hls/59/index.m3u8
 #EXTINF:-1 ,CGTN41
-http://42.48.17.230:808/hls/60/index.m3u8
+http://42.48.17.230:808/hls/61/index.m3u8
+
