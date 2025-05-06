@@ -36,6 +36,92 @@ http://42.48.17.230:808/hls/17/index.m3u8
 #EXTINF:-1 ,Cg
 http://42.48.17.230:808/hls/18/index.m3u8
 
+#EXTINF:-1 ,CCTV-1
+http://42.48.17.230:808/hls/19/index.m3u8
+#EXTINF:-1 ,CCTV-2
+http://42.48.17.230:808/hls/20/index.m3u8
+#EXTINF:-1 ,CCTV-3
+http://42.48.17.230:808/hls/21/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://42.48.17.230:808/hls/22/index.m3u8
+#EXTINF:-1 ,CCTV-5
+http://42.48.17.230:808/hls/23/index.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://42.48.17.230:808/hls/24/index.m3u8
+#EXTINF:-1 ,CCTV-6
+http://42.48.17.230:808/hls/25/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://42.48.17.230:808/hls/26/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://42.48.17.230:808/hls/27/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://42.48.17.230:808/hls/28/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://42.48.17.230:808/hls/29/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://42.48.17.230:808/hls/30/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://42.48.17.230:808/hls/31/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://42.48.17.230:808/hls32/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://42.48.17.230:808/hls/33/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://42.48.17.230:808/hls34/index.m3u8
+#EXTINF:-1 ,CCTV-17
+http://42.48.17.230:808/hls35/index.m3u8
+#EXTINF:-1 ,CGTN
+http://42.48.17.230:808/hls/36/index.m3u8
+#EXTINF:-1 ,CCTV-18
+http://42.48.17.230:808/hls/37/index.m3u8
+#EXTINF:-1 ,CCTV-19
+http://42.48.17.230:808/hls/38/index.m3u8
+#EXTINF:-1 ,CCTV-20
+http://42.48.17.230:808/hls/39/index.m3u8
+#EXTINF:-1 ,CCTV-21
+http://42.48.17.230:808/hls/40/index.m3u8
+#EXTINF:-1 ,CCTV-22
+http://42.48.17.230:808/hls/41/index.m3u8
+#EXTINF:-1 ,CCTV23
+http://42.48.17.230:808/hls/42/index.m3u8
+#EXTINF:-1 ,CCTV-24
+http://42.48.17.230:808/hls/43/index.m3u8
+#EXTINF:-1 ,CCTV-25
+http://42.48.17.230:808/hls/44/index.m3u8
+#EXTINF:-1 ,CCTV-26
+http://42.48.17.230:808/hls/45/index.m3u8
+#EXTINF:-1 ,CCTV-27
+http://42.48.17.230:808/hls/46/index.m3u8
+#EXTINF:-1 ,CCTV-28
+http://42.48.17.230:808/hls47/index.m3u8
+#EXTINF:-1 ,CCTV-29
+http://42.48.17.230:808/hls/48/index.m3u8
+#EXTINF:-1 ,CCTV-30
+http://42.48.17.230:808/hls/49/index.m3u8
+#EXTINF:-1 ,CCTV-31
+http://42.48.17.230:808/hls/50/index.m3u8
+#EXTINF:-1 ,CCTV-32
+http://42.48.17.230:808/hls51/index.m3u8
+#EXTINF:-1 ,CCTV-33
+http://42.48.17.230:808/hls/52/index.m3u8
+#EXTINF:-1 ,CCTV-34
+http://42.48.17.230:808/hls/53/index.m3u8
+#EXTINF:-1 ,CGTN35
+http://42.48.17.230:808/hls/54/index.m3u8
+#EXTINF:-1 ,CGTN36
+http://42.48.17.230:808/hls/55/index.m3u8
+#EXTINF:-1 ,CGTN37
+http://42.48.17.230:808/hls/56/index.m3u8
+#EXTINF:-1 ,CGTN38
+http://42.48.17.230:808/hls/57/index.m3u8
+#EXTINF:-1 ,CGTN39
+http://42.48.17.230:808/hls/58/index.m3u8
+#EXTINF:-1 ,CGTN40
+http://42.48.17.230:808/hls/59/index.m3u8
+#EXTINF:-1 ,CGTN41
+http://42.48.17.230:808/hls/60/index.m3u8
+
+
 #EXTINF:-1 ,北京卫视
 http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,东方卫视
