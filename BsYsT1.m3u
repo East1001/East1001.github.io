@@ -56,7 +56,7 @@ http://42.48.17.230:808/hls/28/index.m3u8
 http://42.48.17.230:808/hls/29/index.m3u8
 #EXTINF:-1 ,C11
 http://42.48.17.230:808/hls/30/index.m3u8
-#EXTINF:-1 ,C12
+#EXTINF:-1 ,海南卫视
 http://42.48.17.230:808/hls/31/index.m3u8
 #EXTINF:-1 ,C13
 http://42.48.17.230:808/hls32/index.m3u8
@@ -116,73 +116,3 @@ http://42.48.17.230:808/hls/58/index.m3u8
 http://42.48.17.230:808/hls/59/index.m3u8
 #EXTINF:-1 ,CGTN41
 http://42.48.17.230:808/hls/60/index.m3u8
-
-
-#EXTINF:-1 ,北京卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,辽
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://219.145.201.198:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=NMGWIp/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://219.145.201.198:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=GSWSeP/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://123.138.88.162:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=SXWSTVv/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://123.138.88.162:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=SXWSCL/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://123.138.88.162:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=SDWSqi/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://219.145.201.198:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=AHWSWe/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,厦门卫视
-http://123.138.88.162:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=XMWSNs/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,兵团卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://42.48.17.230:808/hls/31/index.m3u8
