@@ -70,26 +70,26 @@ http://42.48.17.230:808/hls/35/index.m3u8
 http://42.48.17.230:808/hls/36/index.m3u8
 #EXTINF:-1 ,东南卫视
 http://42.48.17.230:808/hls/37/index.m3u8
-#EXTINF:-1 ,CCTV-19
+#EXTINF:-1 ,广东卫视
 http://42.48.17.230:808/hls/38/index.m3u8
-#EXTINF:-1 ,CCTV-20
+#EXTINF:-1 ,湖北卫视
 http://42.48.17.230:808/hls/39/index.m3u8
-#EXTINF:-1 ,CCTV-21
+#EXTINF:-1 ,贵州卫视
 http://42.48.17.230:808/hls/40/index.m3u8
-#EXTINF:-1 ,CCTV-22
+#EXTINF:-1 ,河北卫视
 http://42.48.17.230:808/hls/41/index.m3u8
-#EXTINF:-1 ,CCTV23
+#EXTINF:-1 ,江苏卫视
 http://42.48.17.230:808/hls/42/index.m3u8
-#EXTINF:-1 ,CCTV-24
+#EXTINF:-1 ,浙江卫视
 http://42.48.17.230:808/hls/43/index.m3u8
-#EXTINF:-1 ,CCTV-25
+#EXTINF:-1 ,北京卫视
 http://42.48.17.230:808/hls/44/index.m3u8
-#EXTINF:-1 ,CCTV-26
+#EXTINF:-1 ,天津卫视
 http://42.48.17.230:808/hls/45/index.m3u8
-#EXTINF:-1 ,CCTV-27
+#EXTINF:-1 ,东方卫视
 http://42.48.17.230:808/hls/46/index.m3u8
 #EXTINF:-1 ,CCTV-28
-http://42.48.17.230:808/hls47/index.m3u8
+http://42.48.17.230:808/hls/47/index.m3u8
 #EXTINF:-1 ,CCTV-29
 http://42.48.17.230:808/hls/48/index.m3u8
 #EXTINF:-1 ,CCTV-30
