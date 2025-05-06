@@ -58,13 +58,13 @@ http://42.48.17.230:808/hls/29/index.m3u8
 http://42.48.17.230:808/hls/30/index.m3u8
 #EXTINF:-1 ,海南卫视
 http://42.48.17.230:808/hls/31/index.m3u8
-#EXTINF:-1 ,C13
+#EXTINF:-1 ,海南卫视
 http://42.48.17.230:808/hls/32/index.m3u8
-#EXTINF:-1 ,C14
+#EXTINF:-1 ,吉林卫视
 http://42.48.17.230:808/hls/33/index.m3u8
-#EXTINF:-1 ,C15
+#EXTINF:-1 ,甘肃卫视
 http://42.48.17.230:808/hls/34/index.m3u8
-#EXTINF:-1 ,C17
+#EXTINF:-1 ,安徽卫视
 http://42.48.17.230:808/hls/35/index.m3u8
 #EXTINF:-1 ,辽宁卫视
 http://42.48.17.230:808/hls/36/index.m3u8
@@ -97,7 +97,7 @@ http://42.48.17.230:808/hls/49/index.m3u8
 #EXTINF:-1 ,CCTV-31
 http://42.48.17.230:808/hls/50/index.m3u8
 #EXTINF:-1 ,CCTV-32
-http://42.48.17.230:808/hls51/index.m3u8
+http://42.48.17.230:808/hls/51/index.m3u8
 #EXTINF:-1 ,CCTV-33
 http://42.48.17.230:808/hls/52/index.m3u8
 #EXTINF:-1 ,CCTV-34
