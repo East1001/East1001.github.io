@@ -66,7 +66,7 @@ http://42.48.17.230:808/hls/33/index.m3u8
 http://42.48.17.230:808/hls34/index.m3u8
 #EXTINF:-1 ,C17
 http://42.48.17.230:808/hls35/index.m3u8
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 ,辽宁
 http://42.48.17.230:808/hls/36/index.m3u8
 #EXTINF:-1 ,东南卫视
 http://42.48.17.230:808/hls/37/index.m3u8
@@ -130,7 +130,7 @@ http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/def
 http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,吉林卫视
 http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-#EXTINF:-1 ,辽宁
+#EXTINF:-1 ,辽
 http://1.82.234.148/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://219.145.201.198:3389/index.php?okaysites=1%C3%97tamp=1744288369&url=NMGWIp/index.m3u8
