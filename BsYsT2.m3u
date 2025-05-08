@@ -6,11 +6,11 @@ http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 ,CCTV-3
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 ,CCTV-4
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+https://k09093.kylintv.tv/live/cctv4hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-6
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+https://k09093.kylintv.tv/live/cctv6hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-7
 http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 ,CCTV-8
