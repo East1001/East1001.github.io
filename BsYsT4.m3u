@@ -1,34 +1,47 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1高清
-rtsp://124.75.34.37/PLTV/88888888/224/3221226102/00000100000000060000000000009784_0.smil
+https://k09093.kylintv.tv/live/cctv1hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-2高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv2hd.m3u8
+https://k09093.kylintv.tv/live/cctv2hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-3高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv3hd.m3u8
+https://k09093.kylintv.tv/live/cctv3hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-4高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv4hd.m3u8
+https://k09093.kylintv.tv/live/cctv4hd_iphone.m3u8
 #EXTINF:-1 ,CCTV-5高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv5hd.m3u8
+https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 ,CCTV5+高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv5phd.m3u8
+https://k09093.kylintv.tv/live/cctv5+hd_iphone.m3u8
 #EXTINF:-1 ,CCTV6-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv6hd.m3u8
+https://k09093.kylintv.tv/live/cctv6hd_iphone.m3u8
 #EXTINF:-1 ,CCTV7-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv7hd.m3u8
+https://k09093.kylintv.tv/live/cctv7hd_iphone.m3u8
 #EXTINF:-1 ,CCTV8-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv8hd.m3u8
+https://k09093.kylintv.tv/live/cctv8hd_iphone.m3u8
 #EXTINF:-1 ,CCTV9-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv9hd.m3u8
+https://k09093.kylintv.tv/live/cctv9hd_iphone.m3u8
 #EXTINF:-1 ,CCTV10-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv10hd.m3u8
+https://k09093.kylintv.tv/live/cctv10hd_iphone.m3u8
+#EXTINF:-1 ,CCTV11-高清
+https://k09093.kylintv.tv/live/cctv11hd_iphone.m3u8
 #EXTINF:-1 ,CCTV12-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv12hd.m3u8
+https://k09093.kylintv.tv/live/cctv12hd_iphone.m3u8
 #EXTINF:-1 ,CCTV13-高清
-http://103.198.18.1:8082/TV4020.m3u8
+https://k09093.kylintv.tv/live/cctv13hd_iphone.m3u8
 #EXTINF:-1 ,CCTV14-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv14hd.m3u8
+https://k09093.kylintv.tv/live/cctv14hd_iphone.m3u8
 #EXTINF:-1 ,CCTV15-高清
-http://103.198.18.1:8082/TV4012.m3u8
+https://k09093.kylintv.tv/live/cctv15hd_iphone.m3u8
+#EXTINF:-1 ,CCTV16-高清
+https://k09093.kylintv.tv/live/cctv16hd_iphone.m3u8
+#EXTINF:-1 ,CCTV17-高清
+https://k09093.kylintv.tv/live/cctv17hd_iphone.m3u8
+#EXTINF:-1 ,CCTV18-高清
+https://k09093.kylintv.tv/live/cctv18hd_iphone.m3u8
+#EXTINF:-1 ,CCTV19-高清
+https://k09093.kylintv.tv/live/cctv19hd_iphone.m3u8
+#EXTINF:-1 ,CCTV20-高清
+https://k09093.kylintv.tv/live/cctv20hd_iphone.m3u8
+
 #EXTINF:-1 ,新闻综合HD
 rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil
 #EXTINF:-1 ,东方卫视HD
