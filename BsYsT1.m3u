@@ -2,35 +2,33 @@
 #EXTINF:-1 ,CCTV-1
 http://115.58.217.160:60001/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV-2
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/2/index.m3u8
 #EXTINF:-1 ,CCTV-3
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/3/index.m3u8
 #EXTINF:-1 ,CCTV-4
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/4/index.m3u8
 #EXTINF:-1 ,CCTV-5
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/5/index.m3u8
 #EXTINF:-1 ,CCTV-6
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/6/index.m3u8
 #EXTINF:-1 ,CCTV-7
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/7/index.m3u8
 #EXTINF:-1 ,CCTV-8
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/8/index.m3u8
 #EXTINF:-1 ,CCTV-9
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/9/index.m3u8
 #EXTINF:-1 ,CCTV-10
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/10/index.m3u8
 #EXTINF:-1 ,CCTV-11
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/11/index.m3u8
 #EXTINF:-1 ,CCTV-12
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/12/index.m3u8
 #EXTINF:-1 ,CCTV-13
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-14
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV-15
-http://115.58.217.160:60001/hls/1/index.m3u8
+http://115.58.217.160:60001/hls/15/index.m3u8
 
 #EXTINF:-1 ,1
 http://115.58.217.160:60001/hls/1/index.m3u8
@@ -62,64 +60,66 @@ http://115.58.217.160:60001/hls/1/index.m3u8
 http://115.58.217.160:60001/hls/1/index.m3u8
 #EXTINF:-1 ,15
 http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,厦门卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://115.58.217.160:60001/hls/1/index.m3u8
 
+#EXTINF:-1 ,湖南卫视
+http://115.58.217.160:60001/hls/16/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://115.58.217.160:60001/hls/17/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://115.58.217.160:60001/hls/18/index.m3u8
+#EXTINF:-1 ,海南卫视
+http://115.58.217.160:60001/hls/19/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://115.58.217.160:60001/hls/20/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://115.58.217.160:60001/hls/21/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://115.58.217.160:60001/hls/22/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://115.58.217.160:60001/hls/23/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://115.58.217.160:60001/hls/24/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://115.58.217.160:60001/hls/25/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://115.58.217.160:60001/hls/26/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://115.58.217.160:60001/hls/27/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://115.58.217.160:60001/hls/28/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://115.58.217.160:60001/hls/29/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://115.58.217.160:60001/hls/30/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://115.58.217.160:60001/hls/31/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://115.58.217.160:60001/hls/32/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://115.58.217.160:60001/hls/33/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://115.58.217.160:60001/hls/34/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://115.58.217.160:60001/hls/35/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://115.58.217.160:60001/hls/36/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://115.58.217.160:60001/hls/37/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://115.58.217.160:60001/hls/38/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://115.58.217.160:60001/hls/39/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://115.58.217.160:60001/hls/40/index.m3u8
+#EXTINF:-1 ,青海卫视
+http://115.58.217.160:60001/hls/41/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://115.58.217.160:60001/hls/42/index.m3u8
+#EXTINF:-1 ,厦门卫视
+http://115.58.217.160:60001/hls/43/index.m3u8
+#EXTINF:-1 ,山西卫视
+http://115.58.217.160:60001/hls/44/index.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://115.58.217.160:60001/hls/45/index.m3u8
+#EXTINF:-1 ,
+http://115.58.217.160:60001/hls/16/index.m3u8
