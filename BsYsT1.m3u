@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1高清
-https://k09093.kylintv.tv/live/cctv1hd_iphone.m3u8
+http://111.43.126.240:9003/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-2高清
 http://111.43.126.240:9003/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV-3高清
@@ -37,29 +37,31 @@ http://111.43.126.240:9003/hls/29/index.m3u8
 http://111.43.126.240:9003/hls/30/index.m3u8 
 
 #EXTINF:-1 ,16
-http://115.58.217.160:60001/hls/16/index.m3u8
+http://111.43.126.240:9003/hls/31/index.m3u8 
 #EXTINF:-1 ,17
-http://115.58.217.160:60001/hls/17/index.m3u8
+http://111.43.126.240:9003/hls/32/index.m3u8 
 #EXTINF:-1 ,18
-http://115.58.217.160:60001/hls/18/index.m3u8
+http://111.43.126.240:9003/hls/33/index.m3u8
 #EXTINF:-1 ,19
-http://115.58.217.160:60001/hls/19/index.m3u8
+http://111.43.126.240:9003/hls/34/index.m3u8 
 #EXTINF:-1 ,20
-http://115.58.217.160:60001/hls/20/index.m3u8
+http://111.43.126.240:9003/hls/35/index.m3u8 
 #EXTINF:-1 ,21
-http://115.58.217.160:60001/hls/21/index.m3u8
+http://111.43.126.240:9003/hls/36/index.m3u8 
+
 #EXTINF:-1 ,22
-http://115.58.217.160:60001/hls/22/index.m3u8
+http://111.43.126.240:9003/hls/10/index.m3u8
 #EXTINF:-1 ,23
-http://115.58.217.160:60001/hls/23/index.m3u8
+http://111.43.126.240:9003/hls/11/index.m3u8
 #EXTINF:-1 ,24
-http://115.58.217.160:60001/hls/24/index.m3u8
+http://111.43.126.240:9003/hls/12/index.m3u8
+
 #EXTINF:-1 ,25
-http://115.58.217.160:60001/hls/25/index.m3u8
+http://111.43.126.240:9003/hls/37/index.m3u8
 #EXTINF:-1 ,26
-http://115.58.217.160:60001/hls/26/index.m3u8
+http://111.43.126.240:9003/hls/38/index.m3u8
 #EXTINF:-1 ,27
-http://115.58.217.160:60001/hls/27/index.m3u8
+http://111.43.126.240:9003/hls/39/index.m3u8
 #EXTINF:-1 ,28
 http://115.58.217.160:60001/hls/28/index.m3u8
 #EXTINF:-1 ,29
