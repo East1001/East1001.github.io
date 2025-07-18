@@ -1,38 +1,40 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-1HD/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-3HD/index.m3u8
-#EXTINF:-1 ,CCTV-4
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-4HD/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
-#EXTINF:-1 ,CCTV-6
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-6HD/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-7HD/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-8HD/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-9HD/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-10HD/index.m3u8
-#EXTINF:-1 ,CCTV-11
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-11HD/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-12HD/index.m3u8
-#EXTINF:-1 ,CCTV-13
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-14HD/index.m3u8
-#EXTINF:-1 ,CCTV-15
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
-#EXTINF:-1 ,CCTV-17
-http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
+#EXTINF:-1 ,CCTV-1高清
+https://k09093.kylintv.tv/live/cctv1hd_iphone.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://111.43.126.240:9003/hls/14/index.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://111.43.126.240:9003/hls/15/index.m3u8
+#EXTINF:-1 ,CCTV-4高清
+http://111.43.126.240:9003/hls/16/index.m3u8
+#EXTINF:-1 ,CCTV-5高清
+http://111.43.126.240:9003/hls/17/index.m3u8
+#EXTINF:-1 ,CCTV5+高清
+http://111.43.126.240:9003/hls/18/index.m3u8 
+#EXTINF:-1 ,CCTV6-高清
+http://111.43.126.240:9003/hls/19/index.m3u8 
+#EXTINF:-1 ,CCTV7-高清
+http://111.43.126.240:9003/hls/20/index.m3u8 
+#EXTINF:-1 ,CCTV8-高清
+http://111.43.126.240:9003/hls/21/index.m3u8
+#EXTINF:-1 ,CCTV9-高清
+http://111.43.126.240:9003/hls/22/index.m3u8  
+#EXTINF:-1 ,CCTV10-高清
+http://111.43.126.240:9003/hls/23/index.m3u8 
+#EXTINF:-1 ,CCTV11-高清
+http://111.43.126.240:9003/hls/24/index.m3u8 
+#EXTINF:-1 ,CCTV12-高清
+http://111.43.126.240:9003/hls/25/index.m3u8 
+#EXTINF:-1 ,CCTV13-高清
+http://111.43.126.240:9003/hls26/index.m3u8
+#EXTINF:-1 ,CCTV14-高清
+http://111.43.126.240:9003/hls27/index.m3u8
+#EXTINF:-1 ,CCTV15-高清
+http://111.43.126.240:9003/hls/28/index.m3u8 
+#EXTINF:-1 ,CCTV16-高清
+http://111.43.126.240:9003/hls/29/index.m3u8
+#EXTINF:-1 ,CCTV17-高清
+http://111.43.126.240:9003/hls/30/index.m3u8 
 
 #EXTINF:-1 ,16
 http://115.58.217.160:60001/hls/16/index.m3u8
