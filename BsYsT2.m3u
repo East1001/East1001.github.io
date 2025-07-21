@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
-https://eastscreen.tv/jzb123.php?id=cctv1
+https://tvpull.careryun.com/live/6affc23769b9b98ae2aef4a030603d8b.m3u8?txSecret=7f0e07be5c222c0309198d82d1a6e549&txTime=687e16fc
 #EXTINF:-1 ,CCTV-2
 http://eastscreen.tv/jzb123.php?id=cctv2
 #EXTINF:-1 ,CCTV-3
