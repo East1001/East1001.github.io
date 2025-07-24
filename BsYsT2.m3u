@@ -1,4 +1,5 @@
 #EXTM3U
+http://221.205.204.69:9003/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV-1
 http://eastscreen.tv/jzb123.php?id=cctv1
 #EXTINF:-1 ,CCTV-2
