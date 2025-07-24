@@ -1,3 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 ,CCTV-1
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-2
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-3
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-5
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-6
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-16
+http://110.178.210.119:9003/hls/1/index.m3u8
+#EXTINF:-1 ,CCTV-17
 http://110.178.210.119:9003/hls/1/index.m3u8
