@@ -120,25 +120,25 @@ http://139.209.168.41:9003/hls/68/index.m3u8
 #EXTINF:-1 ,59
 http://139.209.168.41:9003/hls/69/index.m3u8
 #EXTINF:-1 ,60
-http://139.209.168.41:9003/hls/71/index.m3u8
+http://139.209.168.41:9003/hls/70/index.m3u8
 #EXTINF:-1 ,61
-http://139.209.168.41:9003/hls/72/index.m3u8
+http://139.209.168.41:9003/hls/71/index.m3u8
 #EXTINF:-1 ,62
-http://139.209.168.41:9003/hls/73/index.m3u8
+http://139.209.168.41:9003/hls/72/index.m3u8
 #EXTINF:-1 ,63
-http://139.209.168.41:9003/hls/74/index.m3u8
+http://139.209.168.41:9003/hls/73/index.m3u8
 #EXTINF:-1 ,64
-http://139.209.168.41:9003/hls/75/index.m3u8
+http://139.209.168.41:9003/hls/74/index.m3u8
 #EXTINF:-1 ,65
-http://139.209.168.41:9003/hls/76/index.m3u8
+http://139.209.168.41:9003/hls/75/index.m3u8
 #EXTINF:-1 ,66
-http://139.209.168.41:9003/hls/77/index.m3u8
+http://139.209.168.41:9003/hls/76/index.m3u8
 #EXTINF:-1 ,67
-http://139.209.168.41:9003/hls/78/index.m3u8
+http://139.209.168.41:9003/hls/77/index.m3u8
 #EXTINF:-1 ,68
-http://139.209.168.41:9003/hls/79/index.m3u8
+http://139.209.168.41:9003/hls/78/index.m3u8
 #EXTINF:-1 ,69
-http://139.209.168.41:9003/hls/80/index.m3u8
+http://139.209.168.41:9003/hls/79/index.m3u8
 #EXTINF:-1 ,70
 http://110.178.210.119:9003/hls/71/index.m3u8
 #EXTINF:-1 ,71
