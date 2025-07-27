@@ -36,9 +36,9 @@ http://139.209.168.41:9003/hls/19/index.m3u8
 #EXTINF:-1 ,CCTV-17
 http://139.209.168.41:9003/hls/20/index.m3u8
 
-#EXTINF:-1 ,HBO1
-https://fl5.moveonjoy.com/HBO_1/index.m3u8
 #EXTINF:-1 ,HBO2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 ,19
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 ,20
 http://110.178.210.119:9003/hls/21/index.m3u8
