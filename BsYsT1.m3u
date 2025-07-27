@@ -40,27 +40,27 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 ,19
 http://139.209.168.41:9003/hls/21/index.m3u8
 #EXTINF:-1 ,20
-http://139.209.168.41:9003/hls/22/index.m3u8
+http://139.209.168.41:9003/hls/30/index.m3u8
 #EXTINF:-1 ,21
-http://139.209.168.41:9003/hls/23/index.m3u8
+http://139.209.168.41:9003/hls/31/index.m3u8
 #EXTINF:-1 ,22
-http://139.209.168.41:9003/hls/24/index.m3u8
+http://139.209.168.41:9003/hls/32/index.m3u8
 #EXTINF:-1 ,23
-http://139.209.168.41:9003/hls/25/index.m3u8
+http://139.209.168.41:9003/hls/33/index.m3u8
 #EXTINF:-1 ,24
-http://110.178.210.119:9003/hls/25/index.m3u8
+http://139.209.168.41:9003/hls/34/index.m3u8
 #EXTINF:-1 ,25
-http://110.178.210.119:9003/hls/26/index.m3u8
+http://139.209.168.41:9003/hls/35/index.m3u8
 #EXTINF:-1 ,26
-http://110.178.210.119:9003/hls/27/index.m3u8
+http://139.209.168.41:9003/hls/36/index.m3u8
 #EXTINF:-1 ,27
-http://110.178.210.119:9003/hls/28/index.m3u8
+http://139.209.168.41:9003/hls/37/index.m3u8
 #EXTINF:-1 ,28
-http://110.178.210.119:9003/hls/29/index.m3u8
+http://139.209.168.41:9003/hls/38/index.m3u8
 #EXTINF:-1 ,29
-http://110.178.210.119:9003/hls/30/index.m3u8
+http://139.209.168.41:9003/hls/39/index.m3u8
 #EXTINF:-1 ,30
-http://110.178.210.119:9003/hls/31/index.m3u8
+http://139.209.168.41:9003/hls/40/index.m3u8
 #EXTINF:-1 ,31
 http://110.178.210.119:9003/hls/32/index.m3u8
 #EXTINF:-1 ,32
