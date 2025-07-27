@@ -4,42 +4,42 @@ http://139.209.168.41:9003/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV-2
 http://139.209.168.41:9003/hls/2/index.m3u8
 #EXTINF:-1 ,CCTV-3
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/3/index.m3u8
 #EXTINF:-1 ,CCTV-4
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/5/index.m3u8
 #EXTINF:-1 ,CCTV-5
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/6/index.m3u8
 #EXTINF:-1 ,CCTV-5+
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/7/index.m3u8
 #EXTINF:-1 ,CCTV-6
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/8/index.m3u8
 #EXTINF:-1 ,CCTV-7
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/9/index.m3u8
 #EXTINF:-1 ,CCTV-8
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/10/index.m3u8
 #EXTINF:-1 ,CCTV-9
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/11/index.m3u8
 #EXTINF:-1 ,CCTV-10
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/12/index.m3u8
 #EXTINF:-1 ,CCTV-11
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-12
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV-13
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/15/index.m3u8
 #EXTINF:-1 ,CCTV-14
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/16/index.m3u8
 #EXTINF:-1 ,CCTV-15
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/17/index.m3u8
 #EXTINF:-1 ,CCTV-16
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/19/index.m3u8
 #EXTINF:-1 ,CCTV-17
-http://139.209.168.41:9003/hls/1/index.m3u8
+http://139.209.168.41:9003/hls/20/index.m3u8
 
+#EXTINF:-1 ,HBO1
+https://fl5.moveonjoy.com/HBO_1/index.m3u8
 #EXTINF:-1 ,HBO2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 ,19
-http://110.178.210.119:9003/hls/20/index.m3u8
 #EXTINF:-1 ,20
 http://110.178.210.119:9003/hls/21/index.m3u8
 #EXTINF:-1 ,21
