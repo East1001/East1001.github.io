@@ -1,61 +1,746 @@
 #EXTM3U8
-#EXTINF:-1,KBS1
-https://stream.ogtv3.com/live/live1004.m3u8 
-#EXTINF:-1,KBS2
-https://stream.ogtv3.com/live/live1005.m3u8 
-#EXTINF:-1,SBS
-https://stream.ogtv3.com/live/live1006.m3u8 
+#EXTINF:-1,OBS경인TV
+https://vod.obs.co.kr:444/live/obsstream1/fm.stream/playlist.m3u8
+#EXTINF:-1,KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1,KBS춘천 1TV
+http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
+#EXTINF:-1,KBS대전 1TV
+http://mytv.dothome.co.kr/ch/public/11.php/.m3u8
+#EXTINF:-1,KBS대구 1TV
+http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
+#EXTINF:-1,KBS부산 1TV
+http://mytv.dothome.co.kr/ch/public/15.php/.m3u8
+#EXTINF:-1,KBS울산 1TV
+http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
+#EXTINF:-1,KBS광주 1TV
+http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
+#EXTINF:-1,KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1,MBC
-https://stream.ogtv3.com/live/live1003.m3u8 
-#EXTINF:-1,YTN​
-https://stream.ogtv3.com/live/live1021.m3u8 
-#EXTINF:-1,tvN
-https://stream.ogtv3.com/live/live1007.m3u8 
-#EXTINF:-1,MBN
-https://stream.ogtv3.com/live/live1008.m3u8 
-#EXTINF:-1,JTBC
-https://stream.ogtv3.com/live/live1009.m3u8 
-#EXTINF:-1,채널A
-https://stream.ogtv3.com/live/live1010.m3u8 ​
-#EXTINF:-1,연합뉴스TV
-https://stream.ogtv3.com/live/live1011.m3u8 
-#EXTINF:-1,TV CHOSUN
-https://stream.ogtv3.com/live/live1012.m3u8  
-#EXTINF:-1,ENA
-https://stream.ogtv3.com/live/live1016.m3u8 
-#EXTINF:-1,EBS1
-https://stream.ogtv3.com/live/live1017.m3u8 ​
-#EXTINF:-1,ENA DRAMA​
-https://stream.ogtv3.com/live/live1019.m3u8 
-#EXTINF:-1,tvN STORY
-https://stream.ogtv3.com/live/live1018.m3u8 
-#EXTINF:-1,tvN STORY
-https://stream.ogtv3.com/live/live1020.m3u8 
-#EXTINF:-1,SCREEN
-https://stream.ogtv3.com/live/live1026.m3u8 
-#EXTINF:-1,더무비
-https://stream.ogtv3.com/live/live1027.m3u8 
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1_B862A42B.m3u8
+#EXTINF:-1,MBC춘천TV (월,화,목 결방 1710 릴레이 금 1710)
+http://stream.chmbc.co.kr:1935/TV/myStream/playlist.m3u8
+#EXTINF:-1,MBC강원영동TV 월 1710 릴레이 (월,화,목 결방)
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,MBC대전TV (월,화,목 결방 1710 릴레이 화 1810)
+http://5c482867a8b63.streamlock.net:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBC충북TV (월,화,목 결방 1710 릴레이)
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBC대구TV 월,화,수,금 1710 릴레이
+http://5ee1ec6f32118.streamlock.net:1935/live/livetv/playlist.m3u8
+#EXTINF:-1,MBC경남TV (화,목 결방 1710 릴레이 월 1810 참사)
+http://wowza.mbcgn.kr:1935/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1,MBC광주TV 월,수,금 1710 릴레이 (화 결방)
+http://media.kjmbc.co.kr:1935/live/stream/playlist.m3u8
+#EXTINF:-1,MBC목포TV 월,화,수,목,금 1710 릴레이 월 1810 참사
+http://vod.mpmbc.co.kr:1935/a_live/25246741/ch001/playlist.m3u8
+#EXTINF:-1,MBC여수TV (화,목 결방 1710 릴레이 금 1810 일 0930)
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1,MBC전주TV 화,수,목,금 1710 릴레이
+http://5ee9633b25727.streamlock.net:1935/jmbc_tv/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1,MBC제주TV 화,수,목,금 1710 릴레이 수 1810
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1,SBS
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
+#EXTINF:-1,G1 l SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/master.m3u8
+#EXTINF:-1,TJB l SBS
+http://123.214.216.80:1935/live/tv/master.m3u8
+#EXTINF:-1,CJB l SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1,TBC l SBS
+http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-002/index.m3u8
+#EXTINF:-1,KNN l SBS
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1,ubc l SBS
+http://stream.ubc.co.kr:8080/hls/ubctvstream/index.m3u8?tkn=918391823
+#EXTINF:-1,KBC l SBS
+http://220.93.180.34:1935/KBCTV/tv/chunklist.m3u8
+#EXTINF:-1,JTV l SBS
+http://jtvonair.sbsoft.net:1935/jtv_live/myStream/chunklist_w1815397250.m3u8
+#EXTINF:-1,JIBS l SBS
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1,OBS경인TV
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1,EBS1 085412128
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,JTBC 24시간 종편채널
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D637AFC.m3u8
+#EXTINF:-1,MBN 24시간 종편채널
+http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
+#EXTINF:-1,채널A 24시간 종편채널
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
+#EXTINF:-1,TV Chosun 24시간 종편채널 (720p)
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1,CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1,GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1,Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1,Lotte Home Shopping (720p)
+http://mohlslive.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1,NS Home Shopping (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1,Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1,Gongyoung Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1,KShopping (1080p)
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1,Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1,W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1,Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1,CJ OnStyle Plus (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1,GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1,Lotte OneTV (720p)
+http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4_1.m3u8
+#EXTINF:-1,Hyundai Home Shopping Plus (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1,NS Shop Plus (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 #EXTINF:-1,OCN
-https://stream.ogtv3.com/live/live1014.m3u8 
+http://live-114.myjktv.com/watch/live.m3u8?video=ocn_540&sid=aztGdtRxGJwbAvfBpvjB6pUeUofu4Xj22e0GAGP9&secret=742e59ac04d387b7654b8a12ceab809d&time=1747460766
+#EXTINF:-1,OCN Movies(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=cgv_540&sid=WWB66tyEeURz6Az9YbbPS8Fop4891HXvjlss0nOV&secret=387a210ebfd1c940577323c330250245&time=1736162266
 #EXTINF:-1,OCN Movies2
-https://stream.ogtv3.com/live/live1030.m3u8 
-#EXTINF:-1,시네마천국​
-https://stream.ogtv3.com/live/live1022.m3u8 
-#EXTINF:-1,플레이보이
-https://stream.ogtv3.com/live/live1015.m3u8 ​
+http://live-114.myjktv.com/watch/live.m3u8?video=super_action_540&sid=4VikBGfkfBv8qrrDknxIaNMH7cW68RX5NtyzUOi0&secret=eaffed2f5c9cab746c2c395f4cbc3a8e&time=1747460851
+#EXTINF:-1,스크린(DDMC)
+https://stream.ogtv2.com/live/live1026.m3u8
+#EXTINF:-1,더무비(DDMC)
+https://stream.ogtv2.com/live/live1027.m3u8
+#EXTINF:-1,시네마천국(DDMC)
+https://stream.ogtv2.com/live/live1022.m3u8
+#EXTINF:-1,중화TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=chinesetv_540&sid=AjQh1vmymw5kuvMdAAtx8VJIfWcuIQIAlAyTXCRZ&secret=390cea3b9d6754bd6553c17de29dd430&time=1736162095
+#EXTINF:-1,CHING(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3081
+#EXTINF:-1,채널차이나(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=2907
+#EXTINF:-1,CNTV(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3167
+#EXTINF:-1,채널나우(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3166
+#EXTINF:-1,AXN(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3168
+#EXTINF:-1,Asia N(U+)
+http://1.214.67.206/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,CATCH ON1
+http://cookies.elementfx.com/ublive/ublive.php?id=3207
+#EXTINF:-1,CATCH ON2
+http://cookies.elementfx.com/ublive/ublive.php?id=3200
+#EXTINF:-1,tvN(DDMC)
+https://stream.ogtv2.com/live/live1007.m3u8
+#EXTINF:-1,KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1,MBC 드라마넷
+http://live2.mbcmpp.co.kr/etc1/_definst_/drama/.m3u8
+#EXTINF:-1,SBS Plus(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=sbs_plus_540&sid=AHXtC57FYS5l97NsUDspjKf06XUN1Y7Ks3Gc7bTt&secret=22e34d0bb43a7b7d5dea6355c6aae485&time=1747460703
+#EXTINF:-1,ENA
+https://live-114.myjktv.com/watch/live.m3u8?video=kbs_joy_540&sid=fnWqSqeMsxy975o4uUiU1J3svkjmkAieTV2boCiR&secret=30b43b26c7d60ff08c7f07c86054695d&time=1747460658
+#EXTINF:-1,tvN DRAMA(DDMC)
+https://stream.ogtv2.com/live/live1020.m3u8
+#EXTINF:-1,ENA DRAMA(DDMC)
+https://stream.ogtv2.com/live/live1019.m3u8
+#EXTINF:-1,KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1,MBC ON
+http://live2.mbcmpp.co.kr/etc3/_definst_/on/.m3u8
+#EXTINF:-1,tvN STORY(DDMC)
+https://stream.ogtv2.com/live/live1018.m3u8
+#EXTINF:-1,라이프타임(U+)
+http://1.214.67.206/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1,MBC 에브리원
+http://live2.mbcmpp.co.kr/etc2/_definst_/every1/.m3u8
+#EXTINF:-1,tvN SHOW(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=xtm_540&sid=ZHiTqOxp17kxH7qFY2UI77JCu3HaiTAYy1ewSf6w&secret=49d19904bd82fe54ff0998901f1e2bcc&time=1736162245
+#EXTINF:-1,E채널(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=channel_e_540&sid=QWiJtSe6BYmoutzLcyzkpGfV7pZbZMrwcRuFjZZz&secret=4fdad65f7986bfdc40cccc3e1cfc8761&time=1736162122
 #EXTINF:-1,코미디TV
-https://stream.ogtv3.com/live/live1028.m3u8 ​
-#EXTINF:-1,핑크하우스
-https://stream.ogtv3.com/live/live1013.m3u8 ​
-#EXTINF:-1,IB SPORTS
-https://stream.ogtv3.com/live/live1029.m3u8 
-#EXTINF:-1,SPOTV Golf&Health 
-https://stream.ogtv3.com/live/live1025.m3u8 ​
+http://live-114.myjktv.com/watch/live.m3u8?video=comedy_540&sid=Oyt2SjKKCU9Rq2qE8BVW176NWHXLBrUzC0ZsLhwJ&secret=0559a74a4f334f102937c3642977a2ab&time=1747460875
+#EXTINF:-1,더라이프(U+)
+http://1.214.67.206/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,OBS W
+http://1.214.67.206/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,JTBC2(U+)
+http://1.214.67.206/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,TV Chosun 2 (720p)
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1,K STAR(U+)
+http://1.214.67.206/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,STATV(U+)
+http://1.214.67.206/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,Mnet(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=mnet_540&sid=X54t2cQgGzY86Fx9eqlTiPcpCV8Ho91PjBLWRRQP&secret=74c06bcf991942833fc87739017da45f&time=1736162223
+#EXTINF:-1,MBC M
+http://live2.mbcmpp.co.kr/etc4/_definst_/m/.m3u8
+#EXTINF:-1,아이넷TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=inet_540&sid=7Xk2bK1Kz2rI5NWhBeGRoY33a4vj5Dy4C40DuAQy&secret=0b026de11a8939e5cd87e87e2f1f0e01&time=1736162516
+#EXTINF:-1,한국가요채널
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1,가요TV(U+)
+http://1.214.67.206/vod/79404.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,GMTV(KT)
+http://1.214.67.206/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P
+#EXTINF:-1,이벤트TV(KT 지니TV/스카이라이프)
+https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,KBS Kids (480p)
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1,EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,JEI 재능TV
+http://live-114.myjktv.com/watch/live.m3u8?video=jei_jenung_540&sid=KGNE28j2FVCQx4XPkUtEA3MpkACdghE4cZIqAl8T&secret=4641c021775e08d5c4ddf1900d434102&time=1736162060
+#EXTINF:-1,뽀요TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=ciGBELe4VqzvtJEldu8ZbGlwkBVrNPLw1CwDLWqS&secret=df53b74fa679315b2be83aebac23bd40&time=1736161411
+#EXTINF:-1,투니버스(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=tooniverse_540&sid=lUgLBRyiN5BwIZYXF3BJdPElyZJDG7zNX85dc0Rw&secret=5ca3c0f0b66b19ee167eef92030d1487&time=1736162004
+#EXTINF:-1,카툰네트워크(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=XjJVIZlx1jo36FIoyUJQaim9XqlMDO8eWvbgoKC7&secret=8486b0858b22b24d6b671de4aa9671c2&time=1736161982
+#EXTINF:-1,ANIMAX(U+)
+http://1.214.67.206/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,애니플러스(U+)
+http://1.214.67.206/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,대교어린이TV(U+)
+http://1.214.67.206/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,브라보키즈(U+)
+http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,JEI 잉크리쉬 TV(U+)
+http://1.214.67.206/vod/79301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,플레이런TV(U+)
+http://1.214.67.206/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,Kids Talk Talk(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=1582
+#EXTINF:-1,연합뉴스TV
+https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/4240af35-d89e-4df3-b98b-a554406b4b72/2.m3u8
+#EXTINF:-1,YTN24
+https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
+#EXTINF:-1,SBS BIZ
+http://cookies.elementfx.com/ublive/ublive.php?id=3201
+#EXTINF:-1,한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/chunklist_w43658333.m3u8
+#EXTINF:-1,매일경제TV
+http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+#EXTINF:-1,토마토증권통
+https://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8?DVR
+#EXTINF:-1,머니투데이방송
+http://moneytoday1.ktcdn.co.kr/mtnlive/_definst_/720/playlist.m3u8
+#EXTINF:-1,서울경제TV
+https://d3khn1u90mfw7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/sen_playlist.m3u8
+#EXTINF:-1,KBSN SPORTS 연합뉴스TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISYiboGZRb3O0wkHG2XNxR5DUyZqqP8FF&secret=dbb984cb4a0e1f03e915ac9266883845&time=1736162356
+#EXTINF:-1,MBC SPORTS+(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=mbc_sports_540&sid=1ggNokwZYgYQXMUJ2jaEn2dAWMFSkDXnaAo0ENSZ&secret=5b37a4e4a9df088a34b4ad142a413494&time=1736162341
+#EXTINF:-1,SBS Sports(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=sbs_sports_540&sid=I1Wbhn3FisDzd0TLcUUkWaM91pUDKU70JN4lVcuS&secret=cdbf90b44eecbc5911dd8165fb255841&time=1736162298
+#EXTINF:-1,SPOTV
+http://1.214.67.103/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,SPOTV2(U+)
+http://1.214.67.206/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1,JTBC GOLF&SPORTS
-https://stream.ogtv3.com/live/live1023.m3u8 
-#EXTINF:-1,SBS Golf2
-https://stream.ogtv3.com/live/live1024.m3u8 
+http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
+#EXTINF:-1,스카이스포츠(DDMC 오락)
+http://live-114.myjktv.com/watch/live.m3u8?video=sky_sports_540&sid=0Gy8nYTU9oiJb2QyCbIZy7yzMJwfTotyNmb7RHVT&secret=095204375fe08ba0df3b84f14d4c6369&time=1736160690
+#EXTINF:-1,tvN SPORTS(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=olivetv_540&sid=Sc69BEXBW6k9CNxZ97nZJN0bCi3J1VHo81hZHS4t&secret=2605541eafa12736a1579bb64743e09a&time=1736162204
+#EXTINF:-1,IB SPORTS(DDMC)
+https://stream.ogtv2.com/live/live1029.m3u8
+#EXTINF:-1,JTBC GOLF
+http://211.110.63.98/jtbcgolf1/_definst_/DED7F83889051E8CAEBC3B586F50695CC8F6CB78BFDD5B0F8CE93E93D99D76A5/chunklist_w1696661438.m3u8
 #EXTINF:-1,SBS Golf
-https://stream.ogtv3.com/live/live1001.m3u8 
-#EXTINF:-1,JTBC Golf​
-https://stream.ogtv3.com/live/live1002.m3u8 
+http://1.214.67.206/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,SPOTV Golf&Health
+http://1.214.67.206/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,playlist.m3u8
+http://138.113.152.29/cdnnowstream.com/cdnnow/live1014/playlist.m3u8?wsSecret=43a6833da6f01adb49eab042b98f5483&wsTime=1729848357&wsSession=5b51c6f83bb66086c54236d5-172984832822172&wsIPSercert=8ab4897030b747a7d12602b51916ec55&wsiphost=local&wsBindIP=3
+#EXTINF:-1,맥스포츠
+https://3gr4nhcbqgraurmtsgyssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live1030/playlist.m3u8?wsSecret=831b8c43502d3ba5794e9521de500009&wsTime=1735973870&wsSession=cd094e9d4d90eee0999f202b-173597384104270&wsIPSercert=8ab4897030b747a7d12602b51916ec58&wsiphost=local&wsBindIP=1
+#EXTINF:-1,빌리어즈TV(U+)
+http://1.214.67.38/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,SBS Golf2(DDMC)
+https://stream.ogtv2.com/live/live1024.m3u8
+#EXTINF:-1,맥스포츠
+https://3gr4nhcbqgraurmtsgyssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live306/playlist.m3u8?wsSecret=831b8c43502d3ba5794e9521de500009&wsTime=1735973870&wsSession=cd094e9d4d90eee0999f202b-173597384104270&wsIPSercert=8ab4897030b747a7d12602b51916ec58&wsiphost=local&wsBindIP=1
+#EXTINF:-1,SPOTV PRIME(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=8XMchPEbFCHQcNTfotRQp4K4kzZy6Vi4Lzp9zFuy&secret=48c97035094bbc6d612fd1ece9d9e6b8&time=1736162734
+#EXTINF:-1,SPOTV PRIME2
+https://3gr4nhcbqgraurmtsgcssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live172/playlist.m3u8?wsSecret=59b6364dfdfe4de55fe7899c1dd2bb56&wsTime=1735953982&wsSession=65d0cbc640d5a56054acab39-173595395283654&wsIPSercert=8ab4897030b747a7d12602b51916ec53&wsiphost=local&wsBindIP=1
+#EXTINF:-1,FTV
+http://5b5ba8aeea997.streamlock.net:1935/FTVLIVE_WEB/Stream_web/chunklist_w1474868927.m3u8
+#EXTINF:-1,FISHING TV(U+)
+http://211.170.95.22/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,SPOTV PRIME2
+https://3gr4nhcbqgraurmtsgcssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live1003/playlist.m3u8?wsSecret=59b6364dfdfe4de55fe7899c1dd2bb56&wsTime=1735953982&wsSession=65d0cbc640d5a56054acab39-173595395283654&wsIPSercert=8ab4897030b747a7d12602b51916ec53&wsiphost=local&wsBindIP=1
+#EXTINF:-1,맥스포츠
+https://3gr4nhcbqgraurmtsgyssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live1014/playlist.m3u8?wsSecret=831b8c43502d3ba5794e9521de500009&wsTime=1735973870&wsSession=cd094e9d4d90eee0999f202b-173597384104270&wsIPSercert=8ab4897030b747a7d12602b51916ec58&wsiphost=local&wsBindIP=1
+#EXTINF:-1,맥스포츠
+https://3gr4nhcbqgraurmtsgyssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live1003/playlist.m3u8?wsSecret=831b8c43502d3ba5794e9521de500009&wsTime=1735973870&wsSession=cd094e9d4d90eee0999f202b-173597384104270&wsIPSercert=8ab4897030b747a7d12602b51916ec58&wsiphost=local&wsBindIP=1
+#EXTINF:-1,브레인TV 장기 체스(U+)
+http://1.214.67.206/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,폴라리스TV(U+)
+http://1.214.67.206/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1,히스토리(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=history_540&sid=zKDqOy38PeC8NRFoIFUSGQT96tIxsLCpKVNmkTs0&secret=dbfa3e5b72481cb0a71912b40ab44b01&time=1736162493
+#EXTINF:-1,지방자치TV(정책)
+https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+#EXTINF:-1,국악방송(정책)
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,tbsTV
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1,YTN2(정책)
+https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/medialist_9171188557012390620_hls.m3u8
+#EXTINF:-1,채널i(정책)
+http://1.201.160.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,NBS한국농업방송(정책)
+https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+#EXTINF:-1,KFN
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1,한국직업방송(정책)
+http://live.jobplustv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1,육아방송(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=child_care_540&sid=ZfGkfX8jharuZvHXvAwB05QCClLS7bAetrLilDEk&secret=eb26a93319c6dbeb17135ec2d3efbb1c&time=1736162044
+#EXTINF:-1,소상공인방송(정책)
+https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1,시민방송 RTV(정책)
+http://rtv-stream.a04f922e9e85c8d25ebfeae3dfd22a67.com:8080/hls/rtv_1080/index.m3u8
+#EXTINF:-1,YTN 사이언스(정책)
+https://sciencelive.ytn.co.kr/science/_definst_/20211118_science/medialist_9171188557012390620_hls.m3u8
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-1,MBCNET
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1,EBS+1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS+2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBSe
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,복지TV(정책)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1,KTV(정책)
+https://hlive.ktv.go.kr/live/klive_h.stream/index.m3u8
+#EXTINF:-1,국회방송 화,토 2200
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1,방송대학TV(정책)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1,CBS TV
+https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/chunklist.m3u8
+#EXTINF:-1,CTS기독교TV (720p)
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1,CGNTV (720p)
+https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+#EXTINF:-1,GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1,가톱릭평화방송
+http://mytv.dothome.co.kr/ch/catv/406_09227BF8.php/.m3u8
+#EXTINF:-1,BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1344581487.m3u8?DVR
+#EXTINF:-1,BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1344581487.m3u8
+#EXTINF:-1,원음방송
+http://wbstv2.kr/live/livestream.m3u8
+#EXTINF:-1,원음방송
+http://157.245.196.186/live/livestream.m3u8
+#EXTINF:-1,playlist.m3u8
+http://112.214.255.230/hls/ch02/playlist.m3u8
+#EXTINF:-1,핑크하우스(DDMC)
+https://stream.ogtv2.com/live/live1013.m3u8
+#EXTINF:-1,ABN아름방송
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1,JCN 울산중앙방송
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+#EXTINF:-1,BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1,KCTV광주방송 CH05
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1,KCTV광주방송 CH21
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1,KCTV제주방송 채널7
+https://vod.kctvjeju.com/LIVE/ch7/playlist.m3u8
+#EXTINF:-1,KCTV제주방송 채널20
+https://vod.kctvjeju.com/ch7/ch4/playlist.m3u8
+#EXTINF:-1,프로야구 5경기
+http://1.214.67.38/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,NHTV농협방송
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1,서울경제TV
+https://d3khn1u90mfw7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/ytn_playlist.m3u8
+#EXTINF:-1,KBS1(DDMC)
+https://stream.ogtv2.com/live/live1004.m3u8
+#EXTINF:-1,KBS2(DDMC)
+https://stream.ogtv2.com/live/live1005.m3u8
+#EXTINF:-1,MBC(DDMC)
+https://stream.ogtv2.com/live/live1003.m3u8
+#EXTINF:-1,SBS(DDMC)
+https://stream.ogtv2.com/live/live1006.m3u8
+#EXTINF:-1,EBS1(DDMC)
+https://stream.ogtv2.com/live/live1017.m3u8
+#EXTINF:-1,JTBC(DDMC)
+https://stream.ogtv2.com/live/live1009.m3u8
+#EXTINF:-1,MBN(DDMC)
+https://stream.ogtv2.com/live/live1008.m3u8
+#EXTINF:-1,채널A(DDMC)
+https://stream.ogtv2.com/live/live1010.m3u8
+#EXTINF:-1,TV CHOSUN(DDMC)
+https://stream.ogtv2.com/live/live1012.m3u8
+#EXTINF:-1,OCN(DDMC)
+https://stream.ogtv2.com/live/live1014.m3u8
+#EXTINF:-1,OCN Movies2(DDMC)
+https://stream.ogtv2.com/live/live1030.m3u8
+#EXTINF:-1,KBS DRAMA(DDMC)
+https://live-114.myjktv.com/watch/live.m3u8?video=kbs_drama_540&sid=PfO9HHqK2S5ZnMoDlJeTYuNIyYZIfJYJPCjGHHaL&secret=e9865408fcf3411261fdc80d4f27c165&time=1747460692
+#EXTINF:-1,ENA(DDMC)
+https://stream.ogtv2.com/live/live1016.m3u8
+#EXTINF:-1,MBC ON(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=mbc_on_540&sid=va5hjCxNZgv7LHaopbb8nGSAXl9blAo03AKlbyRP&secret=7cc5fb20de39329f77ba5cd35b7e7f09&time=1736162282
+#EXTINF:-1,코미디TV(DDMC)
+https://stream.ogtv2.com/live/live1028.m3u8
+#EXTINF:-1,현대홈쇼핑(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=hyundaih_mall_540&sid=wDGX8rjlHOjgjCTFmK8Vy6uCza8w11KeSzFanZ2H&secret=686694f34f3c62a36a08737497bb7a7d&time=1736161173
+#EXTINF:-1,연합뉴스TV(DDMC)
+https://stream.ogtv2.com/live/live1011.m3u8
+#EXTINF:-1,YTN24(DDMC)
+https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+#EXTINF:-1,한국경제TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=wowtv_540&sid=1tMSt8oMahWXQey02oJ9rYuWzl73FCZKFbeKPKt4&secret=28ff9effb51385f782d0f9783a542373&time=1736162364
+#EXTINF:-1,KBS KIDS(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=kbs_kids_540&sid=AUAjobqk82wlvuOIWRVGc6a7oUDlwPWxerN1VqmB&secret=bf946ad29a42cba2bf250f661388aebe&time=1736162018
+#EXTINF:-1,대교 어린이TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=childrens_tv_540&sid=QPpBZ2eYXf6E8OkwGkzi7MLliu5iHdbajKlN8oDU&secret=9233845e6cbfd66648a5ab14b5a8aa51&time=1736162557
+#EXTINF:-1,SPOTV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=spotv_540&sid=TvfNH1cUZSwgcPCW2TtPFJuQlta1zp7Nu6f3yFpw&secret=00e1b9512c645651c32cbc6d6c5d8cba&time=1736162319
+#EXTINF:-1,SPOTV2(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=2iUb1KysZi1FgI3A4q1vTwlJpRRkoy54IEYb0BCv&secret=c39c338dae3770e87e398ac056d6f176&time=1736162164
+#EXTINF:-1,SBS Golf(DDMC)
+https://stream.ogtv2.com/live/live1001.m3u8
+#EXTINF:-1,JTBC GOLF(DDMC)
+https://stream.ogtv2.com/live/live1002.m3u8
+#EXTINF:-1,JTBC GOLF&SPORTS(DDMC)
+https://stream.ogtv2.com/live/live1023.m3u8
+#EXTINF:-1,SPOTV GOLF&HEALTH(DDMC)
+https://stream.ogtv2.com/live/live1025.m3u8
+#EXTINF:-1,FTV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=ftv_540&sid=YOLXiiq8JDip7vwX118Md0bnBSxZvzHDW9ir0GG2&secret=d8b5d79e0fae623f7026c9e0de5aad1f&time=1736162109
+#EXTINF:-1,브레인TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=brain_tv_540&sid=7iZjiVhV1ZSQfYdKj9tXZ43BehS8QL9iQyx6COU4&secret=7f24a911c6a2e47af9dc463080a0d71f&time=1736162428
+#EXTINF:-1,바둑TV(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=baduk_540&sid=WRNmLwaz2kICQh9Bu9uKQrhbKrbpeYCtF3FU8RRw&secret=0205c6202b4af6411bb4b897fc90527e&time=1736161124
+#EXTINF:-1,빌리어즈TV(DDMC)
+http://138.113.152.29/beststream.app/beststream/live1015/playlist.m3u8?wsSecret=43a6833da6f01adb49eab042b98f5483&wsTime=1729848357&wsSession=5b51c6f83bb66086c54236d5-172984832822172&wsIPSercert=8ab4897030b747a7d12602b51916ec55&wsiphost=local&wsBindIP=3
+#EXTINF:-1,EBS+2(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=ebs_2_540&sid=SfxaolzIQHBvTN5WDgvW65e0CvSV4i6cRIt8z1xf&secret=79535e09c115cff07cf50e6304b7858d&time=1736162447
+#EXTINF:-1,CTS(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3084
+#EXTINF:-1,가톨릭평화방송(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=cpbc_540&sid=tP6axahmGtGMKlZh3oIMbsxIgWimEjxc9MYM30Yk&secret=7560fee097120424bcb2da57bcc97643&time=1736161945
+#EXTINF:-1,BTN(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3078
+#EXTINF:-1,BBS(DDMC)
+http://live-114.myjktv.com/watch/live.m3u8?video=buddhist_540&sid=0o4sjzxDRmHY8kEil0lW5ta6d0gAFWOhCMhxXQF3&secret=0fbad99ba65e46186152f75753d11203&time=1736161966
+#EXTINF:-1,KRAH1801500A.m3u8
+https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8
+#EXTINF:-1,KBS1(U+)
+http://1.214.67.38/vod/50102.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,KBS2(U+)
+http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,MBC(U+)
+http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,SBS(U+)
+http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,OBS(U+)
+http://1.214.67.206/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,EBS1(U+)
+http://211.170.95.22/vod/50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,EBS1(U+)
+http://211.170.95.22/vod/38201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,JTBC(U+)
+http://1.214.67.206/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,MBN(U+)
+http://1.214.67.206/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,채널A(U+)
+http://1.214.67.206/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,TV CHOSUN(U+)
+http://1.214.67.206/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,TV CHOSUN(U+)
+http://1.214.67.206/vod/05301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,JTBC GOLF
+http://1.214.67.206/vod/60201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,JTBC GOLF&SPORTS(U+)
+http://1.214.67.103/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,JTBC4(U+)
+http://1.214.67.206/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,연합뉴스TV(U+)(뉴스)
+http://211.170.95.22/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,YTN24(U+)(뉴스)
+http://1.214.67.206/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,토마토증권통(U+)
+http://1.214.67.206/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,볼링플러스(U+)
+http://1.214.67.206/vod/39704.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,CNN(U+)
+http://211.170.95.22/vod/72901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,CNBC(U+)
+http://211.170.95.22/vod/17401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,NHK WJ(U+ Arirang TV)
+http://211.170.95.22/vod/66901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,CJ 온스타일(U+)
+http://1.214.67.206/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,GS SHOP(U+)
+http://1.214.67.206/vod/67601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,롯데홈쇼핑(U+)
+http://1.214.67.206/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,현대홈쇼핑(U+)
+http://1.214.67.206/vod/67501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,NS 홈쇼핑(U+)
+http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,홈앤쇼핑(U+)
+http://1.214.67.206/vod/64901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,W쇼핑(U+)
+http://1.214.67.206/vod/81301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,현대홈쇼핑+#(U+)
+http://1.214.67.206/vod/76001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,GS MY SHOP(U+)
+http://1.214.67.206/vod/74001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,바둑TV(U+)
+http://1.214.67.206/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1,FTV(U+)
+http://211.170.95.22/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,빌리어즈TV(U+)
+http://211.170.95.22/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,EBS KIDS(U+)
+http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,EBS+ 1(U+)
+http://211.170.95.22/vod/17203.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,EBS+ 2(U+)
+http://211.170.95.22/vod/17301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,EBS English(U+)
+http://1.214.67.38/vod/76801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,미드나잇(U+)
+http://1.214.67.206/vod/62802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,플레이보이TV(U+)
+http://1.214.67.206/vod/62902.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,허니TV(U+)
+http://1.214.67.206/vod/74303.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1,KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1,KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1,KMTV
+https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,Korea Economy TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
+#EXTINF:-1,Korean Song Channel (720p)
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1,Maeil Business TV (1080p)
+https://ythls.armelin.one/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
+#EXTINF:-1,KBS1(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch3/cmaf-hls/master.m3u8
+#EXTINF:-1,KBS2(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch4/cmaf-hls/master.m3u8
+#EXTINF:-1,MBC(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch1/cmaf-hls/master.m3u8
+#EXTINF:-1,SBS(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch2/cmaf-hls/master.m3u8
+#EXTINF:-1,MAXPORTS(U+TV/BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/handball01/hls/master.m3u8
+#EXTINF:-1,K바둑(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
+#EXTINF:-1,FTV(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch2/cmaf-hls/master.m3u8
+#EXTINF:-1,KBS1(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch3/cmaf-hls/master.m3u8
+#EXTINF:-1,KBS2(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch4/cmaf-hls/master.m3u8
+#EXTINF:-1,SBS SPORTS+(U+/BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/Video_3M_0.m3u8
+#EXTINF:-1,KBS N SPORTS+(U+/BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
+#EXTINF:-1,MBC SPORTS+(U+/BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch1/cmaf-hls/master.m3u8
+#EXTINF:-1,SBS(U+/BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch2/cmaf-hls/master.m3u8
+#EXTINF:-1,tvN SPORTS(BTV)
+https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
+#EXTINF:-1,SPOTV(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/spotv1/cmaf-hls/master.m3u8
+#EXTINF:-1,SPOTV2(BTV)
+https://d2zve2l62bwzcf.cloudfront.net/h264/spotv2/cmaf-hls/master.m3u8
+#EXTINF:-1,MBN(KT 지니TV/스카이라이프)
+https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/.m3u8
+#EXTINF:-1,TV CHOSUN(KT 지니TV/스카이라이프)
+https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/.m3u8
+#EXTINF:-1,YTN24(KT 지니TV/스카이라이프)
+https://stream.ogtv2.com/live/live1021.m3u8
+#EXTINF:-1,바둑TV(KT 지니TV/스카이라이프)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7372
+#EXTINF:-1,CBS TV(KT 지니TV/스카이라이프)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7372
+#EXTINF:-1,mYTN(YTN24)
+https://dmblive.ytn.co.kr/dmb/_definst_/20211118_dmb/medialist_9171188557012390620_hls.m3u8
+#EXTINF:-1,스크린(DDMC)
+http://138.113.152.29/beststream.app/beststream/live1026/playlist.m3u8?wsSecret=43a6833da6f01adb49eab042b98f5483&wsTime=1729848357&wsSession=5b51c6f83bb66086c54236d5-172984832822172&wsIPSercert=8ab4897030b747a7d12602b51916ec55&wsiphost=local&wsBindIP=3
+#EXTINF:-1,연합뉴스TV
+https://2f1692522a3a425d9df0c8cc9bda9fd5.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/4240af35-d89e-4df3-b98b-a554406b4b72/2.m3u8
+#EXTINF:-1,스카이스포츠
+http://cookies.elementfx.com/ublive/ublive.php?id=2910
+#EXTINF:-1,SPOTV
+http://cookies.elementfx.com/ublive/ublive.php?id=3080
+#EXTINF:-1,KBS KOREA,
+http://cookies.elementfx.com/ublive/ublive.php?id=1040
+#EXTINF:-1,YTN2
+http://cookies.elementfx.com/ublive/ublive.php?id=1058
+#EXTINF:-1,KBS1
+http://cookies.elementfx.com/ublive/ublive.php?id=2752
+#EXTINF:-1,KBS2
+http://cookies.elementfx.com/ublive/ublive.php?id=2753
+#EXTINF:-1,SBS
+SBS,http://cookies.elementfx.com/ublive/ublive.php?id=252
+#EXTINF:-1,채널A
+http://cookies.elementfx.com/ublive/ublive.php?id=3204
+#EXTINF:-1,JEI재능TV
+http://cookies.elementfx.com/ublive/ublive.php?id=3205
+#EXTINF:-1,SCREEN
+http://cookies.elementfx.com/ublive/ublive.php?id=3153
+#EXTINF:-1,ENA
+http://cookies.elementfx.com/ublive/ublive.php?id=2905
+#EXTINF:-1,OBS
+http://cookies.elementfx.com/ublive/ublive.php?id=2358
+#EXTINF:-1,tvN
+http://cookies.elementfx.com/ublive/ublive.php?id=295
+#EXTINF:-1,MBN
+http://cookies.elementfx.com/ublive/ublive.php?id=257
+#EXTINF:-1,CNTV(DDMC)
+http://cookies.elementfx.com/ublive/ublive.php?id=3167
+#EXTINF:-1,iNet,
+http://cookies.elementfx.com/ublive/ublive.php?id=490
+#EXTINF:-1,Mnet
+http://cookies.elementfx.com/ublive/ublive.php?id=3203
+#EXTINF:-1,MBN
+http://cookies.elementfx.com/ublive/ublive.php?id=3197
+#EXTINF:-1,MBC스포츠,
+http://cookies.elementfx.com/ublive/ublive.php?id=265
+#EXTINF:-1,JTBC,
+http://cookies.elementfx.com/ublive/ublive.php?id=3108
+#EXTINF:-1,tvN,
+http://cookies.elementfx.com/ublive/ublive.php?id=1154
+#EXTINF:-1,OCN,
+http://cookies.elementfx.com/ublive/ublive.php?id=488
+#EXTINF:-1,OCN Movies,
+http://cookies.elementfx.com/ublive/ublive.php?id=3165
+#EXTINF:-1,CTS,
+http://cookies.elementfx.com/ublive/ublive.php?id=491
+#EXTINF:-1,SBS
+http://cookies.elementfx.com/ublive/ublive.php?id=3107
+#EXTINF:-1,ublive.php
+런닝맨,http://cookies.elementfx.com/ublive/ublive.php?id=2347
+#EXTINF:-1,ublive.php
+MBC,http://cookies.elementfx.com/ublive/ublive.php?id=251
+#EXTINF:-1,ublive.php
+MBC,http://cookies.elementfx.com/ublive/ublive.php?id=3106
+#EXTINF:-1,ublive.php
+JTBC골프,http://cookies.elementfx.com/ublive/ublive.php?id=268
+#EXTINF:-1,ublive.php
+JTBC,http://cookies.elementfx.com/ublive/ublive.php?id=253
+#EXTINF:-1,ublive.php
+OCN,http://cookies.elementfx.com/ublive/ublive.php?id=3206
+#EXTINF:-1,ublive.php
+Spotv,http://cookies.elementfx.com/ublive/ublive.php?id=266
+#EXTINF:-1,ublive.php
+Spotv2,http://cookies.elementfx.com/ublive/ublive.php?id=267
+#EXTINF:-1,ublive.php
+THE K-POP,http://cookies.elementfx.com/ublive/ublive.php?id=493
+#EXTINF:-1,SPOTV ON1,
+http://cookies.elementfx.com/ublive/ublive.php?id=3104
+#EXTINF:-1,SPOTV ON2,
+http://cookies.elementfx.com/ublive/ublive.php?id=3105
+#EXTINF:-1,TV Chosun,
+http://cookies.elementfx.com/ublive/ublive.php?id=3109
+#EXTINF:-1,한국경제,
+http://cookies.elementfx.com/ublive/ublive.php?id=1064
+#EXTINF:-1,매일경제TV,
+http://cookies.elementfx.com/ublive/ublive.php?id=1065
+#EXTINF:-1,YTN 사이언스,
+http://cookies.elementfx.com/ublive/ublive.php?id=1605
+#EXTINF:-1,Arirang TV,
+http://cookies.elementfx.com/ublive/ublive.php?id=256
+#EXTINF:-1,SBS Sports
+http://cookies.elementfx.com/ublive/ublive.php?id=487
+#EXTINF:-1,Mnet
+http://cookies.elementfx.com/ublive/ublive.php?id=1136
+#EXTINF:-1,Tconvers,
+http://cookies.elementfx.com/ublive/ublive.php?id=1134
+#EXTINF:-1,채널A
+http://cookies.elementfx.com/ublive/ublive.php?id=1092
+#EXTINF:-1,MTN,
+http://cookies.elementfx.com/ublive/ublive.php?id=1504
+#EXTINF:-1,토마토TV,
+http://cookies.elementfx.com/ublive/ublive.php?id=1544
+#EXTINF:-1,이데일리TV,
+http://cookies.elementfx.com/ublive/ublive.php?id=1554
+#EXTINF:-1,EBS1,
+http://cookies.elementfx.com/ublive/ublive.php?id=2439
+#EXTINF:-1,EBS2,
+http://cookies.elementfx.com/ublive/ublive.php?id=3006
+#EXTINF:-1,EBS KIDS,
+http://cookies.elementfx.com/ublive/ublive.php?id=3007
+#EXTINF:-1,EBS PLUS1,
+http://cookies.elementfx.com/ublive/ublive.php?id=3008
+#EXTINF:-1,EBS PLUS2,
+http://cookies.elementfx.com/ublive/ublive.php?id=3009
+#EXTINF:-1,EBSe,
+http://cookies.elementfx.com/ublive/ublive.php?id=3010
+#EXTINF:-1,tvN Show,
+http://cookies.elementfx.com/ublive/ublive.php?id=1020
+#EXTINF:-1,tvN Story,
+http://cookies.elementfx.com/ublive/ublive.php?id=1062
+#EXTINF:-1,Inet TV
+http://cookies.elementfx.com/ublive/ublive.php?id=263
+#EXTINF:-1,Tooniverse,
+http://cookies.elementfx.com/ublive/ublive.php?id=1100
+#EXTINF:-1,대교 어린이,
+http://cookies.elementfx.com/ublive/ublive.php?id=260
+#EXTINF:-1,SPOTV Golf,
+http://cookies.elementfx.com/ublive/ublive.php?id=3169
+#EXTINF:-1,SBS Golf,
+http://cookies.elementfx.com/ublive/ublive.php?id=3170
+#EXTINF:-1,JTBC Golf,
+http://cookies.elementfx.com/ublive/ublive.php?id=3173
+#EXTINF:-1,JTBC Golf&Sports,
+http://cookies.elementfx.com/ublive/ublive.php?id=3198
+#EXTINF:-1,MBC Sports,
+http://cookies.elementfx.com/ublive/ublive.php?id=3174
+#EXTINF:-1,SBS Sports,
+http://cookies.elementfx.com/ublive/ublive.php?id=3199
+#EXTINF:-1,SPOTV2
+http://cookies.elementfx.com/ublive/ublive.php?id=250
+#EXTINF:-1,KBS N SPORTS
+http://cookies.elementfx.com/ublive/ublive.php?id=174
+#EXTINF:-1,바둑TV
+http://cookies.elementfx.com/ublive/ublive.php?id=2906
+#EXTINF:-1,tvN SPORTS
+http://cookies.elementfx.com/ublive/ublive.php?id=2931
+#EXTINF:-1,Smithsonian,
+http://cookies.elementfx.com/ublive/ublive.php?id=2934
+#EXTINF:-1,CPBC
+http://cookies.elementfx.com/ublive/ublive.php?id=3083
+#EXTINF:-1,KBS2
+http://cookies.elementfx.com/ublive/ublive.php?id=3075
+#EXTINF:-1,CGNTV GW,
+http://cookies.elementfx.com/ublive/ublive.php?id=2911
+#EXTINF:-1,Discovery,
+http://cookies.elementfx.com/ublive/ublive.php?id=3196
+http://live-114.myjktv.com/watch/live.m3u8?video=ytn_540&sid=iLKwXUVd0NFFlw20sFo0BJaHOzXoDiw1zo5S1LPr&secret=45fb3b719eb4afeb0fa9ecf6730297f6&time=1736162396
+#EXTINF:-1,FISHING TV
+http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8?WithCaption
