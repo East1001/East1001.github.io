@@ -44,8 +44,8 @@ http://mytv.dothome.co.kr/ch/catv/3.php/.m3u8
 #EXTINF:-1 group-title="KBS", KBS JOY.
 http://mytv.dothome.co.kr/ch/catv/3.php
 
-#EXTINF:-1 group-title="MBC", MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="MBC", MBC(U+)
+http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="MBC", MBC.
 http://www.hwado.net/webtv/public/21_573058EB.php/.m3u8
 #EXTINF:-1 group-title="MBC", MBC(DB U+)
@@ -96,8 +96,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire
 #EXTINF:-1 group-title="YTN", YTN사이언스
 https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1737132854&ei=1jaKZ_6VGKC3s8IP6qOiqQc&ip=2a09%3Abac5%3A4735%3A1482%3A%3A20b%3A36&id=xfFa_kcPnCY.5&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&hfr=1&playlist_duration=30&manifest_duration=30&maudio=1&bui=AY2Et-OI-w6xWHE9fJqnI7b-r_xamAwHI37GrJ2QEunIhS3LfqaNh-tLLTiTp4x6siRuaC3FcfEEC_Dc&spc=9kzgDYdVNWyYr-Ku2PzJsrjjAhZjkHXdabQWbq60UIuj0lxTZGQS&vprv=1&go=1&rqh=5&pacing=0&nvgoi=1&keepalive=yes&fexp=51326932%2C51335594%2C51353498%2C51371294%2C51384461&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type&sig=AJfQdSswRQIga0pd8cp92beB-Ysqj7ffwqaK7AlLFhIO_SVmbJ9SPdECIQD6YhkCr2Y1TFe5pEwVtLlAlWu1XfNm1roX9sRHEy_VsA%3D%3D&cpn=KiJl7LyIn8sJ6PsN&ibw=1369843&c=WEB_EMBEDDED_PLAYER&cver=1.20250113.00.00.efe&ptk=youtube_single&oid=kefY8_T19ln6zsgXWsmv0g&ptchn=ZdBJIbJz0P9xyFipgOj1fA&pltype=contentlive
 
-#EXTINF:-1 group-title="JTBC", JTBC
-https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE1NjUwOX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=f5bC6GZdpbjj6tByQTrBJZVhEzZ9HHp1lbLh9Stojy45M0SVKE8-aQNv9D83SqTga5bVhB~yArwT63KAXKse-CVPCRpxW1uMUm5dWvd4BPaWa7REeb7KqGeW~6905wSsgytOs~Rd1TVmc~yw4viDDFXWZmZD6VdnJTN9ipSKdkc_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+#EXTINF:-1 group-title="JTBC", JTBC(U+)
+http://1.214.67.206/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="JTBC", JTBC.
 https://d33dnwdrem45c6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l8gu6be61eypf/FC00000003.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=KRBC46000173Y
 #EXTINF:-1 group-title="연합뉴스", 연합뉴스TV.
