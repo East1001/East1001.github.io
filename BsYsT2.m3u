@@ -72,7 +72,7 @@ http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/defau
 http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 ,CCTV-1高清
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+https://raw.githubusercontent.com/East1001/East1001.github.io/refs/heads/main/BsYsT1.m3u
 #EXTINF:-1 ,CCTV-2高清
 http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 ,CCTV-3高清
