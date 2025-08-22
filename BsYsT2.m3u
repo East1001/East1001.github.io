@@ -72,30 +72,36 @@ http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/defau
 http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 
 #EXTINF:-1 ,CCTV-1高清
-https://raw.githubusercontent.com/East1001/East1001.github.io/refs/heads/main/BsYsT1.m3u
+http://111.43.126.240:9003/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-2高清
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+http://111.43.126.240:9003/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV-3高清
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+http://111.43.126.240:9003/hls/15/index.m3u8
 #EXTINF:-1 ,CCTV-4高清
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+http://111.43.126.240:9003/hls/16/index.m3u8
 #EXTINF:-1 ,CCTV-5高清
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+http://111.43.126.240:9003/hls/17/index.m3u8
 #EXTINF:-1 ,CCTV6-高清
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+http://111.43.126.240:9003/hls/18/index.m3u8
 #EXTINF:-1 ,CCTV7-高清
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+http://111.43.126.240:9003/hls/19/index.m3u8
 #EXTINF:-1 ,CCTV8-高清
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+http://111.43.126.240:9003/hls/20/index.m3u8
 #EXTINF:-1 ,CCTV9-高清
-http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+http://111.43.126.240:9003/hls/21/index.m3u8
 #EXTINF:-1 ,CCTV10-高清
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+http://111.43.126.240:9003/hls/22/index.m3u8
 #EXTINF:-1 ,CCTV11-高清
-http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+http://111.43.126.240:9003/hls23/index.m3u8
 #EXTINF:-1 ,CCTV12-高清
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+http://111.43.126.240:9003/hls/24/index.m3u8
 #EXTINF:-1 ,CCTV13-高清
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+http://111.43.126.240:9003/hls/25/index.m3u8
 #EXTINF:-1 ,CCTV14-高清
-http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+http://111.43.126.240:9003/hls/26/index.m3u8
+#EXTINF:-1 ,CCTV15-高清
+http://111.43.126.240:9003/hls/27/index.m3u8
+#EXTINF:-1 ,CCTV16-高清
+http://111.43.126.240:9003/hls/28/index.m3u8
+#EXTINF:-1 ,CCTV17-高清
+http://111.43.126.240:9003/hls/29/index.m3u8
