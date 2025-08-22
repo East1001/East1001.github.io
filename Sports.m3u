@@ -89,3 +89,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
 #EXTINF:-1 group-title="World Sport🌍", ESPN2
 http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/19155/index.m3u8
+#EXTINF:-1 group-title="World Sport🌍", ESPN1
+
+#EXTINF:-1 group-title="World Sport🌍", TNT Sports
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+
+
