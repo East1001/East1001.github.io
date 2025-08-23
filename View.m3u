@@ -1,33 +1,40 @@
 #EXTM3U
 #EXTINF:-1, 북한산
-http://220.70.164.229/hls/bukhan.m3u8
+https://live.knps.or.kr/cctv/hls/bukhan.m3u8
 #EXTINF:-1, 사패산
-http://220.70.164.229/hls/sapesan.m3u8
+https://live.knps.or.kr/cctv/hls/sapesan.m3u8
 #EXTINF:-1, 지리산
-http://220.70.164.229/hls/jirisan.m3u8
+https://live.knps.or.kr/cctv/hls/wongbong.m3u8
+#EXTINF:-1, 지리산(장터목)
+https://live.knps.or.kr/cctv/hls/zjangteo.m3u8
 #EXTINF:-1, 무등산
-http://220.70.164.229/hls/jangbuljai.m3u8
+https://live.knps.or.kr/cctv/hls/jangbuljai.m3u8
 #EXTINF:-1, 치악산
-http://220.70.164.229/hls/sangwonsa.m3u8
+https://live.knps.or.kr/cctv/hls/sangwonsa.m3u8
 #EXTINF:-1, 소백산
-http://220.70.164.229/hls/sobak.m3u8
+https://live.knps.or.kr/cctv/hls/sobak.m3u8
 #EXTINF:-1, 덕유산
-http://muju.live.cdn.cloudn.co.kr/mujuresort/_definst_/cam07.stream/playlist.m3u8
-http://220.70.164.229/hls/bukhan.m3u8
+https://live.knps.or.kr/cctv/hls/zsulchun.m3u8
 #EXTINF:-1, 울산바위
-http://220.70.164.229/hls/solak.m3u8
+https://live.knps.or.kr/cctv/hls/solak.m3u8
 #EXTINF:-1, 대청봉
 http://220.70.164.229/hls/zjungchung.m3u8
 #EXTINF:-1, 오대산두로령
-http://220.70.164.229/hls/zduro.m3u8
+https://live.knps.or.kr/cctv/hls/zduro.m3u8
 #EXTINF:-1, 태백산
-http://220.70.164.229/hls/zchunje.m3u8
+https://live.knps.or.kr/cctv/hls/zchunje.m3u8
+#EXTINF:-1, 계룡산
+https://live.knps.or.kr/cctv/hls/sinsungbong.m3u8
 #EXTINF:-1, 주왕산
-http://220.70.164.229/hls/zjulje.m3u8
+https://live.knps.or.kr/cctv/hls/zjulje.m3u8
 #EXTINF:-1, 백록담
 http://119.65.216.155:1935/live/cctv01.stream_360p/playlist.m3u8
 #EXTINF:-1, 한려해상
-http://220.70.164.229/hls/gaksan.m3u8
+https://live.knps.or.kr/cctv/hls/gaksan.m3u8
+#EXTINF:-1, 태안해안국립공원
+https://live.knps.or.kr/cctv/hls/hakampo.m3u8
+#EXTINF:-1, 변산반도국립공원
+https://live.knps.or.kr/cctv/hls/jukmak.m3u8
 #EXTINF:-1, 독도
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
 #EXTINF:-1, 울릉도
