@@ -1,254 +1,224 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
-http://111.43.126.240:9003/hls/13/index.m3u8
+http://171.120.248.199:9003/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV-2
-http://111.43.126.240:9003/hls/14/index.m3u8
+http://171.120.248.199:9003/hls/2/index.m3u8
 #EXTINF:-1 ,CCTV-3
-http://111.43.126.240:9003/hls/15/index.m3u8
+http://171.120.248.199:9003/hls/3/index.m3u8
 #EXTINF:-1 ,CCTV-4
-http://111.43.126.240:9003/hls/16/index.m3u8
+http://171.120.248.199:9003/hls/4/index.m3u8
 #EXTINF:-1 ,CCTV-5
-http://111.43.126.240:9003/hls/17/index.m3u8
+http://171.120.248.199:9003/hls/5/index.m3u8
 #EXTINF:-1 ,CCTV-5+
-http://111.43.126.240:9003/hls/18/index.m3u8
+http://171.120.248.199:9003/hls/6/index.m3u8
 #EXTINF:-1 ,CCTV-6
-http://111.43.126.240:9003/hls/19/index.m3u8
+http://171.120.248.199:9003/hls/7/index.m3u8
 #EXTINF:-1 ,CCTV-7
-http://111.43.126.240:9003/hls/20/index.m3u8
+http://171.120.248.199:9003/hls/8/index.m3u8
 #EXTINF:-1 ,CCTV-8
-http://111.43.126.240:9003/hls/21/index.m3u8
+http://171.120.248.199:9003/hls/9/index.m3u8
 #EXTINF:-1 ,CCTV-9
-http://111.43.126.240:9003/hls/22/index.m3u8
+http://171.120.248.199:9003/hls/10/index.m3u8
 #EXTINF:-1 ,CCTV-10
-http://111.43.126.240:9003/hls/23/index.m3u8
+http://171.120.248.199:9003/hls/11/index.m3u8
 #EXTINF:-1 ,CCTV-11
-http://111.43.126.240:9003/hls/24/index.m3u8
+http://171.120.248.199:9003/hls/12/index.m3u8
 #EXTINF:-1 ,CCTV-12
-http://111.43.126.240:9003/hls/25/index.m3u8
+http://171.120.248.199:9003/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-13
-http://111.43.126.240:9003/hls/26/index.m3u8
+http://171.120.248.199:9003/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV-14
-http://111.43.126.240:9003/hls/27/index.m3u8
+http://171.120.248.199:9003/hls/15/index.m3u8
 #EXTINF:-1 ,CCTV-15
-http://111.43.126.240:9003/hls/28/index.m3u8
+http://171.120.248.199:9003/hls/16/index.m3u8
 #EXTINF:-1 ,CCTV-16
-http://111.43.126.240:9003/hls/29/index.m3u8
+http://171.120.248.199:9003/hls/17/index.m3u8
 #EXTINF:-1 ,CCTV-17
-http://111.43.126.240:9003/hls/30/index.m3u8
-#EXTINF:-1 ,HBO2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 ,19
-http://139.209.168.41:9003/hls/21/index.m3u8
-#EXTINF:-1 ,20
-http://139.209.168.41:9003/hls/30/index.m3u8
-#EXTINF:-1 ,21
-http://139.209.168.41:9003/hls/31/index.m3u8
-#EXTINF:-1 ,22
-http://139.209.168.41:9003/hls/32/index.m3u8
-#EXTINF:-1 ,23
-http://139.209.168.41:9003/hls/33/index.m3u8
-#EXTINF:-1 ,24
-http://139.209.168.41:9003/hls/34/index.m3u8
-#EXTINF:-1 ,25
-http://139.209.168.41:9003/hls/35/index.m3u8
-#EXTINF:-1 ,26
-http://139.209.168.41:9003/hls/36/index.m3u8
-#EXTINF:-1 ,27
-http://139.209.168.41:9003/hls/37/index.m3u8
-#EXTINF:-1 ,28
-http://139.209.168.41:9003/hls/38/index.m3u8
-#EXTINF:-1 ,29
-http://139.209.168.41:9003/hls/39/index.m3u8
-#EXTINF:-1 ,30
-http://139.209.168.41:9003/hls/40/index.m3u8
-#EXTINF:-1 ,31
-http://139.209.168.41:9003/hls/41/index.m3u8
-#EXTINF:-1 ,32
-http://139.209.168.41:9003/hls/42/index.m3u8
-#EXTINF:-1 ,33
-http://139.209.168.41:9003/hls/43/index.m3u8
-#EXTINF:-1 ,34
-http://139.209.168.41:9003/hls/44/index.m3u8
-#EXTINF:-1 ,35
-http://139.209.168.41:9003/hls/45/index.m3u8
-#EXTINF:-1 ,36
-http://139.209.168.41:9003/hls/46/index.m3u8
-#EXTINF:-1 ,37
-http://139.209.168.41:9003/hls/47/index.m3u8
-#EXTINF:-1 ,38
-http://139.209.168.41:9003/hls/48/index.m3u8
-#EXTINF:-1 ,39
-http://139.209.168.41:9003/hls/49/index.m3u8
-#EXTINF:-1 ,40
-http://139.209.168.41:9003/hls/50/index.m3u8
-#EXTINF:-1 ,41
-http://139.209.168.41:9003/hls/51/index.m3u8
-#EXTINF:-1 ,42
-http://139.209.168.41:9003/hls/52/index.m3u8
-#EXTINF:-1 ,43
-http://139.209.168.41:9003/hls/53/index.m3u8
-#EXTINF:-1 ,44
-http://139.209.168.41:9003/hls/54/index.m3u8
-#EXTINF:-1 ,45
-http://139.209.168.41:9003/hls/55/index.m3u8
-#EXTINF:-1 ,46
-http://139.209.168.41:9003/hls/56/index.m3u8
-#EXTINF:-1 ,47
-http://139.209.168.41:9003/hls/57/index.m3u8
-#EXTINF:-1 ,48
-http://139.209.168.41:9003/hls/58/index.m3u8
-#EXTINF:-1 ,49
-http://139.209.168.41:9003/hls/59/index.m3u8
-#EXTINF:-1 ,50
-http://139.209.168.41:9003/hls/60/index.m3u8
-#EXTINF:-1 ,51
-http://139.209.168.41:9003/hls/61/index.m3u8
-#EXTINF:-1 ,52
-http://139.209.168.41:9003/hls/62/index.m3u8
-#EXTINF:-1 ,53
-http://139.209.168.41:9003/hls/63/index.m3u8
-#EXTINF:-1 ,54
-http://139.209.168.41:9003/hls/64/index.m3u8
-#EXTINF:-1 ,55
-http://139.209.168.41:9003/hls/65/index.m3u8
-#EXTINF:-1 ,56
-http://139.209.168.41:9003/hls/66/index.m3u8
-#EXTINF:-1 ,57
-http://139.209.168.41:9003/hls/67/index.m3u8
-#EXTINF:-1 ,58
-http://139.209.168.41:9003/hls/68/index.m3u8
-#EXTINF:-1 ,59
-http://139.209.168.41:9003/hls/69/index.m3u8
-#EXTINF:-1 ,60
-http://139.209.168.41:9003/hls/70/index.m3u8
-#EXTINF:-1 ,61
-http://139.209.168.41:9003/hls/71/index.m3u8
-#EXTINF:-1 ,62
-http://139.209.168.41:9003/hls/72/index.m3u8
-#EXTINF:-1 ,63
-http://139.209.168.41:9003/hls/73/index.m3u8
-#EXTINF:-1 ,64
-http://139.209.168.41:9003/hls/74/index.m3u8
-#EXTINF:-1 ,65
-http://139.209.168.41:9003/hls/75/index.m3u8
-#EXTINF:-1 ,66
-http://139.209.168.41:9003/hls/76/index.m3u8
-#EXTINF:-1 ,67
-http://139.209.168.41:9003/hls/77/index.m3u8
-#EXTINF:-1 ,68
-http://139.209.168.41:9003/hls/78/index.m3u8
-#EXTINF:-1 ,69
-http://139.209.168.41:9003/hls/79/index.m3u8
-#EXTINF:-1 ,70
-http://139.209.168.41:9003/hls/80/index.m3u8
-#EXTINF:-1 ,71
-http://139.209.168.41:9003/hls/81/index.m3u8
-#EXTINF:-1 ,72
-http://139.209.168.41:9003/hls/82/index.m3u8
-#EXTINF:-1 ,73
-http://139.209.168.41:9003/hls/83/index.m3u8
-#EXTINF:-1 ,74
-http://139.209.168.41:9003/hls/84/index.m3u8
-#EXTINF:-1 ,75
-http://139.209.168.41:9003/hls/85/index.m3u8
-#EXTINF:-1 ,76
-http://139.209.168.41:9003/hls/86/index.m3u8
-#EXTINF:-1 ,77
-http://139.209.168.41:9003/hls/87/index.m3u8
-#EXTINF:-1 ,78
-http://139.209.168.41:9003/hls/88/index.m3u8
-#EXTINF:-1 ,79
-http://139.209.168.41:9003/hls/89/index.m3u8
-#EXTINF:-1 ,80
-http://139.209.168.41:9003/hls/91/index.m3u8
-#EXTINF:-1 ,81
-http://139.209.168.41:9003/hls/92/index.m3u8
-#EXTINF:-1 ,82
-http://139.209.168.41:9003/hls/93/index.m3u8
-#EXTINF:-1 ,83
-http://139.209.168.41:9003/hls/94/index.m3u8
-#EXTINF:-1 ,84
-http://139.209.168.41:9003/hls/95/index.m3u8
-#EXTINF:-1 ,85
-http://139.209.168.41:9003/hls/96/index.m3u8
-#EXTINF:-1 ,86
-http://139.209.168.41:9003/hls/97/index.m3u8
-#EXTINF:-1 ,87
-http://139.209.168.41:9003/hls/98/index.m3u8
-#EXTINF:-1 ,88
-http://139.209.168.41:9003/hls/99/index.m3u8
-#EXTINF:-1 ,89
-http://139.209.168.41:9003/hls/100/index.m3u8
+http://171.120.248.199:9003/hls/18/index.m3u8
 
+#EXTINF:-1 ,18
+http://171.120.248.199:9003/hls/19/index.m3u8
+#EXTINF:-1 ,19
+http://171.120.248.199:9003/hls/20/index.m3u8
+#EXTINF:-1 ,20
+http://171.120.248.199:9003/hls/21/index.m3u8
+#EXTINF:-1 ,21
+http://171.120.248.199:9003/hls/22/index.m3u8
+#EXTINF:-1 ,22
+http://171.120.248.199:9003/hls/23/index.m3u8
+#EXTINF:-1 ,23
+http://171.120.248.199:9003/hls/24/index.m3u8
+#EXTINF:-1 ,24
+http://171.120.248.199:9003/hls/25/index.m3u8
+#EXTINF:-1 ,25
+http://171.120.248.199:9003/hls/26/index.m3u8
+#EXTINF:-1 ,26
+http://171.120.248.199:9003/hls/27/index.m3u8
+#EXTINF:-1 ,27
+http://171.120.248.199:9003/hls/28/index.m3u8
+#EXTINF:-1 ,28
+http://171.120.248.199:9003/hls/29/index.m3u8
+#EXTINF:-1 ,29
+http://171.120.248.199:9003/hls/30/index.m3u8
+#EXTINF:-1 ,30
+http://171.120.248.199:9003/hls/31/index.m3u8
+#EXTINF:-1 ,31
+http://171.120.248.199:9003/hls/32/index.m3u8
+#EXTINF:-1 ,32
+http://171.120.248.199:9003/hls/33/index.m3u8
+#EXTINF:-1 ,33
+http://171.120.248.199:9003/hls/34/index.m3u8
+#EXTINF:-1 ,34
+http://171.120.248.199:9003/hls/35/index.m3u8
+#EXTINF:-1 ,35
+http://171.120.248.199:9003/hls/36/index.m3u8
+#EXTINF:-1 ,36
+http://171.120.248.199:9003/hls/37/index.m3u8
+#EXTINF:-1 ,37
+http://171.120.248.199:9003/hls/38/index.m3u8
+#EXTINF:-1 ,38
+http://171.120.248.199:9003/hls/39/index.m3u8
+#EXTINF:-1 ,39
+http://171.120.248.199:9003/hls/40/index.m3u8
+#EXTINF:-1 ,40
+http://171.120.248.199:9003/hls/41/index.m3u8
+#EXTINF:-1 ,41
+http://171.120.248.199:9003/hls/42/index.m3u8
+#EXTINF:-1 ,42
+http://171.120.248.199:9003/hls/43/index.m3u8
+#EXTINF:-1 ,43
+http://171.120.248.199:9003/hls/44/index.m3u8
+#EXTINF:-1 ,44
+http://171.120.248.199:9003/hls/45/index.m3u8
+#EXTINF:-1 ,45
+http://171.120.248.199:9003/hls/46/index.m3u8
+#EXTINF:-1 ,46
+http://171.120.248.199:9003/hls/47/index.m3u8
+#EXTINF:-1 ,47
+http://171.120.248.199:9003/hls/48/index.m3u8
+#EXTINF:-1 ,48
+http://171.120.248.199:9003/hls/49/index.m3u8
+#EXTINF:-1 ,49
+http://171.120.248.199:9003/hls/50/index.m3u8
+#EXTINF:-1 ,50
+http://171.120.248.199:9003/hls/51/index.m3u8
+#EXTINF:-1 ,51
+http://171.120.248.199:9003/hls/52/index.m3u8
+#EXTINF:-1 ,52
+http://171.120.248.199:9003/hls/53/index.m3u8
+#EXTINF:-1 ,53
+http://171.120.248.199:9003/hls/54/index.m3u8
+#EXTINF:-1 ,54
+http://171.120.248.199:9003/hls/55/index.m3u8
+#EXTINF:-1 ,55
+http://171.120.248.199:9003/hls/56/index.m3u8
+#EXTINF:-1 ,56
+http://171.120.248.199:9003/hls/57/index.m3u8
+#EXTINF:-1 ,57
+http://171.120.248.199:9003/hls/58/index.m3u8
+#EXTINF:-1 ,58
+http://171.120.248.199:9003/hls/59/index.m3u8
+#EXTINF:-1 ,59
+http://171.120.248.199:9003/hls/60/index.m3u8
+#EXTINF:-1 ,60
+http://171.120.248.199:9003/hls/61/index.m3u8
+#EXTINF:-1 ,61
+http://171.120.248.199:9003/hls/62/index.m3u8
+#EXTINF:-1 ,62
+http://171.120.248.199:9003/hls/63/index.m3u8
+#EXTINF:-1 ,63
+http://171.120.248.199:9003/hls/64/index.m3u8
+#EXTINF:-1 ,64
+http://171.120.248.199:9003/hls/65/index.m3u8
+#EXTINF:-1 ,65
+http://171.120.248.199:9003/hls/66/index.m3u8
+#EXTINF:-1 ,66
+http://171.120.248.199:9003/hls/67/index.m3u8
+#EXTINF:-1 ,67
+http://171.120.248.199:9003/hls/68/index.m3u8
+#EXTINF:-1 ,68
+http://171.120.248.199:9003/hls/69/index.m3u8
+#EXTINF:-1 ,69
+http://171.120.248.199:9003/hls/70/index.m3u8
+#EXTINF:-1 ,70
+http://171.120.248.199:9003/hls/71/index.m3u8
+#EXTINF:-1 ,71
+http://171.120.248.199:9003/hls/72/index.m3u8
+#EXTINF:-1 ,72
+http://171.120.248.199:9003/hls/73/index.m3u8
+#EXTINF:-1 ,73
+http://171.120.248.199:9003/hls/74/index.m3u8
+#EXTINF:-1 ,74
+http://171.120.248.199:9003/hls/75/index.m3u8
+#EXTINF:-1 ,75
+http://171.120.248.199:9003/hls/76/index.m3u8
+#EXTINF:-1 ,76
+http://171.120.248.199:9003/hls/77/index.m3u8
+#EXTINF:-1 ,77
+http://171.120.248.199:9003/hls/78/index.m3u8
+#EXTINF:-1 ,78
+http://171.120.248.199:9003/hls/79/index.m3u8
+#EXTINF:-1 ,79
+http://171.120.248.199:9003/hls/80/index.m3u8
+#EXTINF:-1 ,80
+http://171.120.248.199:9003/hls/81/index.m3u8
+#EXTINF:-1 ,81
+http://171.120.248.199:9003/hls/82/index.m3u8
+#EXTINF:-1 ,82
+http://171.120.248.199:9003/hls/83/index.m3u8
+#EXTINF:-1 ,83
+http://171.120.248.199:9003/hls/84/index.m3u8
+#EXTINF:-1 ,84
+http://171.120.248.199:9003/hls/85/index.m3u8
+#EXTINF:-1 ,85
+http://171.120.248.199:9003/hls/86/index.m3u8
+#EXTINF:-1 ,86
+http://171.120.248.199:9003/hls/87/index.m3u8
+#EXTINF:-1 ,87
+http://171.120.248.199:9003/hls/88/index.m3u8
+#EXTINF:-1 ,88
+http://171.120.248.199:9003/hls/89/index.m3u8
+#EXTINF:-1 ,89
+http://171.120.248.199:9003/hls/90/index.m3u8
 #EXTINF:-1 ,90
-http://110.178.210.119:9003/hls/91/index.m3u8
+http://171.120.248.199:9003/hls/91/index.m3u8
 #EXTINF:-1 ,91
-http://110.178.210.119:9003/hls/92/index.m3u8
+http://171.120.248.199:9003/hls/92/index.m3u8
 #EXTINF:-1 ,92
-http://110.178.210.119:9003/hls/93/index.m3u8
+http://171.120.248.199:9003/hls/93/index.m3u8
 #EXTINF:-1 ,93
-http://110.178.210.119:9003/hls/94/index.m3u8
+http://171.120.248.199:9003/hls/94/index.m3u8
 #EXTINF:-1 ,94
-http://110.178.210.119:9003/hls/95/index.m3u8
+http://171.120.248.199:9003/hls/95/index.m3u8
 #EXTINF:-1 ,95
-http://110.178.210.119:9003/hls/96/index.m3u8
+http://171.120.248.199:9003/hls/96/index.m3u8
 #EXTINF:-1 ,96
-http://110.178.210.119:9003/hls/97/index.m3u8
+http://171.120.248.199:9003/hls/97/index.m3u8
 #EXTINF:-1 ,97
-http://110.178.210.119:9003/hls/98/index.m3u8
+http://171.120.248.199:9003/hls/98/index.m3u8
 #EXTINF:-1 ,98
-http://110.178.210.119:9003/hls/99/index.m3u8
+http://171.120.248.199:9003/hls/99/index.m3u8
 #EXTINF:-1 ,99
-http://110.178.210.119:9003/hls/100/index.m3u8
+http://171.120.248.199:9003/hls/100/index.m3u8
 #EXTINF:-1 ,100
-http://110.178.210.119:9003/hls/101/index.m3u8
+http://171.120.248.199:9003/hls/101/index.m3u8
 #EXTINF:-1 ,101
-http://110.178.210.119:9003/hls/102/index.m3u8
+http://171.120.248.199:9003/hls/102/index.m3u8
 #EXTINF:-1 ,102
-http://110.178.210.119:9003/hls/103/index.m3u8
+http://171.120.248.199:9003/hls/103/index.m3u8
 #EXTINF:-1 ,103
-http://110.178.210.119:9003/hls/104/index.m3u8
+http://171.120.248.199:9003/hls/104/index.m3u8
 #EXTINF:-1 ,104
-http://110.178.210.119:9003/hls/105/index.m3u8
+http://171.120.248.199:9003/hls/105/index.m3u8
 #EXTINF:-1 ,105
-http://110.178.210.119:9003/hls/106/index.m3u8
+http://171.120.248.199:9003/hls/106/index.m3u8
 #EXTINF:-1 ,106
-http://110.178.210.119:9003/hls/107/index.m3u8
+http://171.120.248.199:9003/hls/107/index.m3u8
 #EXTINF:-1 ,107
-http://110.178.210.119:9003/hls/108/index.m3u8
+http://171.120.248.199:9003/hls/108/index.m3u8
 #EXTINF:-1 ,108
-http://110.178.210.119:9003/hls/109/index.m3u8
+http://171.120.248.199:9003/hls/109/index.m3u8
 #EXTINF:-1 ,109
-http://110.178.210.119:9003/hls/110/index.m3u8
+http://171.120.248.199:9003/hls/110/index.m3u8
 #EXTINF:-1 ,110
-http://110.178.210.119:9003/hls/111/index.m3u8
-#EXTINF:-1 ,111
-http://110.178.210.119:9003/hls/112/index.m3u8
-#EXTINF:-1 ,112
-http://110.178.210.119:9003/hls/113/index.m3u8
-#EXTINF:-1 ,113
-http://110.178.210.119:9003/hls/114/index.m3u8
-#EXTINF:-1 ,114
-http://110.178.210.119:9003/hls/115/index.m3u8
-#EXTINF:-1 ,115
-http://110.178.210.119:9003/hls/116/index.m3u8
-#EXTINF:-1 ,116
-http://110.178.210.119:9003/hls/117/index.m3u8
-#EXTINF:-1 ,117
-http://110.178.210.119:9003/hls/118/index.m3u8
-#EXTINF:-1 ,118
-http://110.178.210.119:9003/hls/119/index.m3u8
-#EXTINF:-1 ,119
-http://110.178.210.119:9003/hls/120/index.m3u8
-#EXTINF:-1 ,120
-http://110.178.210.119:9003/hls/121/index.m3u8
-#EXTINF:-1 ,121
-http://110.178.210.119:9003/hls/122/index.m3u8
-#EXTINF:-1 ,122
-http://110.178.210.119:9003/hls/123/index.m3u8
-#EXTINF:-1 ,123
-http://110.178.210.119:9003/hls/124/index.m3u8
-#EXTINF:-1 ,124
-http://110.178.210.119:9003/hls/125/index.m3u8
-#EXTINF:-1 ,125
-http://110.178.210.119:9003/hls/126/index.m3u8
+http://171.120.248.199:9003/hls/111/index.m3u8
