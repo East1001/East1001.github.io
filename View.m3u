@@ -1,3 +1,70 @@
+#EXTM3U
+#EXTINF:-1, 북한산
+http://220.70.164.229/hls/bukhan.m3u8
+#EXTINF:-1, 사패산
+http://220.70.164.229/hls/sapesan.m3u8
+#EXTINF:-1, 지리산
+http://220.70.164.229/hls/jirisan.m3u8
+#EXTINF:-1, 무등산
+http://220.70.164.229/hls/jangbuljai.m3u8
+#EXTINF:-1, 치악산
+http://220.70.164.229/hls/sangwonsa.m3u8
+#EXTINF:-1, 소백산
+http://220.70.164.229/hls/sobak.m3u8
+#EXTINF:-1, 덕유산
+http://muju.live.cdn.cloudn.co.kr/mujuresort/_definst_/cam07.stream/playlist.m3u8
+http://220.70.164.229/hls/bukhan.m3u8
+#EXTINF:-1, 울산바위
+http://220.70.164.229/hls/solak.m3u8
+#EXTINF:-1, 대청봉
+http://220.70.164.229/hls/zjungchung.m3u8
+#EXTINF:-1, 오대산두로령
+http://220.70.164.229/hls/zduro.m3u8
+#EXTINF:-1, 태백산
+http://220.70.164.229/hls/zchunje.m3u8
+#EXTINF:-1, 주왕산
+http://220.70.164.229/hls/zjulje.m3u8
+#EXTINF:-1, 백록담
+http://119.65.216.155:1935/live/cctv01.stream_360p/playlist.m3u8
+#EXTINF:-1, 한려해상
+http://220.70.164.229/hls/gaksan.m3u8
+#EXTINF:-1, 독도
+http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
+#EXTINF:-1, 울릉도
+http://211.224.130.20:1935/live/dodong.stream/playlist.m3u8
+#EXTINF:-1, 이어도
+https://cctvsec1.ktict.co.kr:8082/live188/32000/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjIgNDo0OToxMCBBTSZoYXNoX3ZhbHVlPSt0WXZndnZzWjFwNTJMOEpmL3hYS3c9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:-1, 제주 마라도
+https://cctvsec1.ktict.co.kr:8082/livekbs/9982/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjIgNDozNTozNSBBTSZoYXNoX3ZhbHVlPThXejNOVXUyendRMjJSRkRNbUhlREE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:-1, 제주 도두항
+http://211.114.96.121:1935/jejusi6/11-13.stream/playlist.m3u8
+#EXTINF:-1, 제주 곽지해수욕장
+http://211.114.96.121:1935/jejusi6/11-16.stream/playlist.m3u8
+#EXTINF:-1, 제주 서귀포항
+http://59.8.86.15:1935/live/53.stream/playlist.m3u8
+#EXTINF:-1, 서귀포 중문해수욕장
+http://59.8.86.15:1935/live/59.stream/playlist.m3u8
+#EXTINF:-1, 제주우도 천진항 
+http://211.114.96.121:1935/jejusi7/11-24.stream/playlist.m3u8
+#EXTINF:-1, 제주 하우목동항
+http://211.114.96.121:1935/jejusi6/11-23.stream/playlist.m3u8
+#EXTINF:-1, 전남 목포
+https://itslive.mokpo.go.kr/live/WCAM0090.stream/playlist.m3u8
+#EXTINF:-1, 다도해
+http://220.70.164.229/cctv/hls/jodo.m3u8
+#EXTINF:-1, 여수
+https://itsstream.yeosu.go.kr/live/camera45.stream/playlist.m3u8
+#EXTINF:-1, 여수 화양대교 
+https://itsstream.yeosu.go.kr/live/camera56.stream/playlist.m3u8
+#EXTINF:-1, 경남 창원 
+http://utis.changwon.go.kr/traffic/info/cctvView?url=http://210.95.69.140:1935/live/video110.stream/playlist.m3u8&title=시설전대삼거리
+#EXTINF:-1, 거제 해수욕장
+https://5fc0975374737.streamlock.net/live/video44.stream/playlist.m3u8
+#EXTINF:-1, 부산 해운대
+http://61.43.246.225:1935/rtplive/cctv_86.stream/playlist.m3u8
+#EXTINF:-1, 부산 광안대교
+http://61.43.246.226:1935/rtplive/cctv_180.stream/playlist.m3u8
+
 #EXTINF:-1 ,全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,黟县宏村南湖
