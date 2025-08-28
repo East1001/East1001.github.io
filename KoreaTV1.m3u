@@ -111,11 +111,9 @@ http://1.214.67.206/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 #EXTINF:-1 group-title="TV조선", TV조선(KORTV)
 http://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 #EXTINF:-1 group-title="채널A", 채널A
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NTY0ODIxNTJ9.8WFnMMYgELtGbbV5usW3dT5JVaeHw3mdS9FDd6RffW8
 #EXTINF:-1 group-title="채널A", 채널A.
 https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzcxODU0NTV9.XUDIR08ErEF_OqOP6VH-r1ONO3CNmXZhhQ5G6xCwthw
-#EXTINF:-1 group-title="채널A", 채널A..
-https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzcxODQ2Nzd9.c7CFxVfWbJVNU9TebmNwJzzYnkQdpZYRASMcsvhakXk
 #EXTINF:-1 group-title="tvN", tvN
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 #EXTINF:-1 group-title="MBN", MBN
