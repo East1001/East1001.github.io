@@ -38,17 +38,19 @@ https://live.knps.or.kr/cctv/hls/jukmak.m3u8
 #EXTINF:-1, 독도
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
 #EXTINF:-1, 울릉도
-http://211.224.130.20:1935/live/dodong.stream/playlist.m3u8
+https://kbscctv-cache.loomex.net/lowStream/_definst_/9987_low.stream/playlist.m3u8
 #EXTINF:-1, 이어도
 https://cctvsec1.ktict.co.kr:8082/live188/32000/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjIgNDo0OToxMCBBTSZoYXNoX3ZhbHVlPSt0WXZndnZzWjFwNTJMOEpmL3hYS3c9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1, 제주 마라도
-https://cctvsec1.ktict.co.kr:8082/livekbs/9982/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjIgNDozNTozNSBBTSZoYXNoX3ZhbHVlPThXejNOVXUyendRMjJSRkRNbUhlREE9PSZ2YWxpZG1pbnV0ZXM9MTIw
-#EXTINF:-1, 제주 도두항
-http://211.114.96.121:1935/jejusi6/11-13.stream/playlist.m3u8
+https://kbscctv-cache.loomex.net/lowStream/_definst_/9982_low.stream/playlist.m3u8
+#EXTINF:-1, 제주공항
+http://123.140.197.51/stream/33/play.m3u8
+#EXTINF:-1, 제주 성산일출봉
+http://123.140.197.51/stream/34/play.m3u8
 #EXTINF:-1, 제주 곽지해수욕장
 http://211.114.96.121:1935/jejusi6/11-16.stream/playlist.m3u8
 #EXTINF:-1, 제주 서귀포항
-http://59.8.86.15:1935/live/53.stream/playlist.m3u8
+http://123.140.197.51/stream/35/play.m3u8
 #EXTINF:-1, 서귀포 중문해수욕장
 http://59.8.86.15:1935/live/59.stream/playlist.m3u8
 #EXTINF:-1, 제주우도 천진항 
