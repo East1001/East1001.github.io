@@ -37,41 +37,41 @@ http://221.205.204.69:9003/hls/17/index.m3u8
 http://221.205.204.69:9003/hls/18/index.m3u8
 
 #EXTINF:-1 ,CCTV-1
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV-2
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/2/index.m3u8
 #EXTINF:-1 ,CCTV-3
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/3/index.m3u8
 #EXTINF:-1 ,CCTV-4
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/4/index.m3u8
 #EXTINF:-1 ,CCTV-5
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/5/index.m3u8
 #EXTINF:-1 ,CCTV-5+
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/6/index.m3u8
 #EXTINF:-1 ,CCTV-6
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/7/index.m3u8
 #EXTINF:-1 ,CCTV-7
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/8/index.m3u8
 #EXTINF:-1 ,CCTV-8
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/9/index.m3u8
 #EXTINF:-1 ,CCTV-9
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/10/index.m3u8
 #EXTINF:-1 ,CCTV-10
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/11/index.m3u8
 #EXTINF:-1 ,CCTV-11
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/12/index.m3u8
 #EXTINF:-1 ,CCTV-12
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/13/index.m3u8
 #EXTINF:-1 ,CCTV-13
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/14/index.m3u8
 #EXTINF:-1 ,CCTV-14
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/15/index.m3u8
 #EXTINF:-1 ,CCTV-15
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/16/index.m3u8
 #EXTINF:-1 ,CCTV-16
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/17/index.m3u8
 #EXTINF:-1 ,CCTV-17
-http://43.152.25.217/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+http://123.149.238.49:9003/hls/18/index.m3u8
 
 #EXTINF:-1 ,CCTV-1高清
 http://111.43.126.240:9003/hls/13/index.m3u8
