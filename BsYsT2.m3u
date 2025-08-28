@@ -108,5 +108,7 @@ http://111.43.126.240:9003/hls/28/index.m3u8
 #EXTINF:-1 ,CCTV17-高清
 http://111.43.126.240:9003/hls/29/index.m3u8
 
-#EXTINF:-1 ,CCTVHD
+#EXTINF:-1 ,CCTV4HD
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
+#EXTINF:-1 ,CCTV13HD
+http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
