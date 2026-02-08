@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1.
-http://221.205.204.69:9003/hls/1/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 #EXTINF:-1 ,CCTV-2.
 http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
 #EXTINF:-1 ,CCTV-3.
