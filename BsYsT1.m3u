@@ -26,15 +26,15 @@ http://69.30.245.50/live/cctv11.m3u8
 #EXTINF:-1 ,CCTV-12
 http://120.76.248.139/live/bfgd/4200000131.m3u8
 #EXTINF:-1 ,CCTV-13
-http://69.30.245.50/live/cctv13.m3u8
+http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 ,CCTV-14
-http://69.30.245.50/live/cctv14.m3u8
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 ,CCTV-15
-http://69.30.245.50/live/cctv15.m3u8
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 ,CCTV-16
-http://69.30.245.50/live/cctv16.m3u8
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 ,CCTV-17
-http://69.30.245.50/live/cctv17.m3u8
+http://74.91.26.218:82/live/cctv17hd.m3u8
 
 #EXTINF:-1 ,18
 http://171.120.248.199:9003/hls/19/index.m3u8
