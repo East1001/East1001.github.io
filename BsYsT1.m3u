@@ -11,6 +11,8 @@ http://69.30.245.50/live/cctv4.m3u8
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 ,CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 ,CCTV-7
