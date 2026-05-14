@@ -11,10 +11,6 @@ http://69.30.245.50/live/cctv4.m3u8
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://192.151.150.154/live/cctv5p.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://120.76.248.139/live/bfgd/4200000246.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 ,CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 ,CCTV-7
@@ -40,12 +36,12 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 ,CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
 
-#EXTINF:-1 ,18
-http://171.120.248.199:9003/hls/19/index.m3u8
-#EXTINF:-1 ,19
-http://171.120.248.199:9003/hls/20/index.m3u8
-#EXTINF:-1 ,20
-http://171.120.248.199:9003/hls/21/index.m3u8
+#EXTINF:-1 ,YBTV
+https://srs.iybtv.cn/video/CYS1/index.m3u8
+#EXTINF:-1 ,YBTV-1
+https://srs.iybtv.cn/video/YBTV11/index.m3u8
+#EXTINF:-1 ,YBTV-2
+https://srs.iybtv.cn/video/YBTV21/index.m3u8
 #EXTINF:-1 ,21
 http://171.120.248.199:9003/hls/22/index.m3u8
 #EXTINF:-1 ,22
