@@ -42,7 +42,7 @@ https://srs.iybtv.cn/video/CYS1/index.m3u8
 https://srs.iybtv.cn/video/YBTV11/index.m3u8
 #EXTINF:-1 ,YBTV-2
 https://srs.iybtv.cn/video/YBTV21/index.m3u8
-#EXTINF:-1 ,TVBS Asia
+#EXTINF:-1 ,TVBS
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 ,翡翠台
 http://o11.163189.xyz/stream/live/jade/
