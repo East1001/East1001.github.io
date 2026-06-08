@@ -42,8 +42,8 @@ https://srs.iybtv.cn/video/CYS1/index.m3u8
 https://srs.iybtv.cn/video/YBTV11/index.m3u8
 #EXTINF:-1 ,YBTV-2
 https://srs.iybtv.cn/video/YBTV21/index.m3u8
-#EXTINF:-1 ,21
-http://171.120.248.199:9003/hls/22/index.m3u8
+#EXTINF:-1 TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 ,22
 http://171.120.248.199:9003/hls/23/index.m3u8
 #EXTINF:-1 ,23
