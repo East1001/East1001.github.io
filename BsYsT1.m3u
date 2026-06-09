@@ -50,14 +50,14 @@ http://o11.163189.xyz/stream/live/jade/
 http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1 ,新加坡中文
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,25
-http://171.120.248.199:9003/hls/26/index.m3u8
-#EXTINF:-1 ,26
-http://171.120.248.199:9003/hls/27/index.m3u8
-#EXTINF:-1 ,27
-http://171.120.248.199:9003/hls/28/index.m3u8
-#EXTINF:-1 ,28
-http://171.120.248.199:9003/hls/29/index.m3u8
+#EXTINF:-1 ,台视新闻
+https://live3-faintv.cdn.hinet.net/live_HLS/N023.stream/playlist.m3u8?token=ibd-29KiS_UbkgJAPl-0rg&expires=1780950520
+#EXTINF:-1 ,凤凰卫视香港台
+https://live1-faintv.cdn.hinet.net/live_HLS/N111.stream/playlist.m3u8?token=XDtncgcfUCvyyKf3vMrgGw&expires=1780950785
+#EXTINF:-1 ,凤凰卫视中文台
+https://live2-faintv.cdn.hinet.net/live_HLS/NP026.stream/playlist.m3u8?token=2W9aw2c-PaKUCZrwNVDTiQ&expires=1780951082
+#EXTINF:-1 ,凤凰卫视资讯台
+https://live2-faintv.cdn.hinet.net/live_HLS/NP014.stream/playlist.m3u8?token=STemVo90egzbxQ9NgbQosg&expires=1780951177
 #EXTINF:-1 ,29
 http://171.120.248.199:9003/hls/30/index.m3u8
 #EXTINF:-1 ,30
